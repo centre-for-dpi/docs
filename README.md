@@ -1,11 +1,4 @@
----
-description: Digital Infrastructure Categories
----
+# DPI Architecture Principles
 
-# DPI Thinking
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-type="users" data-multiple></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="technical-notes/dpi-architecture-principles/interoperability.md"><mark style="color:blue;"><strong>Interoperability</strong></mark></a></td><td></td><td></td><td><a href="technical-notes/dpi-architecture-principles/interoperability.md">interoperability.md</a></td></tr><tr><td><p></p><p><a href="technical-notes/dpi-architecture-principles/minimalist-and-modular.md"><mark style="color:blue;"><strong>Minimalist &#x26; Modular</strong></mark></a></p></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td><a href="technical-notes/dpi-architecture-principles/innovation.md"><mark style="color:blue;"><strong>Innovation</strong></mark></a></td><td></td><td></td><td></td></tr><tr><td></td><td><a href="technical-notes/dpi-architecture-principles/security-and-privacy-by-design.md"><mark style="color:blue;"><strong>Security &#x26; Privacy by Design</strong></mark></a></td><td></td><td></td><td></td></tr><tr><td></td><td><a href="technical-notes/dpi-architecture-principles/decentralisation-and-asynchronicity.md"><mark style="color:blue;"><strong>Decentralisation &#x26; Asynchronicity</strong></mark></a></td><td></td><td></td><td></td></tr></tbody></table>
 
-1. [Digital IDs and Electronic Registries infra](technical-notes/digital-ids-and-electronic-registries-infra/)
-2. [Electronic Signature, PKI and Trust infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
-3. [Digital Payment network (P2P, P2M, G2P) infra](technical-notes/digital-payments-network-infra/)
-4. [Data and Credentialing infra](technical-notes/data-and-credentialing-infra.md)
-5. [Discovery & Fulfillment network infra](technical-notes/discovery-and-fulfillment-network-infra.md)
