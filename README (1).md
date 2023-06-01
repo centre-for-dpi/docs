@@ -1,10 +1,6 @@
----
-description: Digital Infrastructure Categories
----
-
 # DPI Thinking
 
-**Few common Digital Infrastructure categories to consider:**
+**Few foundational Digital Infrastructure categories to consider:**
 
 1. [Digital IDs and Electronic Registries](technical-notes/digital-ids-and-electronic-registries/)
 2. [Electronic Signature, PKI and Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
