@@ -1,8 +1,6 @@
 # Innovation
 
-## Overview
-
-### <mark style="color:blue;">What to aim for</mark>
+## Overview _(What to aim for)_
 
 Enable Diverse Innovation by the ecosystem.
 
@@ -16,9 +14,7 @@ Private Innovation can be leveraged both in building the DPI and in leveraging t
 
 Adoption and innovation should be voluntary and demand-led.
 
-## **Technical Tools**&#x20;
-
-### <mark style="color:blue;">How to achieve it</mark>
+## **Technical Tools **_**(How to achieve it)**_&#x20;
 
 * [ ] Open APIs Digital signatures (Public Key Infrastructure)
 * [ ] Digitally signed QR codes
@@ -27,9 +23,7 @@ Adoption and innovation should be voluntary and demand-led.
 * [ ] Data & other Standards
 * [ ] Multi-modal access
 
-## **Societal Outcomes**
-
-### <mark style="color:blue;">Why it matters</mark>
+## **Societal Outcomes **_**(Why it matters)**_
 
 * [ ] Inclusion
 * [ ] Scale

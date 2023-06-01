@@ -1,8 +1,6 @@
 # Security & Privacy By Design
 
-## Overview
-
-### <mark style="color:blue;">What to aim for</mark>
+## Overview _(What to aim for)_
 
 Build a ‘Trust no one architecture’ that operates on optimal ignorance - each system should know as little as possible.
 
@@ -14,9 +12,7 @@ Adopt verifiable credentials to increase trust within the system and also enable
 
 Enable structured, granular, and auditable consent artifacts and frameworks to enable sharing of personal data across systems.
 
-## **Technical Tools**&#x20;
-
-### <mark style="color:blue;">How to achieve it</mark>
+## **Technical Tools **_**(How to achieve it)**_&#x20;
 
 * [ ] Tokenisation & Masking
 * [ ] Granular electronic consent
@@ -24,9 +20,7 @@ Enable structured, granular, and auditable consent artifacts and frameworks to e
 * [ ] Digital signatures
 * [ ] Verifiable credentials
 
-## **Societal Outcomes**
-
-### <mark style="color:blue;">Why it matters</mark>
+## **Societal Outcomes **_**(Why it matters)**_
 
 * [ ] Trusted usage of the DPI
 * [ ] Cybersecurity
