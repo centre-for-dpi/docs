@@ -1,8 +1,8 @@
-# Minimalist & Modular
+# Minimalist
 
 ## Overview _(What to aim for)_
 
-Minimalist & modular building blocks, not full solutions.
+Minimalist building blocks, not full solutions.
 
 We cannot predict the future, or predict all scenarios to build a full stack, end to end digital solution. Unfortunately, a full solution approach assumes just one solution will fit everyone or just one entity/institution can build for all.&#x20;
 
