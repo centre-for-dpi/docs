@@ -1,25 +1,11 @@
-# README
+---
+description: Digital Infrastructure Categories
+---
 
-#### Centre for Digital Public Infrastructure
+# DPI Thinking
 
-#### [CDPI](https://cdpi.dev)
-
-### Technical Notes
-
-* [Terminology](broken-reference)
-* DPI Thinking
-  * [Overview](notes/dpi/terminology.md)
-  * [Design Principle](notes/dpi/design\_principles.md)
-* Mapper
-  * [Overview](notes/mapper/overview.md)
-  * [Policy Guidelines](notes/mapper/policy\_guidelines.md)
-* Data Sharing
-  * [Overview](broken-reference)
-  * [Beneficiary Registries](notes/dpi/overview.md)
-  *
-
-### Technical Specs
-
-* [Index](broken-reference)
-* Payments
-  * [QR Code](specs/payment/qr\_code/qr\_spec.md)
+1. [Digital IDs and Electronic Registries infra](technical-notes/digital-ids-and-electronic-registries-infra/)
+2. [Electronic Signature, PKI and Trust infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
+3. [Digital Payment network (P2P, P2M, G2P) infra](technical-notes/digital-payments-network-infra/)
+4. [Data and Credentialing infra](technical-notes/data-and-credentialing-infra.md)
+5. [Discovery & Fulfillment network infra](technical-notes/discovery-and-fulfillment-network-infra.md)

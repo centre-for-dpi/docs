@@ -1,15 +1,16 @@
 # Table of contents
 
-* [README](README.md)
-
 ## Technical Notes
 
-* [DPI Thinking](notes/dpi/overview.md)
+* [DPI Thinking](README.md)
 * [DPI Architecture Principles](notes/dpi/terminology.md)
-* [Identity](technical-notes/identity/README.md)
-  * [Face Authentication](technical-notes/identity/face-authentication.md)
-* [Mapper](technical-notes/mapper.md)
-* [Data Sharing](technical-notes/data-sharing.md)
+* [Digital IDs & Electronic Registries Infra](technical-notes/digital-ids-and-electronic-registries-infra/README.md)
+  * [Face Authentication](technical-notes/digital-ids-and-electronic-registries-infra/face-authentication.md)
+* [Electronic Signature, PKI & Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
+* [Digital Payments Network Infra](technical-notes/digital-payments-network-infra/README.md)
+  * [Mapper](technical-notes/digital-payments-network-infra/mapper.md)
+* [Data & Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
+* [Discovery & Fulfillment Network Infra](technical-notes/discovery-and-fulfillment-network-infra.md)
 
 ## Technical Specs
 
