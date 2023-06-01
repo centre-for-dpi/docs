@@ -3,6 +3,12 @@
 ## Technical Notes
 
 * [DPI Thinking](README.md)
+* [DPI Architecture Principles (draft)](technical-notes/dpi-architecture-principles-draft/README.md)
+  * [Interoperability](technical-notes/dpi-architecture-principles-draft/interoperability.md)
+  * [Minimalist & Modular](technical-notes/dpi-architecture-principles-draft/minimalist-and-modular.md)
+  * [Innovation](technical-notes/dpi-architecture-principles-draft/innovation.md)
+  * [Security & Privacy By Design](technical-notes/dpi-architecture-principles-draft/security-and-privacy-by-design.md)
+  * [Decentralisation & Asynchronicity](technical-notes/dpi-architecture-principles-draft/decentralisation-and-asynchronicity.md)
 * [DPI Architecture Principles](notes/dpi/terminology.md)
 * [Digital IDs & Electronic Registries Infra](technical-notes/digital-ids-and-electronic-registries-infra/README.md)
   * [Face Authentication](technical-notes/digital-ids-and-electronic-registries-infra/face-authentication.md)
