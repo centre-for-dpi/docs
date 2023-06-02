@@ -14,7 +14,7 @@
     * [Face Authentication](technical-notes/digital-ids-and-electronic-registries/face-authentication.md)
   * [Electronic Signature, PKI & Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
   * [Digital Payment Networks](technical-notes/digital-payment-networks/README.md)
-    * [Mapper](technical-notes/digital-payment-networks/mapper.md)
+    * [Financial Address Mapper](https://g2p-connect.gitbook.io/docs/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [Data & Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
   * [Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
 * [Blueprints](technical-notes/blueprints.md)
