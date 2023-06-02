@@ -1,4 +1,8 @@
-# Innovation
+---
+description: by the ecosystem
+---
+
+# Diverse Innovation
 
 ## Overview _(What to aim for)_
 
@@ -27,6 +31,6 @@ Adoption and innovation should be voluntary and demand-led.
 
 * [ ] Inclusion
 * [ ] Scale
-* [ ] Choice
+* [ ] User Choice
 * [ ] Resilience
 * [ ] User-centric solutions

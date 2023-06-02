@@ -1,3 +1,7 @@
+---
+description: Driven by Open Specifications
+---
+
 # Interoperability
 
 ## Overview _(What to aim for)_

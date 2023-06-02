@@ -1,4 +1,8 @@
-# Minimalist
+---
+description: Not full solutions!
+---
+
+# Minimalist Building Blocks
 
 ## Overview _(What to aim for)_
 
