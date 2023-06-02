@@ -6,7 +6,7 @@ description: Curated Specifications - Reference Links
 
 ## 1. Overview
 
-Centre for Digital Public Infrastructure (CDPI) curates open standards and specifications across various categories of DPIs for easy reference. This is an initiative to curate specifications that follow [DPI principles](../notes/dpi/terminology.md) to enable countries to create required Digital Public Infrastructure rails.
+Centre for Digital Public Infrastructure (CDPI) curates open standards and specifications across various categories of DPIs for easy reference. This is an initiative to curate specifications that follow [DPI principles](broken-reference) to enable countries to create required Digital Public Infrastructure rails.
 
 **Note:**
 
