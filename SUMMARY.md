@@ -2,15 +2,7 @@
 
 ## Technical Notes
 
-* [DPI Ecosystem](README.md)
-* [DPI Tech Architecture Principles](<README (1).md>)
-  * [Interoperability](technical-notes/dpi-architecture-principles/interoperability.md)
-  * [Minimalist & Reusable Building Blocks](technical-notes/dpi-architecture-principles/minimalist-and-reusable-building-blocks.md)
-  * [Diverse, Inclusive Innovation](technical-notes/dpi-architecture-principles/diverse-inclusive-innovation.md)
-  * [Security & Privacy By Design](technical-notes/dpi-architecture-principles/security-and-privacy-by-design.md)
-  * [Federated & Decentralised by Design](technical-notes/dpi-architecture-principles/federated-and-decentralised-by-design.md)
-* [DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
-* [DPI Overview](<README (1) (1).md>)
+* [DPI Overview](README.md)
   * [Digital IDs & Electronic Registries](technical-notes/digital-ids-and-electronic-registries/README.md)
     * [Face Authentication](technical-notes/digital-ids-and-electronic-registries/face-authentication.md)
   * [Electronic Signature, PKI & Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
@@ -18,6 +10,14 @@
     * [Financial Address Mapper](https://g2p-connect.gitbook.io/docs/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [Data & Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
   * [Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
+* [DPI Ecosystem](<README (1).md>)
+* [DPI Tech Architecture Principles](<README (1) (1).md>)
+  * [Interoperability](technical-notes/dpi-architecture-principles/interoperability.md)
+  * [Minimalist & Reusable Building Blocks](technical-notes/dpi-architecture-principles/minimalist-and-reusable-building-blocks.md)
+  * [Diverse, Inclusive Innovation](technical-notes/dpi-architecture-principles/diverse-inclusive-innovation.md)
+  * [Security & Privacy By Design](technical-notes/dpi-architecture-principles/security-and-privacy-by-design.md)
+  * [Federated & Decentralised by Design](technical-notes/dpi-architecture-principles/federated-and-decentralised-by-design.md)
+* [DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
 * [Reusable Blueprints](technical-notes/reusable-blueprints/README.md)
   * [G2P Connect](https://g2p-connect.gitbook.io/)
 

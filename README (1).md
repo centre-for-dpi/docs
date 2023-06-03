@@ -1,4 +1,9 @@
-# DPI Tech Architecture Principles
+---
+description: Tech, Governance, Markets.
+---
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-03 at 2.14.27 PM.png" alt=""><figcaption></figcaption></figure>
+# DPI Ecosystem
 
+A DPI-enabled ecosystem can drive exponential outcomes if it has 1) the right **technology** architecture; supplemented by 2) **governance** frameworks that are transparent, accountable, participatory; and 3) robust **market** innovation
+
+<figure><img src=".gitbook/assets/dpi_approach.png" alt=""><figcaption></figcaption></figure>
