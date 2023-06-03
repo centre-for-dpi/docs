@@ -18,8 +18,8 @@
     * [Financial Address Mapper](https://g2p-connect.gitbook.io/docs/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [Data & Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
   * [Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
-* [Blueprints](technical-notes/blueprints.md)
-* [G2P Connect](https://g2p-connect.gitbook.io/)
+* [Blueprints](technical-notes/blueprints/README.md)
+  * [G2P Connect](https://g2p-connect.gitbook.io/)
 
 ## Technical Specs
 
