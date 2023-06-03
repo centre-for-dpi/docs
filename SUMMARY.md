@@ -2,13 +2,13 @@
 
 ## Technical Notes
 
-* [DPI Thinking](README.md)
+* [DPI Ecosystem](README.md)
 * [DPI Architecture Principles](<README (1).md>)
   * [Interoperability](technical-notes/dpi-architecture-principles/interoperability.md)
-  * [Minimalist Building Blocks](technical-notes/dpi-architecture-principles/minimalist-building-blocks.md)
-  * [Diverse Innovation](technical-notes/dpi-architecture-principles/diverse-innovation.md)
+  * [Minimalist & Reusable Building Blocks](technical-notes/dpi-architecture-principles/minimalist-and-reusable-building-blocks.md)
+  * [Diverse, Inclusive Innovation](technical-notes/dpi-architecture-principles/diverse-inclusive-innovation.md)
   * [Security & Privacy By Design](technical-notes/dpi-architecture-principles/security-and-privacy-by-design.md)
-  * [Decentralised Design; Asynchronous Adoption](technical-notes/dpi-architecture-principles/decentralised-design-asynchronous-adoption.md)
+  * [Federated & Decentralised by Design](technical-notes/dpi-architecture-principles/federated-and-decentralised-by-design.md)
 * [DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
 * [DPI Layers](<README (1) (1).md>)
   * [Digital IDs & Electronic Registries](technical-notes/digital-ids-and-electronic-registries/README.md)

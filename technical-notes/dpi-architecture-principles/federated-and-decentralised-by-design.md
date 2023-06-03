@@ -1,4 +1,4 @@
-# Decentralised Design; Asynchronous Adoption
+# Federated & Decentralised by Design
 
 ## Overview _(What to aim for)_
 
@@ -6,7 +6,7 @@ Avoid centralisation. Allow for federated databases/systems where possible that 
 
 In today’s world, it is perfectly possible to connect various systems via common protocols and standards and still achieve unification without centralization.&#x20;
 
-For new protocols and standards, allow asynchronous adoption (participants within the DPI ecosystem can join at different times without all of them having to agree together and join together, reducing the project risk significantly)  based on readiness rather than waiting for universal adoption/agreements at the start.
+
 
 ## **Technical Tools **_**(How to achieve it)**_&#x20;
 
