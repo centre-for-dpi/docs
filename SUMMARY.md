@@ -10,7 +10,7 @@
   * [Security & Privacy By Design](technical-notes/dpi-architecture-principles/security-and-privacy-by-design.md)
   * [Federated & Decentralised by Design](technical-notes/dpi-architecture-principles/federated-and-decentralised-by-design.md)
 * [DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
-* [DPI Categories](<README (1) (1).md>)
+* [DPI Overview](<README (1) (1).md>)
   * [Digital IDs & Electronic Registries](technical-notes/digital-ids-and-electronic-registries/README.md)
     * [Face Authentication](technical-notes/digital-ids-and-electronic-registries/face-authentication.md)
   * [Electronic Signature, PKI & Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
