@@ -3,12 +3,12 @@
 ## Technical Notes
 
 * [DPI Ecosystem](README.md)
-* [DPI Architecture Principles](<README (1).md>)
-  * [Interoperability](technical-notes/dpi-architecture-principles/interoperability.md)
-  * [Minimalist & Reusable Building Blocks](technical-notes/dpi-architecture-principles/minimalist-and-reusable-building-blocks.md)
-  * [Diverse, Inclusive Innovation](technical-notes/dpi-architecture-principles/diverse-inclusive-innovation.md)
-  * [Security & Privacy By Design](technical-notes/dpi-architecture-principles/security-and-privacy-by-design.md)
-  * [Federated & Decentralised by Design](technical-notes/dpi-architecture-principles/federated-and-decentralised-by-design.md)
+* [DPI Tech Architecture Principles](technical-notes/dpi-tech-architecture-principles/README.md)
+  * [Interoperability](technical-notes/dpi-tech-architecture-principles/interoperability.md)
+  * [Minimalist & Reusable Building Blocks](technical-notes/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
+  * [Diverse, Inclusive Innovation](technical-notes/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
+  * [Security & Privacy By Design](technical-notes/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
+  * [Federated & Decentralised by Design](technical-notes/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
 * [DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
 * [DPI Layers](<README (1) (1).md>)
   * [Digital IDs & Electronic Registries](technical-notes/digital-ids-and-electronic-registries/README.md)
