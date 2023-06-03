@@ -1,12 +1,4 @@
-# DPI Layers
+# DPI Architecture Principles
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-02 at 5.05.26 PM (1).png" alt=""><figcaption></figcaption></figure>
-
-**Foundational Digital Public Infrastructure 'categories' to consider:**
-
-1. [Digital IDs and Electronic Registries](technical-notes/digital-ids-and-electronic-registries/)
-2. [Electronic Signature, PKI and Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
-3. [Digital Payment Networks](technical-notes/digital-payment-networks/)
-4. [Data and Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
-5. [Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-type="users" data-multiple></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="technical-notes/dpi-architecture-principles/interoperability.md"><mark style="color:blue;"><strong>Interoperability</strong></mark></a> <mark style="color:blue;"><strong>driven by open specifications</strong></mark></td><td></td><td></td><td><a href="technical-notes/dpi-architecture-principles/interoperability.md">interoperability.md</a></td></tr><tr><td><p></p><p><a href="technical-notes/dpi-architecture-principles/minimalist-building-blocks.md"><mark style="color:blue;"><strong>Minimalist</strong></mark></a> <mark style="color:blue;"><strong>Building Blocks, not full solutions</strong></mark></p></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td><a href="technical-notes/dpi-architecture-principles/diverse-innovation.md"><mark style="color:blue;"><strong>Diverse Innovation</strong></mark></a> <mark style="color:blue;"><strong>by the ecosystem</strong></mark></td><td></td><td></td><td></td></tr><tr><td></td><td><a href="technical-notes/dpi-architecture-principles/security-and-privacy-by-design.md"><mark style="color:blue;"><strong>Security &#x26; Privacy by Design</strong></mark></a></td><td></td><td></td><td></td></tr><tr><td></td><td><a href="technical-notes/dpi-architecture-principles/decentralised-design-asynchronous-adoption.md"><mark style="color:blue;"><strong>Decentralised design &#x26; Asynchr</strong></mark></a><mark style="color:blue;"><strong>onus adoption</strong></mark></td><td></td><td></td><td></td></tr></tbody></table>
 
