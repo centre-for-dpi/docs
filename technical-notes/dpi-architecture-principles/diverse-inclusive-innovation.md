@@ -6,9 +6,9 @@ description: by the ecosystem, via open & multi-modal access
 
 ## Overview _(What to aim for)_
 
-DPI should enable Diverse Innovation by the public/private ecosystem.
+A DPI should not just be innovative in itself, but also enable diverse innovation by a public/private ecosystem of users.
 
-Allow others (public and private innovators) to build solutions and services using the DPI at scale (akin to highways or the Internet) via tools such as open APIs, instead of DPI providers building the entire solution in a monolithic fashion.
+A DPIs tech architecture should allow others (public and private innovators) to build solutions and services using the DPI at scale (akin to highways or the Internet) via tools such as open APIs (instead of DPI providers building the entire solution in a monolithic fashion).
 
 Enable innovation both by ‘**challenger**’ market players in the ecosystem and by **incumbents**.
 
