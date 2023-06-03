@@ -10,7 +10,6 @@
     * [Financial Address Mapper](https://g2p-connect.gitbook.io/docs/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [Data & Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
   * [Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
-* [DPI Ecosystem](README.md)
 * [DPI Tech Architecture Principles](<README (1).md>)
   * [Interoperability](technical-notes/dpi-architecture-principles/interoperability.md)
   * [Minimalist & Reusable Building Blocks](technical-notes/dpi-architecture-principles/minimalist-and-reusable-building-blocks.md)

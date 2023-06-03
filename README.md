@@ -6,6 +6,10 @@ Unlike mobile and internet, these DPI require even less complementary hard infra
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-03 at 2.39.53 PM.png" alt=""><figcaption></figcaption></figure>
 
+Each of these DPI categories can create **ecosystems** to drive exponential outcomes by combining 1) the right **technology** architecture; supplemented by 2) **governance** frameworks that are transparent, accountable, participatory; and 3) robust **market** innovation.
+
+<figure><img src=".gitbook/assets/Screenshot 2023-06-03 at 2.53.50 PM.png" alt=""><figcaption></figcaption></figure>
+
 **More information on each of the foundational Digital Public Infrastructure categories:**
 
 1. [Digital IDs and Electronic Registries](technical-notes/digital-ids-and-electronic-registries/)
