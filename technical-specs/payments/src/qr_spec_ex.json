@@ -1,15 +1,19 @@
 {
-  "payer_fa": "mobile:12345@m-pesa",
-  "payer_name": "joeuser@gtbank",
+  "version": "1.0.0",
+  "payee_fa": "joeuser@gtbank",
   "payee_name": "Kapoor Printing & Stationeries",
   "amount": "117.50",
   "init_mode": "QR",
-  "currency_code": "INR",
-  "note": "paper bundle 6 nos",
+  "currency": "KSH",
+  "mid": "M-12345",
+  "posId": "POS-123",
+  "expiry": "20230605T101225+5:30",
+  "orderId": "2023/123456",
+  "refUrl": "https://kapoors.com/orderId=2023/123456",
   "additional_data": {
     "bill_number": "",
-    "mobile_number": "",
-    "reference_no": ""
+    "reference_no": "",
+    "key1": "value1"
   },
   "sign": ""
 }
