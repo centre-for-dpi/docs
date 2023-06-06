@@ -24,5 +24,9 @@
 
 * [Home](technical-specs/home.md)
 * [Payments](technical-specs/payments/README.md)
-  * [Interoperable QR Code](technical-specs/payments/interoperable-qr-code.md)
-* [Licensing](technical-specs/licensing.md)
+  * [Interoperable QR Code](technical-specs/payments/qr-code.md)
+
+## Additional Info
+
+* [🤝 Licensing](additional-info/licensing.md)
+* [✍ Contact Us](additional-info/contact-us.md)
