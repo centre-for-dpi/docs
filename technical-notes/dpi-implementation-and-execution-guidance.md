@@ -4,7 +4,7 @@ description: >-
   to life
 ---
 
-# DPI Implementation & Execution Guidance
+# 🎯 DPI Implementation & Execution Guidance
 
 1. **Don’t aim for perfection before beginning.** Universal adoption or aligning all partners on board (especially large incumbents) is almost never possible at first. Start anyway with a ‘coalition of the willing’ as early adopters and build from there - more will come over time.  Asynchronous adoption is par for the course. Target some political support eventually, but it's not always possible to get whole-of-government alignment at the start.&#x20;
 
