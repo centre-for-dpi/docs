@@ -2,7 +2,7 @@
 description: by the ecosystem, via open & multi-modal access
 ---
 
-# 😇 Diverse, Inclusive Innovation
+# 💡 Diverse, Inclusive Innovation
 
 ## Overview _(What to aim for)_
 
