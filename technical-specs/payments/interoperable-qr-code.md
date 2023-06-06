@@ -1,8 +1,4 @@
----
-description: Interoperable Payments
----
-
-# QR Code
+# Interoperable QR Code
 
 ## 1. Overview
 
