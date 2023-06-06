@@ -1,4 +1,4 @@
-# Security & Privacy By Design
+# 🔐 Security & Privacy By Design
 
 ## Overview _(What to aim for)_
 
