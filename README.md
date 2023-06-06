@@ -1,4 +1,4 @@
-# DPI Overview
+# 🔍 DPI Overview
 
 While the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) were prominent examples of digital public infrastructure created in the late 20th century, looking ahead emerging economies should focus on the **next wave of DPI** that can catalyse innovation and inclusion.
 

@@ -2,7 +2,7 @@
 description: Not full solutions!
 ---
 
-# Minimalist & Reusable Building Blocks
+# 🧱 Minimalist & Reusable Building Blocks
 
 ## Overview _(What to aim for)_
 
