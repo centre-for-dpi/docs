@@ -5,7 +5,7 @@
 * [🔍 DPI Overview](README.md)
   * [🆔 Digital IDs & Electronic Registries](technical-notes/digital-ids-and-electronic-registries/README.md)
     * [👩💼 Face Authentication](technical-notes/digital-ids-and-electronic-registries/face-authentication.md)
-  * [Electronic Signature, PKI & Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
+  * [🔏 Electronic Signature, PKI & Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
   * [💸 Digital Payment Networks](technical-notes/digital-payment-networks/README.md)
     * [Financial Address Mapper](https://g2p-connect.gitbook.io/docs/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [📂 Data & Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
