@@ -7,7 +7,7 @@
     * [👩💼 Face Authentication](technical-notes/digital-ids-and-electronic-registries/face-authentication.md)
   * [🔏 Electronic Signature, PKI & Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
   * [💸 Digital Payment Networks](technical-notes/digital-payment-networks/README.md)
-    * [Interoperable QR Code](technical-notes/readme/digital-payment-networks/interoperable-qr-code.md)
+    * [Interoperable QR Code](technical-specs/payments/qr-code.md)
     * [Financial Address Mapper](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [📂 Data & Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
   * [🛒 Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
@@ -19,12 +19,12 @@
   * [🔐 Security & Privacy By Design](technical-notes/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
 * [🎯 DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
 * [Blueprints](technical-notes/reusable-blueprints/README.md)
-  * [G2P Connect](https://g2p-connect.gitbook.io/)
+  * [G2P Connect](http://cdpi.gitbook.io/g2p-connect/)
 
 ## Technical Specs
 
 * [Home](technical-specs/home.md)
-* [Payments](technical-specs/payments.md)
+* [Payments](technical-specs/payments/README.md)
 
 ## Additional Info
 
