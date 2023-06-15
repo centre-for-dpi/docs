@@ -2,7 +2,7 @@
 
 ## DPI
 
-* [🔍 Overview](README.md)
+* [🔍 DPI Overview](README.md)
 * [🆔 Digital IDs & Electronic Registries](dpi/digital-ids-and-electronic-registries/README.md)
   * [👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
 * [🔏 Electronic Signature, PKI & Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)

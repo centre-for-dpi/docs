@@ -1,12 +1,12 @@
 ---
-description: Digital whatnow?
+description: An approach that's feasible, and actually works at scale.
 ---
 
-# 🔍 Overview
+# 🔍 DPI Overview
 
-Digital Public Infrastructure - or DPI - is a phrase now regularly referenced by government officials, development partners, and CEOs of tech, finance, and health companies as a transformational approach to progress at scale. As with any rapidly evolving construct, every new project and experiment around the world slightly alters what people consider DPI. At the Centre for DPI, we'd like to put out our thinking to help countries answer the question: what is this magic sauce that you call DPI, and how can it actually catalyse our national digitisation plans to create inclusive and innovative digital economies?
+Digital Public Infrastructure - or DPI - is a phrase now regularly referenced by government officials, development partners, and CEOs of tech, finance, and health companies as a transformational approach to leapfrog progress at scale. As with any rapidly evolving construct, every new project and experiment around the world slightly alters what people consider DPI. At the Centre for DPI, we'd like to put out our thinking to help countries answer the question: what is this magic sauce that you call DPI, and how can it fast track our national digitisation plans to create **inclusive and innovative digital economies**?
 
-To answer this question, it's useful to first look back. The DPI movement is inspired by the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) - which operated as the original digital infrastructure of the late 20th century, triggering a burst of public and private innovation that broke barriers and drove inclusion. No other tech innovation in recent memory - not the iPhone, not a laptop, not even a computer chip - has triggered as much subsequent innovation as those original open standards. Read that again slowly.&#x20;
+To answer this question, it's useful to first look back. The DPI movement is inspired by the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) - which operated as the original digital infrastructure of the late 20th century, triggering a burst of public and private innovation that broke barriers and drove inclusion. Our controversial opinion: No other tech innovation in recent memory - not the iPhone, not a laptop, not even a computer chip - has triggered as much subsequent innovation as those original open standards. Read that again slowly. &#x20;
 
 So looking ahead, how do countries take a similar **approach** that can catalyse inclusion and innovation in their nations in areas like access to money, access to health, access to education, and competitive innovation in services?&#x20;
 
