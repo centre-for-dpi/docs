@@ -26,9 +26,9 @@
 
 * [G2P Connect](http://cdpi.gitbook.io/g2p-connect/)
 
-## Additional Information
+## References
 
-* [Curated Specifications](additional-information/home.md)
+* [Curated Specifications](references/home.md)
 
 ## Additional Info
 
