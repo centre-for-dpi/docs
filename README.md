@@ -26,6 +26,8 @@ Each of these DPI categories can create **ecosystems** to drive exponential outc
 
 **In each of the sections below,** we'll cover **specific building blocks** that fall into these categories, and **link to open blueprints/specifications your country can use** to kick off the transformation.&#x20;
 
+We've also thought through some [tech architecture principles](technical-notes/dpi-tech-architecture-principles/) and [implementation/execution guidance](technical-notes/dpi-implementation-and-execution-guidance.md) that we hope are helpful!&#x20;
+
 **Let's dive in.**&#x20;
 
 1. [Digital IDs and Electronic Registries](dpi/digital-ids-and-electronic-registries/)
