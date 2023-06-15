@@ -21,8 +21,10 @@
   * [Federated & Decentralised by Design](technical-notes/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
   * [🔐 Security & Privacy By Design](technical-notes/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
 * [🎯 DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
-* [Blueprints](technical-notes/reusable-blueprints/README.md)
-  * [G2P Connect](http://cdpi.gitbook.io/g2p-connect/)
+
+## Blueprints
+
+* [G2P Connect](http://cdpi.gitbook.io/g2p-connect/)
 
 ## Additional Information
 
