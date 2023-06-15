@@ -1,16 +1,19 @@
 # Table of contents
 
-## Technical Notes
+## DPI Rails
 
 * [🔍 DPI Overview](README.md)
-  * [🆔 Digital IDs & Electronic Registries](technical-notes/digital-ids-and-electronic-registries/README.md)
-    * [👩💼 Face Authentication](technical-notes/digital-ids-and-electronic-registries/face-authentication.md)
-  * [🔏 Electronic Signature, PKI & Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
-  * [💸 Digital Payment Networks](technical-notes/digital-payment-networks/README.md)
-    * [Interoperable QR Code](technical-specs/payments/qr-code.md)
-    * [Financial Address Mapper](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
-  * [📂 Data & Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
-  * [🛒 Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
+* [🆔 Digital IDs & Electronic Registries](dpi-rails/digital-ids-and-electronic-registries/README.md)
+  * [👩💼 Face Authentication](dpi-rails/digital-ids-and-electronic-registries/face-authentication.md)
+* [🔏 Electronic Signature, PKI & Trust Infra](dpi-rails/electronic-signature-pki-and-trust-infra.md)
+* [📂 Data & Credentialing Infra](dpi-rails/data-and-credentialing-infra.md)
+* [💸 Digital Payment Networks](dpi-rails/digital-payment-networks/README.md)
+  * [Interoperable QR Code](dpi-rails/digital-payment-networks/interoperable-qr-code.md)
+  * [Financial Address Mapper](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
+* [🛒 Discovery & Fulfillment Networks](dpi-rails/discovery-and-fulfillment-networks.md)
+
+## Technical Notes
+
 * [📝 DPI Tech Architecture Principles](technical-notes/dpi-tech-architecture-principles/README.md)
   * [🔗 Interoperability](technical-notes/dpi-tech-architecture-principles/interoperability.md)
   * [🧱 Minimalist & Reusable Building Blocks](technical-notes/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)

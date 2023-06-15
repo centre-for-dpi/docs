@@ -12,8 +12,8 @@ Each of these DPI categories can create **ecosystems** to drive exponential outc
 
 **More information on each of the foundational Digital Public Infrastructure categories:**
 
-1. [Digital IDs and Electronic Registries](technical-notes/digital-ids-and-electronic-registries/)
-2. [Electronic Signature, PKI and Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
-3. [Digital Payment Networks](technical-notes/digital-payment-networks/)
-4. [Data and Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
-5. [Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
+1. [Digital IDs and Electronic Registries](dpi-rails/digital-ids-and-electronic-registries/)
+2. [Electronic Signature, PKI and Trust Infra](dpi-rails/electronic-signature-pki-and-trust-infra.md)
+3. [Digital Payment Networks](dpi-rails/digital-payment-networks/)
+4. [Data and Credentialing Infra](dpi-rails/data-and-credentialing-infra.md)
+5. [Discovery & Fulfillment Networks](dpi-rails/discovery-and-fulfillment-networks.md)
