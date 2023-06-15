@@ -24,7 +24,7 @@
 
 ## Blueprints
 
-* [G2P Connect](http://cdpi.gitbook.io/g2p-connect/)
+* [G2P Connect](https://g2p-connect.cdpi.dev)
 
 ## References
 

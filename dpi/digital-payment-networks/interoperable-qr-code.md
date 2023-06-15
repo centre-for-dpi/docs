@@ -21,7 +21,7 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 
 ## 3. Specification
 
-#### Interoperable QR Links specifications [yaml file](../../technical-specs/payments/src/qr\_spec\_ex.json)
+#### Interoperable QR Links specifications [yaml file](../../technical-specs/payments/src/QRCode.yaml)
 
 #### JSON Sample:
 
@@ -49,7 +49,6 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 
 1. QR code content can also be represented in URI or Fixed tag representation formats for use in low network environment is encouraged. e.g.,
    1. _**xxx**_://pay?payee\_fa=joeuser@gtbank\&payee\_name=Kapoor Printing & Stationeries\&amount=117.50\&currency=KSH\&mid=M-12345
-   2. \<tbd>
 2. Signed QR code content is mandatory to ensure security and detect any malicious requests / phishing attacks.
 3. &#x20;Scanning of QR codes and verification of digitally singed QR code content is the responsibility of the payment apps on customer mobiles.
 4. Payment Network provider shall manage the registry of all authorised **acquiring** banks allowed to onboard merchants and offer digitally singed QR codes.&#x20;
@@ -71,5 +70,5 @@ Below is a typical flow to make initiate merchant based QR code based payments:
 
 ## 6. Additional References
 
-1. QR Code printing specifications **here**
+1. QR Code printing specifications <**tbd>**
 
