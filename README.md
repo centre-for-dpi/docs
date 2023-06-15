@@ -6,13 +6,15 @@ description: An approach that's feasible, and actually works at scale.
 
 **Digital Public Infrastructure** - or DPI - is a phrase now regularly referenced by government officials, think tanks, development institutions, nonprofits, and even CEOs of tech, finance, and health companies as a transformational approach to leapfrog progress at scale. As with any rapidly evolving construct, every new project and experiment around the world slightly alters what people consider DPI. At the Centre for DPI, we'd like to put out our thinking to help countries answer the question: what is this magic sauce that you call DPI, and how can it fast track our national digitisation plans to create **inclusive and innovative digital economies**?
 
+<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.59.46 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
 To answer this question, it's useful to first look back. The DPI movement is inspired by the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) - which operated as the original digital infrastructure of the late 20th century, triggering a burst of public and private innovation that broke barriers and drove inclusion. Our controversial opinion: No other tech innovation in recent memory - not the iPhone, not a laptop, not even a computer chip - has triggered as much subsequent innovation as those original open standards. Read that again slowly. &#x20;
 
 So looking ahead, how do countries take a similar **approach** that can catalyse inclusion and innovation in their nations in areas like access to money, access to health, access to education, and competitive innovation in services?&#x20;
 
 We think there are **5 foundational categories** that make up **21st-century DPI:** for a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to create scalable impact.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.01.19 PM.png" alt=""><figcaption><p>The core ingredients of high scale, high impact, and high innovation digital transformation</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.01.19 PM.png" alt=""><figcaption><p>The core ingredients of high scale, high impact, and high innovation digital economies</p></figcaption></figure>
 
 Each of these DPI categories can create **ecosystems** to drive exponential outcomes **within and across** various sectors...
 
