@@ -1,8 +1,8 @@
 ---
-description: Curated Specifications - Reference Links
+description: Reference Links
 ---
 
-# Home
+# Curated Specifications
 
 ## 1. Overview
 

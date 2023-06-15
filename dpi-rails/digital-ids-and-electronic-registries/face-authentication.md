@@ -2,7 +2,7 @@
 description: Approach to enabling inclusion in social protection space
 ---
 
-# Face Authentication
+# 👩💼 Face Authentication
 
 ## 1. Overview
 

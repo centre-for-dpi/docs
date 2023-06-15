@@ -24,10 +24,9 @@
 * [Blueprints](technical-notes/reusable-blueprints/README.md)
   * [G2P Connect](http://cdpi.gitbook.io/g2p-connect/)
 
-## Technical Specs
+## Additional Information
 
-* [Home](technical-specs/home.md)
-* [Payments](technical-specs/payments/README.md)
+* [Curated Specifications](additional-information/home.md)
 
 ## Additional Info
 
