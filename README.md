@@ -1,16 +1,30 @@
-# 🔍 DPI Overview
+---
+description: Digital whatnow?
+---
 
-While the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) were prominent examples of digital public infrastructure created in the late 20th century, looking ahead emerging economies should focus on the **next wave of DPI** that can catalyse innovation and inclusion.
+# 🔍 Overview
 
-Unlike mobile and internet, these DPI require even less complementary hard infrastructure  (wires, cables, cell towers, etc.) to scale!&#x20;
+Digital Public Infrastructure - or DPI - is a phrase now regularly referred to by government officials, development partners, and CEOs of tech, finance, and health companies as a transformational approach to progress at scale. As with any rapidly evolving construct, every new project and experiment around the world slightly alters what people consider DPI. At the Centre for DPI, we'd like to put out our thinking on this issue to help countries answer the question: what is this DPI magic sauce that will truly **catalyse our national digitisation plans to create inclusive and innovative digital economies?**
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.01.19 PM.png" alt=""><figcaption></figcaption></figure>
+To answer this question, it's useful to first look back. The DPI movement is inspired by the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) - which operated as the original digital infrastructure of the late 20th century, triggering a burst of public and private innovation that broke barriers and drove inclusion. No other tech innovation in recent memory - not the iPhone, not a laptop, not even a computer chip - has triggered as much subsequent innovation as those original open standards. Read that again slowly.&#x20;
 
-Each of these DPI categories can create **ecosystems** to drive exponential outcomes by combining 1) the right **technology** architecture; supplemented by 2) **governance** frameworks that are transparent, accountable, participatory; and 3) robust **market** innovation.
+So looking ahead, how do countries take a similar **approach** that can catalyse inclusion and innovation in their nations in areas like access to money, access to health, access to education, and competitive innovation in services?&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.06.58 PM.png" alt=""><figcaption></figcaption></figure>
+We think there are **5 foundational categories** that are the **next wave of DPI:** for a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to scale up.
 
-**More information on each of the foundational Digital Public Infrastructure categories:**
+<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.01.19 PM.png" alt=""><figcaption><p>The core ingredients of high scale, high impact, and high innovation digital transformation</p></figcaption></figure>
+
+Each of these DPI categories can create **ecosystems** to drive exponential outcomes **within and across** various sectors...
+
+<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.41.07 PM.png" alt=""><figcaption><p>DPI can be used within and across sectors</p></figcaption></figure>
+
+...by combining 1) the right **technology** architecture; supplemented by 2) **governance** frameworks that are transparent, accountable, participatory; and 3) robust public and private **market** innovation.
+
+<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.12.33 PM.png" alt=""><figcaption><p>It's not DPI unless someone else can use it to build a service!</p></figcaption></figure>
+
+**In each of the sections below,** we'll cover **specific building blocks** that fall into these categories, and **link to open blueprints/specifications your country can use** to kick off the transformation.&#x20;
+
+**Let's dive in.**&#x20;
 
 1. [Digital IDs and Electronic Registries](dpi/digital-ids-and-electronic-registries/)
 2. [Electronic Signature, PKI and Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)
