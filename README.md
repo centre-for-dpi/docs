@@ -4,7 +4,7 @@ description: An approach that's feasible, and actually works at scale.
 
 # 🔍 DPI Overview
 
-**Digital Public Infrastructure** - or DPI - is a phrase now regularly referenced by government officials, think tanks, development institutions, nonprofits, and even CEOs of tech, finance, and health companies as a transformational approach to leapfrog progress at scale. As with any rapidly evolving construct, every new project and experiment around the world slightly alters what people consider DPI. At the Centre for DPI, we'd like to put out our thinking to help countries answer the question: what is this magic sauce that you call DPI, and how can it fast track our national digitisation plans to create **inclusive and innovative digital economies**?
+**Digital Public Infrastructure** - or DPI - is a phrase now regularly referenced by government officials, think tanks, development institutions, nonprofits, and even CEOs of tech, finance, and health companies as a **transformational approach** to leapfrog progress at scale. As with any rapidly evolving construct, every new project and experiment around the world slightly alters what people consider DPI. At the Centre for DPI, we'd like to put out our thinking to help countries answer the question: what is this magic sauce that you call DPI, and how can it fast track our national digitisation plans to create **inclusive and innovative digital economies?**
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.59.46 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
