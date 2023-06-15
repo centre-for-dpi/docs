@@ -6,7 +6,7 @@ description: Approach to enabling inclusion in social protection space
 
 ## 1. Overview
 
-Authenticating a user is most primitive action in any service delivery. Assuming user's registered photo is available in digital form and is easily verifiable, then opening up face authentication on mobile phone app(s) shall give non linear scale to provide services in an inclusive way.
+Authenticating a user is most primitive action in any service delivery. Assuming user's registered photo is available in digital form and is easily verifiable, opening up face authentication on mobile phone app(s) creates non linear scale in providing services in an inclusive way.
 
 ## 2. Assumptions
 
