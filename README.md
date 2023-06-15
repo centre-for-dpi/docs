@@ -1,4 +1,4 @@
-# 🔍 DPI Overview
+# 🔍 Overview
 
 While the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) were prominent examples of digital public infrastructure created in the late 20th century, looking ahead emerging economies should focus on the **next wave of DPI** that can catalyse innovation and inclusion.
 
@@ -12,8 +12,8 @@ Each of these DPI categories can create **ecosystems** to drive exponential outc
 
 **More information on each of the foundational Digital Public Infrastructure categories:**
 
-1. [Digital IDs and Electronic Registries](dpi-rails/digital-ids-and-electronic-registries/)
-2. [Electronic Signature, PKI and Trust Infra](dpi-rails/electronic-signature-pki-and-trust-infra.md)
-3. [Digital Payment Networks](dpi-rails/digital-payment-networks/)
-4. [Data and Credentialing Infra](dpi-rails/data-and-credentialing-infra.md)
-5. [Discovery & Fulfillment Networks](dpi-rails/discovery-and-fulfillment-networks.md)
+1. [Digital IDs and Electronic Registries](dpi/digital-ids-and-electronic-registries/)
+2. [Electronic Signature, PKI and Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)
+3. [Digital Payment Networks](dpi/digital-payment-networks/)
+4. [Data and Credentialing Infra](dpi/data-and-credentialing-infra.md)
+5. [Discovery & Fulfillment Networks](dpi/discovery-and-fulfillment-networks.md)

@@ -1,16 +1,16 @@
 # Table of contents
 
-## DPI Rails
+## DPI
 
-* [🔍 DPI Overview](README.md)
-* [🆔 Digital IDs & Electronic Registries](dpi-rails/digital-ids-and-electronic-registries/README.md)
-  * [👩💼 Face Authentication](dpi-rails/digital-ids-and-electronic-registries/face-authentication.md)
-* [🔏 Electronic Signature, PKI & Trust Infra](dpi-rails/electronic-signature-pki-and-trust-infra.md)
-* [📂 Data & Credentialing Infra](dpi-rails/data-and-credentialing-infra.md)
-* [💸 Digital Payment Networks](dpi-rails/digital-payment-networks/README.md)
-  * [Interoperable QR Code](dpi-rails/digital-payment-networks/interoperable-qr-code.md)
+* [🔍 Overview](README.md)
+* [🆔 Digital IDs & Electronic Registries](dpi/digital-ids-and-electronic-registries/README.md)
+  * [👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
+* [🔏 Electronic Signature, PKI & Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)
+* [📂 Data & Credentialing Infra](dpi/data-and-credentialing-infra.md)
+* [💸 Digital Payment Networks](dpi/digital-payment-networks/README.md)
+  * [Interoperable QR Code](dpi/digital-payment-networks/interoperable-qr-code.md)
   * [Financial Address Mapper](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
-* [🛒 Discovery & Fulfillment Networks](dpi-rails/discovery-and-fulfillment-networks.md)
+* [🛒 Discovery & Fulfillment Networks](dpi/discovery-and-fulfillment-networks.md)
 
 ## Technical Notes
 
