@@ -46,7 +46,7 @@ properties:
     description: Merchant Id
     type: string
     example: "M-12345"
-  posId: 
+  pos_id: 
     description: POS Id
     type: string
     example: "POS-123"
@@ -55,11 +55,11 @@ properties:
     type: string
     format: date-time
     example: "20230605T101225+5:30"
-  orderId:
+  order_id:
     description: order Id
     type: string
     example: 2023/123456
-  refUrl:
+  ref_url:
     description: referne url
     type: string
     example: "https://kapoors.com/orderId=2023/123456"
