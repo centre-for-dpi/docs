@@ -1,5 +1,7 @@
 ---
-description: Approach to enabling inclusion in social protection space
+description: >-
+  Approach to enabling inclusion in onboarding individuals for use cases such as
+  social protection
 ---
 
 # 👩💼 Face Authentication
