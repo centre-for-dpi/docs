@@ -27,15 +27,17 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 
 ```yaml
 {
+  "version": "1.0.0",
   "payee_fa": "joeuser@gtbank",
   "payee_name": "Kapoor Printing & Stationeries",
   "amount": "117.50",
   "init_mode": "QR",
   "currency": "KSH",
   "mid": "M-12345",
-  "posId": "POS-123",
+  "pos_id": "POS-123",
   "expiry": "20230605T101225+5:30",
-  "orderId": "2023/123456",
+  "order_id": "2023/123456",
+  "ref_url": "",
   "additional_data": {
     "bill_number": "",
     "reference_no": "",
