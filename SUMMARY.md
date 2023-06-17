@@ -4,7 +4,7 @@
 
 * [🔍 DPI Overview](README.md)
 * [🆔 Digital IDs & Electronic Registries](dpi/digital-ids-and-electronic-registries/README.md)
-  * [👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
+  * [👩💼 👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
 * [🔏 Electronic Signature, PKI & Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)
 * [📂 Data & Credentialing Infra](dpi/data-and-credentialing-infra.md)
 * [💸 Digital Payment Networks](dpi/digital-payment-networks/README.md)
@@ -24,7 +24,7 @@
 
 ## Blueprints
 
-* [G2P Connect](https://g2p-connect.cdpi.dev)
+* [G2P Connect](https://g2pconnect.cdpi.dev)
 
 ## References
 
