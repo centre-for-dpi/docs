@@ -12,9 +12,9 @@ To answer this question, it's useful to first look back. The DPI movement is ins
 
 So looking ahead, how do countries take a similar **approach** that can catalyse inclusion and innovation in their nations in areas like access to money, access to health, access to education, and competitive innovation in services?&#x20;
 
-We think there are **5 foundational categories** that make up **21st-century digital public infrastructure:** digital identities and electronic registries; data & credentialing infrastructure; digital signature, PKI, and trust infrastructure; discovery and transaction networks; and payments networks. For a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to create scalable impact.
+We think there are **5 foundational categories** that make up **21st-century digital public infrastructure:** verifiable identity and registries; data sharing, credentials, and open AI/ML models;  digital signatures, consent, and trust; discovery and transaction networks; and payments networks. For a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to create scalable impact.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.01.19 PM.png" alt=""><figcaption><p>The core ingredients of high scale, high impact, and high innovation digital economies</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.09.31 PM.png" alt=""><figcaption></figcaption></figure>
 
 Each of these DPI categories can create **ecosystems** to drive exponential outcomes **within and across** various sectors...
 
