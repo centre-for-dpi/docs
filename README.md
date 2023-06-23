@@ -16,13 +16,13 @@ We think there are **5 foundational categories** that make up **21st-century dig
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.09.31 PM.png" alt=""><figcaption></figcaption></figure>
 
-Each of these DPI categories can create **ecosystems** to drive exponential outcomes **within and across** various sectors...
+Each of these DPI categories can be ingredients to drive exponential outcomes **within and across** various sectors...
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.41.07 PM.png" alt=""><figcaption><p>DPI can be used within and across sectors</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.37.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-...by combining 1) the right **technology** architecture; supplemented by 2) **governance** frameworks that are transparent, accountable, participatory; and 3) robust public and private **market** innovation.
+...by creating **ecosystems** that combine 1) the right **technology** architecture; supplemented by 2) **governance** frameworks that are transparent, accountable, participatory; and 3) robust public and private **market** innovation.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.12.33 PM.png" alt=""><figcaption><p>It's not DPI unless someone else can use it to build a service!</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.40.27 PM.png" alt=""><figcaption></figcaption></figure>
 
 **In each of the sections below,** we'll cover **specific building blocks** that fall into these categories, and **link to open blueprints/specifications your country can use** to kick off the transformation.&#x20;
 

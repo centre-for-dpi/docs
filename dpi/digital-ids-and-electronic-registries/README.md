@@ -10,4 +10,15 @@ A country should have multiple identities to fulfill multiple purposes and funct
 
 An identity system is a registry of persons. Countries also need foundational registries of entities (such as businesses, hospitals, schools, etc.) to allow sector-specific digital service providers to innovate based on shared datasets. These registries should provide digitally signed data - to ensure it is tamper proof - and preferably via open APIs (and prevent clunky PDF or excel downloads) to ensure software can directly consume the information. This greatly enhances the speed of service delivery and the competition across sector specific market players.  &#x20;
 
+Key examples of building blocks in this category of DPIs include:&#x20;
+
+* Authentication (Mobile, Offline QR Code based, Biometric, Face, etc)
+* eKYC
+* Single Sign On&#x20;
+* Civil/Functional Registries
+* Entity Registries
+* Object Registries (land,etc.)
+
+
+
 &#x20;
