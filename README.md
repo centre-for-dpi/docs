@@ -10,6 +10,10 @@ description: An approach that works to transform nations at scale
 
 To answer this question, it's useful to first look back. The DPI movement is inspired by the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) - which operated as the original digital infrastructure of the late 20th century, triggering a burst of public and private innovation that broke barriers and drove inclusion. Our controversial opinion: No other tech innovation in recent memory - not the iPhone, not a laptop, not even a computer chip - has triggered as much subsequent innovation as those original open standards. Read that again slowly. &#x20;
 
+The DPI approach is about moving from platforms to open networks powered by protocols. Understanding this is key in developing country-level systems, here’s a primer on DPI thinking:
+
+{% file src=".gitbook/assets/Understanding DPIs.pdf" %}
+
 So looking ahead, how do countries take a similar **approach** that can catalyse inclusion and innovation in their nations in areas like access to money, access to health, access to education, and competitive innovation in services?&#x20;
 
 We think there are **5 foundational categories** that make up **21st-century digital public infrastructure:** verifiable identity and registries; data sharing, credentials, and open AI/ML models;  digital signatures, consent, and trust; discovery and transaction networks; and payments networks. For a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to create scalable impact.
