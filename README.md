@@ -18,7 +18,9 @@ We think there are **5 foundational categories** that make up **21st-century dig
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.09.31 PM.png" alt=""><figcaption></figcaption></figure>
 
-Each of these DPI categories can be ingredients to drive exponential outcomes **within and across** various sectors...
+Many different building blocks in each of these categories can drive exponential outcomes **within and across** various sectors.
+
+<figure><img src=".gitbook/assets/Screenshot 2023-07-07 at 5.37.42 PM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.37.15 PM.png" alt=""><figcaption></figcaption></figure>
 
