@@ -5,7 +5,7 @@
 * [🔍 DPI Overview](README.md)
 * [🆔 Verifiable IDs & Registries](dpi/digital-ids-and-electronic-registries/README.md)
   * [👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
-* [🔏 Signatures & Consent Infra](dpi/electronic-signature-pki-and-trust-infra.md)
+* [🔏 Signatures & Consent](dpi/electronic-signature-pki-and-trust-infra.md)
 * [📂 Data Sharing, Credentials, and Open AI/ML Models](dpi/data-and-credentialing-infra.md)
 * [💸 Digital Payment Networks](dpi/digital-payment-networks/README.md)
   * [Interoperable QR Code](dpi/digital-payment-networks/interoperable-qr-code.md)
