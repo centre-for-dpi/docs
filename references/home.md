@@ -27,9 +27,10 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 ### 3.1 eSign
 
 1. PKCS #10 - [standard](https://datatracker.ietf.org/doc/html/rfc2986)
-2. Electronic Consent artefact - [spec](https://dla.gov.in/sites/default/files/pdf/MeitY-Consent-Tech-Framework%20v1.1.pdf)
 
 ### 3.2 Digital Data Sharing Consents
+
+1. Electronic Consent artefact - [spec](https://dla.gov.in/sites/default/files/pdf/MeitY-Consent-Tech-Framework%20v1.1.pdf)
 
 ## 4. Payments
 
