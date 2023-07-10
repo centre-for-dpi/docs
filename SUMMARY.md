@@ -28,6 +28,7 @@
 ## Blueprints
 
 * [G2P Connect](https://g2pconnect.cdpi.dev)
+* [Health Connect (forthcoming)](blueprints/health-connect-forthcoming.md)
 
 ## References
 
