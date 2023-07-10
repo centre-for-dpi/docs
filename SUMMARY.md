@@ -13,6 +13,7 @@
   * [Interoperable Authentication (P2P/P2M)](dpi/digital-payment-networks/interoperable-authentication-p2p-p2m.md)
   * [Financial Address Mapper (G2P)](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [Cash in Cash Out (CICO)](dpi/digital-payment-networks/cash-in-cash-out-cico.md)
+  * [Interoperable Bill Payments](dpi/digital-payment-networks/interoperable-bill-payments.md)
 
 ## Technical Notes
 
