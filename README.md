@@ -20,7 +20,7 @@ The DPI approach is about moving from platforms to open networks powered by prot
 
 Many different building blocks in each of these categories can drive exponential outcomes **within and across** various sectors.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-07-10 at 3.23.07 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-07-10 at 3.25.39 PM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.37.15 PM.png" alt=""><figcaption></figcaption></figure>
 
