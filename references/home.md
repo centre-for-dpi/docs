@@ -27,6 +27,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 ### 3.1 eSign
 
 1. PKCS #10 - [standard](https://datatracker.ietf.org/doc/html/rfc2986)
+2. Electronic Consent artefact - [spec](https://dla.gov.in/sites/default/files/pdf/MeitY-Consent-Tech-Framework%20v1.1.pdf)
 
 ### 3.2 Digital Data Sharing Consents
 
@@ -35,8 +36,8 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 ### 4.1 G2P, P2P & P2M Payments
 
 1. G2P Connect Solution - [docs](https://g2p-connect.gitbook.io/docs/g2p-connect-protocol/home) | [specs](https://g2p-connect.github.io/specs/)
-2. P2P / P2M UPI - [specs](../specs/tbd/)
-3. Open Banking - [specs](https://standards.openbanking.org.uk/api-specifications/)
+2. P2P / P2M - Unified Payments Interface Protocol (forthcoming)
+3. Open Banking Payments - [specs](https://standards.openbanking.org.uk/api-specifications/)
 
 #### 4.1.1 Reference Implementations
 
@@ -80,4 +81,4 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 1. BeckN Decentralised Health Protocol - DHP [docs](https://developers.becknprotocol.io) | [specs](https://github.com/dhp-project/DHP-Specs)
 2. Health Claims EXchange - HCX [docs](https://docs.hcxprotocol.io) | [specs](https://github.com/hcx-project/hcx-specs)
-3. Consent & Data Exchange: DEPA [docs](https://depa.world) | [specs](https://github.com/iSPIRT/DEPA/blob/main/depa\_2.0.yaml)
+3. Data Exchange: DEPA [docs](https://depa.world) | [specs](https://github.com/iSPIRT/DEPA/blob/main/depa\_2.0.yaml)
