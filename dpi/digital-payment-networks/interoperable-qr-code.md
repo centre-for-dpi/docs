@@ -1,4 +1,4 @@
-# Interoperable QR Code
+# Interoperable QR Code (P2P/P2M)
 
 ## 1. Overview
 

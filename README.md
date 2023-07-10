@@ -20,7 +20,7 @@ The DPI approach is about moving from platforms to open networks powered by prot
 
 Many different building blocks in each of these categories can drive exponential outcomes **within and across** various sectors.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-07-07 at 5.37.42 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-07-10 at 3.23.07 PM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.37.15 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,12 +30,12 @@ Many different building blocks in each of these categories can drive exponential
 
 **In each of the sections below,** we'll cover **specific building blocks** that fall into these categories, and **link to open blueprints/specifications your country can use** to kick off the transformation.&#x20;
 
-We've also thought through some [tech architecture principles](dpi/dpi-tech-architecture-principles/) and [implementation/execution guidance](dpi/dpi-implementation-and-execution-guidance.md) that we hope are helpful!&#x20;
+We've also thought through some [tech architecture principles](technical-notes/dpi-tech-architecture-principles/) and [implementation/execution guidance](technical-notes/dpi-implementation-and-execution-guidance.md) that we hope are helpful!&#x20;
 
 **Let's dive in.**&#x20;
 
-1. [Digital IDs and Electronic Registries](technical-notes/digital-ids-and-electronic-registries/)
-2. [Electronic Signature, PKI and Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra.md)
-3. [Digital Payment Networks](technical-notes/digital-payment-networks/)
-4. [Data and Credentialing Infra](technical-notes/data-and-credentialing-infra.md)
-5. [Discovery & Fulfillment Networks](technical-notes/discovery-and-fulfillment-networks.md)
+1. [Digital IDs and Electronic Registries](dpi/digital-ids-and-electronic-registries/)
+2. [Electronic Signature, PKI and Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)
+3. [Digital Payment Networks](dpi/digital-payment-networks/)
+4. [Data and Credentialing Infra](dpi/data-and-credentialing-infra.md)
+5. [Discovery & Fulfillment Networks](dpi/discovery-and-fulfillment-networks.md)
