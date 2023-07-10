@@ -3,11 +3,11 @@
 ## DPI
 
 * [🔍 DPI Overview](README.md)
-* [🆔 Verifiable IDs & Registries](dpi/digital-ids-and-electronic-registries/README.md)
+* [🆔 Identifiers & Registries](dpi/digital-ids-and-electronic-registries/README.md)
   * [👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
 * [🔏 Signatures & Consent](dpi/electronic-signature-pki-and-trust-infra.md)
-* [📂 Data Sharing, Credentials, and Open AI/ML Models](dpi/data-and-credentialing-infra.md)
-* [💸 Digital Payment Networks](dpi/digital-payment-networks/README.md)
+* [📂 Data Sharing and AI/ML Models](dpi/data-and-credentialing-infra.md)
+* [💸 Payments](dpi/digital-payment-networks/README.md)
   * [Interoperable QR Code](dpi/digital-payment-networks/interoperable-qr-code.md)
   * [Financial Address Mapper](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
 * [🛒 Discovery & Fulfilment Networks](dpi/discovery-and-fulfillment-networks.md)
