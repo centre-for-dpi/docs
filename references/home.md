@@ -47,7 +47,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 ## 5. Data & Open AI/ML Models
 
-### 5.1 Verifiable Crendentials Issuance
+### 5.1 Verifiable Credentials Issuance
 
 1. W3C compliant issuance [standard](https://www.w3.org/TR/vc-data-model/) | implementation [guide](https://www.w3.org/TR/vc-imp-guide/) | draft issuance api [specs](https://w3c-ccg.github.io/vc-api/)
 2. ISO/MDL
@@ -66,7 +66,11 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 1. Credential Schemas: Sunbird VC [specs](https://github.com/VC-Specs/vc-specs)
 
-## 6. Discovery & Fulfillment
+### 5.3 Consented Data Sharing
+
+1. Account Aggregator (Financial data sharing) [specs](https://github.com/Sahamati/account-aggregator-standards)
+
+## 6. Discovery & Fulfilment
 
 ### 6.1 eCommerce Network
 
