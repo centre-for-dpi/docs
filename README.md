@@ -16,7 +16,7 @@ So looking ahead, how do countries take a similar **approach** that can catalyse
 
 The DPI approach is about moving from platforms to open networks powered by protocols. We think there are **5 foundational categories** that make up **21st-century digital public infrastructure:** identifiers and registries; data sharing and AI/ML models; signatures and consent; discovery and fulfilment; and payments. For a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to create scalable impact.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-07-10 at 11.56.00 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-07-11 at 6.59.10 PM.png" alt=""><figcaption></figcaption></figure>
 
 Many different building blocks in each of these categories can drive exponential outcomes **within and across** various sectors.
 
