@@ -38,7 +38,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 1. G2P Connect Solution - [docs](https://g2p-connect.gitbook.io/docs/g2p-connect-protocol/home) | [specs](https://g2p-connect.github.io/specs/)
 2. P2P / P2M - Unified Payments Interface Protocol (forthcoming)
-3. Open Banking Payments - [specs](https://standards.openbanking.org.uk/api-specifications/)
+3. UK Open Banking Payments - [specs](https://standards.openbanking.org.uk/api-specifications/)
 
 #### 4.1.1 Reference Implementations
 
