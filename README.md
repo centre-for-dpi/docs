@@ -37,5 +37,5 @@ We've also thought through some [tech architecture principles](technical-notes/d
 1. [Digital IDs and Electronic Registries](dpi/digital-ids-and-electronic-registries/)
 2. [Electronic Signature, PKI and Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)
 3. [Digital Payment Networks](dpi/digital-payment-networks/)
-4. [Data and Credentialing Infra](dpi/data-and-credentialing-infra.md)
+4. [Data and Credentialing Infra](technical-notes/data-and-credentialing-infra/)
 5. [Discovery & Fulfillment Networks](dpi/discovery-and-fulfillment-networks.md)
