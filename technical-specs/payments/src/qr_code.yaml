@@ -9,9 +9,9 @@ info:
   license:
     name: CC BY-SA 4.0
     url: 'https://github.com/centre-for-dpi/docs/blob/main/LICENSE'
-  servers:
-    - url: 'https://sndbx.dpg.org/{namespace}/ver'
-    - description: Sandbox Server
+servers:
+  - url: 'https://sndbx.dpg.org/{namespace}/ver'
+    description: Sandbox Server
 paths :
   /qr/pay:
     post:
@@ -25,7 +25,7 @@ paths :
       responses:
         default:
           description: "success"
-  /qr/pay/{url_encoded_req}:
+  /qr/pay/{url_encoded_qr_req}:
     get:
       summary: /qr/pay/{url_encoded_qr_req}
       description: | 
@@ -143,7 +143,7 @@ components:
           format: date-time
           example: "20230605T101225+5:30"
         refNum:
-          description: Reference no can refer to order id, bill no to carry business context
+          description: Primary reference no can refer to inovice num, order id, bill num to carry business context
           type: string
           example: 2023/123456
         refUrl:
@@ -155,8 +155,11 @@ components:
           type: string 
           maxLength: 20
           example: "catrdige 10 nos"
-        additional_data:
-          description: Additional data that may be useful especially when generating dynamic qr codes.
+        addlData:
+          description: |
+            1. Additional data that may be useful especially when generating dynamic qr codes to carry business context
+            2. Customer, Business, Transaction and Payment related additional context info can be placed here
+            3. e.g., location, invoice num, order id, audit info, etc.,
           type: array
           items:
             $ref: "#/components/schemas/KeyValue"
