@@ -4,18 +4,18 @@ description: >-
   social protection
 ---
 
-# 👩💼 Face Authentication
+# Face Authentication
 
-## 1. Overview
+## Overview
 
 Authenticating a user is most primitive action in any service delivery. Assuming user's registered photo is available in digital form and is easily verifiable, opening up face authentication on mobile phone app(s) creates non linear scale in providing services in an inclusive way.
 
-## 2. Assumptions
+## Assumptions
 
 1. Country or any department offers a digitally signed artefact i.e JSON/XML document as file or in QR code format with foundational/functional ID or ID alias, Photo and any other minimal information requried for validation to deliver a service.
 2. Access to this digitally signed artefact can be through a digitial copy shared or securely cached on a mobile device, scanned through QR code using a printed or physically issued card.
 
-## 3. Challenges
+## Challenges
 
 Following are few common challenges in any given country / context that is the primary cause for user exclusion who may other wise can be easily reached to deliver services:
 
@@ -25,7 +25,7 @@ Following are few common challenges in any given country / context that is the p
 4. **Choice** : Users trust known neighbourhood agents and choice to pick the service touch points/agents is key to build trust / inclusion.
 5. **Automation** : Manual steps/processes cause delays, middlemen
 
-## 5. Approach
+## Approach
 
 Following are few key capabilities to consider to address above challenges:
 
@@ -37,13 +37,13 @@ Following are few key capabilities to consider to address above challenges:
 6. **Device Registration** : All mobile devices enabled to provide self or asssisted services can be registered to manage granual level of controls to deliver services in secure and trusted environments.
 7. **Assisted Operators**: All assisted operators enabled to provide assisted services can be trained and registered to deliver remote services.
 
-## 6. Risk Mitigation
+## Risk Mitigation
 
 1. Face authentication models should be well tested to ensure seamless user experience to address **inclusion**. The solution should work in conditions like low device technical specifications, lighting conditions, ease use, local language support, integration with business application flows etc.,
 2. Face authentication models should be integrated with face **liveness** detection process as well.
 3. Digital **exception** management should integrated into the workflows thought reason codes. Scenarios where face liveness / match, backend service related errors to be handled through a well thought through exception management process.
 4. Continuous improvements to both technical and business processs should be considered by analysing the **telemetry** data from the devices.
 
-## 7. Summary
+## Summary
 
 Face Autentication using a mobile device opens up an oppurtunity for governments to serve large number of [excluded](face-authentication.md#3.-challenges) population with ease.&#x20;
