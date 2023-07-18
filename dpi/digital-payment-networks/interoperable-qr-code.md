@@ -21,20 +21,20 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 
 ## 3. Specification
 
-#### Interoperable QR Links specifications [yaml file](../../technical-specs/payments/src/QRCode.yaml)
+#### Interoperable QR Links specifications yaml [spec file](../../technical-specs/payments/src/qr\_code.html)
 
 #### JSON Sample:
 
-```yaml
+{% code title="qr_code_sample.json" overflow="wrap" lineNumbers="true" fullWidth="true" %}
+```json
 {
   "version": "1.0.0",
   "payee_fa": "joeuser@national-bank",
   "payee_name": "Printing & Stationeries Co",
   "amount": "138.50",
   "amount_split": {
-    "sale"" "117.37",
-    "igst": "21.13",
-    "key1": "value1"
+    "sale": "117.37",
+    "igst": "21.13"
   },
   "init_mode": "POS",
   "currency": "ZAR",
@@ -51,6 +51,7 @@ Additionally, experience layer at merchant and customer can optionally be suppor
   "sign": ""
 }
 ```
+{% endcode %}
 
 ## 4. Technical Considerations
 

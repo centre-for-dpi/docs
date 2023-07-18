@@ -2,7 +2,7 @@
 
 ## DPI
 
-* [🔍 DPI Overview](README.md)
+* [DPI Overview](README.md)
 * [📝 DPI Tech Architecture Principles](technical-notes/dpi-tech-architecture-principles/README.md)
   * [🔗 Interoperability](technical-notes/dpi-tech-architecture-principles/interoperability.md)
   * [🧱 Minimalist & Reusable Building Blocks](technical-notes/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
