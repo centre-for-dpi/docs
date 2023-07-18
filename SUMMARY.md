@@ -2,13 +2,13 @@
 
 ## DPI
 
-* [DPI Overview](README.md)
-* [📝 DPI Tech Architecture Principles](technical-notes/dpi-tech-architecture-principles/README.md)
-  * [🔗 Interoperability](technical-notes/dpi-tech-architecture-principles/interoperability.md)
-  * [🧱 Minimalist & Reusable Building Blocks](technical-notes/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
-  * [💡 Diverse, Inclusive Innovation](technical-notes/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
+* [📃 DPI Overview](README.md)
+* [🐾 DPI Tech Architecture Principles](technical-notes/dpi-tech-architecture-principles/README.md)
+  * [Interoperability](technical-notes/dpi-tech-architecture-principles/interoperability.md)
+  * [Minimalist & Reusable Building Blocks](technical-notes/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
+  * [Diverse, Inclusive Innovation](technical-notes/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
   * [Federated & Decentralised by Design](technical-notes/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
-  * [🔐 Security & Privacy By Design](technical-notes/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
+  * [Security & Privacy By Design](technical-notes/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
 * [🎯 DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
 
 ## Technical Notes
