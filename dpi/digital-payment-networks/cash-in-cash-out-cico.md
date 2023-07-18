@@ -1,7 +1,5 @@
 ---
-description: >-
-  Standards to help create interoperable agents that allow easy cash
-  withdrawal/deposits
+description: Interoperable banking agents, devices for last mile CICO transactions
 ---
 
 # Cash in Cash Out (CICO)
