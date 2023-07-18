@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "payee_fa": "joeuser@national-bank",
+  "payee_name": "Printing & Stationeries Co",
+  "amount": "138.50",
+  "amount_split": {
+    "sale": "117.37",
+    "igst": "21.13"
+  },
+  "init_mode": "POS",
+  "currency": "ZAR",
+  "mid": "M-12345",
+  "pos_id": "POS-123",
+  "expiry": "20230605T101225+5:30",
+  "order_id": "2023/123456",
+  "ref_url": "https://printing.co/orderId=2023/123456",
+  "additional_data": {
+    "bill_number": "123",
+    "reference_no": "PO123",
+    "key1": "value1"
+  },
+  "sign": ""
+}
