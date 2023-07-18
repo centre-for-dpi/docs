@@ -21,7 +21,7 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 
 ## 3. Specification
 
-#### Interoperable QR Links specifications yaml [spec file](../../technical-specs/payments/src/qr\_code.html)
+#### Interoperable QR Links specifications yaml spec [file](https://centre-for-dpi.github.io/docs/qr\_code.html)
 
 #### JSON Sample:
 
