@@ -2,7 +2,7 @@
 description: An approach that works to transform nations at scale
 ---
 
-# 🔍 DPI Overview
+# DPI Overview
 
 **Digital Public Infrastructure** - or DPI - is a phrase now regularly referenced by government officials, think tanks, development institutions, nonprofits, and even global CEOs as a **transformational approach** to leapfrog progress at scale. Countries like Brazil, India, Singapore, Australia, and Thailand have all built and scaled DPI. As with any rapidly evolving construct, every new project and experiment around the world slightly alters what people mean when they use the phrase. At the Centre for DPI, we'd like to put out our thinking to help countries answer the question: what is this magic sauce that you call DPI, and how can it fast track our national digitisation plans to create **inclusive and innovative digital economies?**
 
