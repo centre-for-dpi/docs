@@ -1,5 +1,7 @@
 ---
-description: One approach to enabling ease of access to public and private services
+description: >-
+  Approach to enabling inclusion in onboarding individuals for use cases such as
+  social protection
 ---
 
 # 👩💼 Face Authentication

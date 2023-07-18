@@ -14,8 +14,9 @@
 ## Technical Notes
 
 * [🆔 Identifiers & Registries](dpi/digital-ids-and-electronic-registries/README.md)
+  * [🆔 Digital ID](technical-notes/digital-ids-and-electronic-registries/digital-id.md)
   * [👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
-* [📂 Data Sharing and AI/ML Models](technical-notes/data-and-credentialing-infra/README.md)
+* [📂 Data Sharing and AI/ML Models](dpi/data-and-credentialing-infra.md)
   * [eLockers](technical-notes/data-and-credentialing-infra/elockers.md)
 * [🔏 Signatures & Consent](dpi/electronic-signature-pki-and-trust-infra.md)
 * [🛒 Discovery & Fulfilment](dpi/discovery-and-fulfillment-networks.md)
