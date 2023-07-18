@@ -42,3 +42,7 @@ code@purpose-code.voucher-provider e.g voucher:12345@food.coupon-network
 
 {% endtab %}
 {% endtabs %}
+
+## Attributions
+
+1. The concept of financial address is inspired from NPCI's [UPI Protocol](https://www.npci.org.in/what-we-do/upi/product-overview) use of Virtual Address or UPI ID.
