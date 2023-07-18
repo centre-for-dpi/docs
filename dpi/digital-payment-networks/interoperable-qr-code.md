@@ -101,8 +101,7 @@ Above specification has been stress tested for below use cases. Sample JSONs are
 1. Signed QR code content is mandatory to ensure **security** and detect any malicious requests / phishing attacks.
 2. &#x20;Scanning of QR codes and verification of **digitally singed** QR code content is the responsibility of the payment apps on customer mobiles.
 3. Payment Network provider shall manage the registry of all **acquiring banks** authorised to onboard merchants and offer digitally singed QR codes.&#x20;
-4. QR Codes perform well if information is **sparsely packed** for all types of devices displaying and scanning can optimally perform.
-5. Whereever possible, use short URLs and **optimise size** of the QR codes.
+4. QR Codes perform well if information is **sparsely packed** for all types of devices displaying and scanning can optimally perform. Where possible, implementers are recommended to use short URLs and **optimise size** of overall QR code. This QR specs ensured to keep the json attribute values short.
 
 ## 5. Typical flow
 
