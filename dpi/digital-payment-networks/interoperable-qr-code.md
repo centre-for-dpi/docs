@@ -1,4 +1,4 @@
-# Interoperable QR Code
+# Interoperable QR Code (P2P/P2M)
 
 ## 1. Overview
 
@@ -28,19 +28,24 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 ```yaml
 {
   "version": "1.0.0",
-  "payee_fa": "joeuser@gtbank",
-  "payee_name": "Kapoor Printing & Stationeries",
-  "amount": "117.50",
-  "init_mode": "QR",
-  "currency": "KSH",
+  "payee_fa": "joeuser@national-bank",
+  "payee_name": "Printing & Stationeries Co",
+  "amount": "138.50",
+  "amount_split": {
+    "sale"" "117.37",
+    "igst": "21.13",
+    "key1": "value1"
+  },
+  "init_mode": "POS",
+  "currency": "ZAR",
   "mid": "M-12345",
   "pos_id": "POS-123",
   "expiry": "20230605T101225+5:30",
   "order_id": "2023/123456",
-  "ref_url": "",
+  "ref_url": "https://printing.co/orderId=2023/123456",
   "additional_data": {
-    "bill_number": "",
-    "reference_no": "",
+    "bill_number": "123",
+    "reference_no": "PO123",
     "key1": "value1"
   },
   "sign": ""
@@ -50,7 +55,7 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 ## 4. Technical Considerations
 
 1. QR code content can also be represented in URI or Fixed tag representation formats for use in low network environment is encouraged. e.g.,
-   1. _**xxx**_://pay?payee\_fa=joeuser@gtbank\&payee\_name=Kapoor Printing & Stationeries\&amount=117.50\&currency=KSH\&mid=M-12345
+   1. _**xxx**_://pay?payee\_fa=joeuser@national-bank\&payee\_name=Printing & Stationeries Co\&amount=128.50\&currency=ZAR\&mid=M-12345
 2. Signed QR code content is mandatory to ensure security and detect any malicious requests / phishing attacks.
 3. &#x20;Scanning of QR codes and verification of digitally singed QR code content is the responsibility of the payment apps on customer mobiles.
 4. Payment Network provider shall manage the registry of all authorised **acquiring** banks allowed to onboard merchants and offer digitally singed QR codes.&#x20;

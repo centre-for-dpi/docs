@@ -3,17 +3,6 @@
 ## DPI
 
 * [🔍 DPI Overview](README.md)
-* [🆔 Digital IDs & Electronic Registries](dpi/digital-ids-and-electronic-registries/README.md)
-  * [👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
-* [🔏 Electronic Signature, PKI & Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)
-* [📂 Data & Credentialing Infra](dpi/data-and-credentialing-infra.md)
-* [💸 Digital Payment Networks](dpi/digital-payment-networks/README.md)
-  * [Interoperable QR Code](dpi/digital-payment-networks/interoperable-qr-code.md)
-  * [Financial Address Mapper](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
-* [🛒 Discovery & Transactions Networks](dpi/discovery-and-fulfillment-networks.md)
-
-## Technical Notes
-
 * [📝 DPI Tech Architecture Principles](technical-notes/dpi-tech-architecture-principles/README.md)
   * [🔗 Interoperability](technical-notes/dpi-tech-architecture-principles/interoperability.md)
   * [🧱 Minimalist & Reusable Building Blocks](technical-notes/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
@@ -22,9 +11,26 @@
   * [🔐 Security & Privacy By Design](technical-notes/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
 * [🎯 DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
 
+## Technical Notes
+
+* [🆔 Identifiers & Registries](dpi/digital-ids-and-electronic-registries/README.md)
+  * [🆔 Digital ID](technical-notes/digital-ids-and-electronic-registries/digital-id.md)
+  * [👩💼 Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
+* [📂 Data Sharing and AI/ML Models](dpi/data-and-credentialing-infra.md)
+  * [eLockers](technical-notes/data-and-credentialing-infra/elockers.md)
+* [🔏 Signatures & Consent](dpi/electronic-signature-pki-and-trust-infra.md)
+* [🛒 Discovery & Fulfilment](dpi/discovery-and-fulfillment-networks.md)
+* [💸 Payments](dpi/digital-payment-networks/README.md)
+  * [Interoperable QR Code (P2P/P2M)](dpi/digital-payment-networks/interoperable-qr-code.md)
+  * [Interoperable Authentication (P2P/P2M)](dpi/digital-payment-networks/interoperable-authentication-p2p-p2m.md)
+  * [Financial Address Mapper (G2P)](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
+  * [Cash in Cash Out (CICO)](dpi/digital-payment-networks/cash-in-cash-out-cico.md)
+  * [Interoperable Bill Payments](dpi/digital-payment-networks/interoperable-bill-payments.md)
+
 ## Blueprints
 
 * [G2P Connect](https://g2pconnect.cdpi.dev)
+* [Health Connect (forthcoming)](blueprints/health-connect-forthcoming.md)
 
 ## References
 
