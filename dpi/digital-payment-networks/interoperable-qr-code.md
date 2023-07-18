@@ -43,9 +43,7 @@ Interoperable QR Code specs shall enable to easily scan & pay by capturing all t
 
 **Specification:** [link](https://centre-for-dpi.github.io/docs/qr\_code.html) | [source](../../technical-specs/payments/src/qr\_code.yaml)
 
-**Discussions**:  [link](https://github.com/orgs/centre-for-dpi/discussions)
-
-**Attributions**:&#x20;
+**Discussions**:  [link](https://github.com/orgs/centre-for-dpi/discussions)&#x20;
 {% endtab %}
 
 {% tab title="v0.1.0 Sample" %}
@@ -120,3 +118,6 @@ Below is a typical flow to make initiate merchant based QR code based payments:
 ## Additional References
 
 1. QR Code printing specifications <**tbd>**
+
+## Attributions
+

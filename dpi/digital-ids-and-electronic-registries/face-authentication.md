@@ -47,3 +47,5 @@ Following are few key capabilities to consider to address above challenges:
 ## Summary
 
 Face Autentication using a mobile device opens up an oppurtunity for governments to serve large number of [excluded](face-authentication.md#3.-challenges) population with ease.&#x20;
+
+## Attributions
