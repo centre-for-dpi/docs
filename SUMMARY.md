@@ -21,11 +21,12 @@
 * [🔏 Signatures & Consent](dpi/electronic-signature-pki-and-trust-infra.md)
 * [🛒 Discovery & Fulfilment](dpi/discovery-and-fulfillment-networks.md)
 * [💸 Payments](dpi/digital-payment-networks/README.md)
-  * [Interoperable QR Code (P2P/P2M)](dpi/digital-payment-networks/interoperable-qr-code.md)
-  * [Interoperable Authentication (P2P/P2M)](dpi/digital-payment-networks/interoperable-authentication-p2p-p2m.md)
-  * [Financial Address Mapper (G2P)](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
-  * [Cash in Cash Out (CICO)](dpi/digital-payment-networks/cash-in-cash-out-cico.md)
+  * [Financial Address](technical-notes/digital-payment-networks/financial-address.md)
+  * [Interoperable QR Code](dpi/digital-payment-networks/interoperable-qr-code.md)
+  * [Interoperable Authentication](dpi/digital-payment-networks/interoperable-authentication-p2p-p2m.md)
   * [Interoperable Bill Payments](dpi/digital-payment-networks/interoperable-bill-payments.md)
+  * [Cash in Cash Out (CICO)](dpi/digital-payment-networks/cash-in-cash-out-cico.md)
+  * [Financial Address Mapper (G2P)](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
 
 ## Blueprints
 

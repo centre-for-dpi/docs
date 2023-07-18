@@ -1,11 +1,15 @@
-# Interoperable QR Code (P2P/P2M)
+---
+description: P2P, P2M, Recurring/Bill Payments, etc.,
+---
+
+# Interoperable QR Code
 
 ## 1. Overview
 
 Interoperable QR code specifications enables choice to users to make payments. Countries that have a near real time interoperable payment network can leverage interoperable QR codes to:
 
 1. Easily initiate payments using QR codes.
-2. Enable payments between P2P, P2B/P2M, Bill Payments etc.,
+2. Enable payments between P2P, P2B/P2M, Recurring/Bill Payments etc.,
 3. Capability to generate dynamic QR codes with amount. For static QR Codes, amount has to be entered by payer.
 4. Merchant can automate reconciliation of orders/payments, generate receipts/notifications by integrating with existing accounting platforms. This is a win-win to both business and customer.
 

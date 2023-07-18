@@ -1,2 +1,6 @@
-# Interoperable Authentication (P2P/P2M)
+---
+description: P2P, P2M
+---
+
+# Interoperable Authentication
 
