@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: QR Code
-  description: 'Interoperable QR code specification'
+  description: 'Interoperable QR code specification. '
   version: 0.1.0
   contact:
     name: CDPI
@@ -12,6 +12,7 @@ info:
 paths :
   /qr/pay:
     post:
+      description: End point to post the payment instructions read from QR scan!
       requestBody:
         content:
          application/json:
