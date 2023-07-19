@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: QR Code
   description: |
-    1. Interoperable QR code specification to Scan & Pay, Click & Pay and to Deep Link between apps
+    1. Interoperable QR code specification to Scan & Pay, Click & Pay and to Deep Link between apps and to enable easy one click and authorise one time or recurring payment.
     2. For more info on technical specs, click <a href="https://docs.cdpi.dev/technical-notes/digital-payment-networks/interoperable-qr-code">here</a>
     3. For discussions, click <a href="https://github.com/orgs/centre-for-dpi/discussions">here</a>
   version: 0.8.2 - draft
