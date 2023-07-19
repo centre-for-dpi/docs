@@ -1,6 +1,6 @@
-# 🆔 Digital ID
+# Digital ID
 
-## 1. Context
+## Context
 
 Government's primary aim is to reach out to specific target user base to easily identify a user and deliver govt services - e.g. medical care, pensions, collect taxes, etc., Every country can relate to existence of at-least one of the below identity systems:
 
@@ -39,7 +39,7 @@ In these challenging scenarios governments are trying to address globally accept
 
 <mark style="color:red;">**DIGITISING AN EXISTING ID INTO A DIGITAL ID CAN OPEN UP NON LINEAR OPPORTUNITIES FOR GOVTS TO UNIVERSAL ACCEPT DIGITAL IDs WITH TRUST.**</mark>
 
-## 2. What is a Digital ID?
+## What is a Digital ID?
 
 Any foundational or functional ID that supports below properties is considered a Digital ID:
 
@@ -53,7 +53,7 @@ Any foundational or functional ID that supports below properties is considered a
 8. **Enable Full/Selective KYC -** Digital ID SHALL enable option to release full or selective Know Your Customer (KYC) attributes for downstream use of ID.
 9. **Unique ID -** Digital ID MAY be deduplicated against biometric or demographic data to ensure ONLY unique IDs are issued.&#x20;
 
-## 3. Why is Digital ID important?
+## Why is Digital ID important?
 
 While a biometric deduplicated ID system is considered a fool proof ID issuance platform, Governments need not wait for such an ideal scenario to identify a user with TRUST both in physical and digital worlds. \
 
@@ -63,7 +63,7 @@ Digital ID use shall enable policy makers to integrate with other jurisdiction f
 
 Digital IDs made available from existing functional ID systems can eventually link to deduplicated foundational IDs i.e when a country adopts such a deduplicated issuance platform.
 
-## 4. How to convert to a Digital ID?
+## How to convert to a Digital ID?
 
 Governments can consider below indicative suggestions as an inspiration to to convert physical IDs to Digital IDs:
 
@@ -80,3 +80,5 @@ Governments can consider below indicative suggestions as an inspiration to to co
 1. EACH COUNTRY MUST HAVE THEIR OWN STRATEGY TO MAKE FOUNDATIONAL & FUNCTIONAL IDS AVAILABLE AS DIGITAL IDs.&#x20;
 2. THIS DIGITAL ID CONCEPT FOR A PERSON CAN BE EXTENDED TO ORGANISATIONS, ENTITIES AND THINGS.
 3. HAVING A DIGITAL ID IS MUST HAVE DIGITAL PUBLIC INFRASTRUCTURE (DPI) FOR ANY DIGITAL TRANSFORMATION JOURNEY!
+
+## Attributions
