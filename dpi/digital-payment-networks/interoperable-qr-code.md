@@ -118,6 +118,7 @@ Below is a typical flow to make initiate merchant based QR code based payments:
 ## Additional References
 
 1. QR Code printing specifications <**coming soon>**
+2. [The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR\_Codes\_in\_Payments\_Final.pdf) Part of World Bank Fast Payments Toolkit Sep 2021
 
 ## Attributions
 
