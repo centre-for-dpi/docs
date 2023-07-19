@@ -1,8 +1,11 @@
 openapi: 3.0.0
 info:
   title: QR Code
-  description: 'Interoperable QR code specification. '
-  version: 0.1.0
+  description: |
+    1. Interoperable QR code specification to Scan & Pay, Click & Pay and to Deep Link between apps
+    2. For more info on technical specs, click <a href="https://docs.cdpi.dev/technical-notes/digital-payment-networks/interoperable-qr-code">here</a>
+    3. For discussions, click <a href="https://github.com/orgs/centre-for-dpi/discussions">here</a>
+  version: 0.8.2 - draft
   contact:
     name: CDPI
     email: info@cdpi.dev
@@ -75,7 +78,7 @@ components:
       properties:
         ver:
           type: string
-          example: "1.0.0"
+          example: "0.8.2"
         txnId:
           description: |
             1. System generated unique transaction id for each payment request 
@@ -187,11 +190,13 @@ components:
           type: array
           items:
             $ref: "#/components/schemas/KeyValue"
-        sign:
-          description: Digital signature
+        signature:
+          description: |
+            1. Digital signature as per country's established standards & guidelines
+            2. Recommnedation is to use atleast 2K keys for signing
           type: string
       required:
       - payeeFa
       - payeeName
       - totalAmt
-      - sign
+      - signature
