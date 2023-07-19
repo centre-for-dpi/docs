@@ -48,10 +48,19 @@ components:
         example: "%7B%0A%20%20%22version%22%3A%20%221.0.0%22%2C%0A%20%20%22payee_fa%22%3A%20%22joeuser%40national-bank%22%2C%0A%20%20%22payee_name%22%3A%20%22Printing%20%26%20Stationeries%20Co%22%2C%0A%20%20%22amount%22%3A%20%22138.50%22%2C%0A%20%20%22amount_split%22%3A%20%7B%0A%20%20%20%20%22sale%22%3A%20%22117.37%22%2C%0A%20%20%20%20%22igst%22%3A%20%2221.13%22%0A%20%20%7D%2C%0A%20%20%22init_mode%22%3A%20%22POS%22%2C%0A%20%20%22currency%22%3A%20%22ZAR%22%2C%0A%20%20%22mid%22%3A%20%22M-12345%22%2C%0A%20%20%22pos_id%22%3A%20%22POS-123%22%2C%0A%20%20%22expiry%22%3A%20%2220230605T101225%2B5%3A30%22%2C%0A%20%20%22order_id%22%3A%20%222023%2F123456%22%2C%0A%20%20%22ref_url%22%3A%20%22https%3A%2F%2Fprinting.co%2ForderId%3D2023%2F123456%22%2C%0A%20%20%22additional_data%22%3A%20%7B%0A%20%20%20%20%22bill_number%22%3A%20%22123%22%2C%0A%20%20%20%20%22reference_no%22%3A%20%22PO123%22%2C%0A%20%20%20%20%22key1%22%3A%20%22value1%22%0A%20%20%7D%2C%0A%20%20%22sign%22%3A%20%22%22%0A%7D"
   schemas:
     Amount:
-      type: number
+      type: string
       description: Describes amount in decimal value format
       pattern: '^\d{1,13}\.\d{1,2}$'
       example: "117.50"
+    SplitAmount:
+      type: object
+      properties:
+        desc: 
+          type: string
+          description: description of various category of split amount types
+          enum: ["tip", "svcCharge", "vat", "gst", salesTax", "round", "disc", "other"]
+        amt:
+          $ref: "#/components/schemas/Amount"
     KeyValue:
       type: object
       description: Key Value object to track additional details
@@ -68,36 +77,30 @@ components:
           type: string
           example: "1.0.0"
         txnId:
-          description: System generated unique transaction id for each payment request and applicable in dynamic qr's
+          description: |
+            1. System generated unique transaction id for each payment request 
+            2. Applicable in dynamic qr's
           type: string
+          maxLength: 50
           example: "2023/123456"
         txnTs:
-          description: Transaction time stamp. Applicable in dynamic qr's
+          description: |
+            1. Transaction time stamp
+            2. Applicable in dynamic qr's
           type: string
           format: date-time
           example: "20230605T101125+5:30"
         payeeFa:
           type: string
-          description: "<br>
-            1. Financial address is case insensitive normative represenation of a store of value account represented as id-type:id@provider <br>
-            2. Every payer/payee financial address must resolve to an actual store of value account number for processing the payment instruction <br>
-            3. It is recommended the mapping between id and store of value account details to be held only at final store of value entity and intermediaries can hold 
-            3. Few examples: <br>
-                - token@id-provider e.g token:12345@national-id <br>
-                - uid@pymt-rail e.g uid:12345@national-id <br>
-                - vid@id-provider e.g vid:12345@national-id <br>
-                - mobile@mobile-provider e.g mobile:12345@mobile-pymt <br>
-                - account-id@bank-psp-code e.g account:12345@national-bank <br>
-                - account-no@ifsc-code.ifsc.pymt-rail e.g account:12345@abcd0000001.ifsc.pymt-rail <br>
-                - user-id@psp-code e.g. joeuser@national-bank <br>
-                - token@psp-code e.g token:123456@a123 <br>
-                - code@purpose-code.voucher-provider e.g voucher:12345@food.coupon-network <br>
-                - cdbc-id@cdbc e.g. 12345@digital-cash"
+          description: |
+            1. Payee <a href="https://docs.cdpi.dev/technical-notes/digital-payment-networks/financial-address">Financial Address</a>
+            2. Please refer to the link for more info.
           format: "^[a-zA-Z0-9.-]+@[a-zA-Z0-9.-]+$"
           example: "joeuser@national-bank"
         payeeName:
           description: Resolved payee name from the network for additional reference
           type: string
+          maxLength: 100
           example: "Printing & Stationeries Co"
         totalAmt:
           $ref: '#/components/schemas/Amount'
@@ -108,14 +111,7 @@ components:
             3. Countries/Implemenations can customise as per local context
           type: array
           items:
-            type: object
-            properties:
-              desc: 
-                type: string
-                description: description of various category of split amount types
-                enum: ["tip", "svcCharge", "vat", "gst", salesTax", "round", "disc", "other"]
-              amt:
-                $ref: "#/components/schemas/Amount"
+            $ref: "#/components/schemas/SplitAmount"
         mode:
           type: string
           description: |
@@ -132,34 +128,62 @@ components:
         mid: 
           description: Merchant Id
           type: string
+          maxLength: 50
           example: "M-12345"
         tid: 
           description: Terminal Id
           type: string
+          maxLength: 50
           example: "POS-123"
-        expiry:
-          description: Expiry date-time
+        expiryTs:
+          description: Pay by date-time after which the QR code is no longer valid
           type: string
           format: date-time
           example: "20230605T101225+5:30"
         refNum:
           description: Primary reference no can refer to inovice num, order id, bill num to carry business context
           type: string
+          maxLength: 100
           example: 2023/123456
         refUrl:
           description: referne url
           type: string
+          maxLength: 100
           example: "https://printing.co/orderId=2023/123456"
         note:
           description: Note made by user or system to easily refer to the payment/txn
           type: string 
-          maxLength: 20
+          maxLength: 25
           example: "catrdige 10 nos"
-        addlData:
+        repeat:
+          description: Instructions to authroise recurring payments, subscription scenarios
+          type: object
+          properties:
+            start:
+              description: date-time from which the recuring payments should start
+              type: string
+              format: date-time
+            end:
+              description: date-time when the recurring payments should end
+              type: string
+              format: date-time
+            frequency:
+              description: |
+                1. Frequency at which authorised payment is repeated for presentation. 
+                2. This will be represented in the form of cron expression.  
+                3. example, At 00:00:00am, on the 5th and 15th day, every month
+              type: string
+              example: "0 0 0 5,15 * ? *"
+            maxLimit:
+              description: |
+                1. Instructions to enable max amount limits for recurring/subscription setup 
+                2. for e.g., when paying recurring bills and user would like to set an upper amount limit for auto authorization
+              $ref: "#/components/schemas/Amount"
+        addlInfo:
           description: |
             1. Additional data that may be useful especially when generating dynamic qr codes to carry business context
             2. Customer, Business, Transaction and Payment related additional context info can be placed here
-            3. e.g., location, invoice num, order id, audit info, etc.,
+            3. e.g., location, invoice num, order id, audit related info
           type: array
           items:
             $ref: "#/components/schemas/KeyValue"
@@ -167,8 +191,7 @@ components:
           description: Digital signature
           type: string
       required:
-      - payer_fa
-      - payee_fa
-      - amount
-      - init_mode
+      - payeeFa
+      - payeeName
+      - totalAmt
       - sign
