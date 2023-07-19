@@ -26,12 +26,12 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 ## Specifications
 
 {% tabs %}
-{% tab title="v0.1.0 (Draft)" %}
+{% tab title="v0.8.2 (Draft)" %}
 **Status:** Draft Version; Request for Comments&#x20;
 
-**Version**: <mark style="color:red;">0.1.0 Draft</mark>
+**Version**: <mark style="color:red;">0.8.2 Draft</mark>
 
-**Date**: 18-Jul-2023
+**Date**: 19-Jul-2023
 
 **Authors**: CDPI&#x20;
 
@@ -39,7 +39,7 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 
 **Description**:&#x20;
 
-Interoperable QR Code specs shall enable to easily scan & pay by capturing all the required information to authorise a payment.&#x20;
+Interoperable QR code specification to Scan & Pay, Click & Pay and to Deep Link between apps and to enable easy one click and authorise one time or recurring payment.
 
 **Specification:** [link](https://centre-for-dpi.github.io/docs/qr\_code.html) | [source](../../technical-specs/payments/src/qr\_code.yaml)
 
@@ -117,7 +117,7 @@ Below is a typical flow to make initiate merchant based QR code based payments:
 
 ## Additional References
 
-1. QR Code printing specifications <**tbd>**
+1. QR Code printing specifications <**coming soon>**
 
 ## Attributions
 
