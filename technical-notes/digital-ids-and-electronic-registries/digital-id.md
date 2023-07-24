@@ -37,7 +37,7 @@ While the above IDs are enrolled and issued with multiple levels of physical ver
 In these challenging scenarios governments are trying to address globally accepted Sustainable Development Goals (SDGs) by adopting digital transformation programs. Governments and Development Agencies are investing large sums of money to digitise business processes by building portals, mobile apps, and platforms to reach the target user base while NOT able to IDENTIFY & AUTHENTICATE the user with 100% TRUST.\
 
 
-<mark style="color:red;">**DIGITISING AN EXISTING ID INTO A DIGITAL ID CAN OPEN UP NON LINEAR OPPORTUNITIES FOR GOVTS TO UNIVERSALLY ACCEPT TRUSTED DIGITAL IDs.**</mark>
+<mark style="color:purple;">**DIGITISING AN EXISTING ID INTO A DIGITAL ID CAN OPEN UP NON LINEAR OPPORTUNITIES FOR GOVTS TO DRIVE DIGITAL INCLUSION VIA UNIVERSALLY ACCEPT TRUSTED DIGITAL IDs.**</mark>
 
 ## What is a Digital ID?
 
@@ -63,7 +63,7 @@ Digital ID use shall enable policy makers to integrate with other jurisdiction f
 
 Digital IDs made available from existing functional ID systems can eventually link to deduplicated foundational IDs i.e when a country adopts such a deduplicated issuance platform.
 
-## How to convert to a Digital ID?
+## How to convert an existing ID to a Digital ID
 
 Governments can consider below indicative suggestions as an inspiration to to convert physical IDs to Digital IDs:
 
