@@ -37,7 +37,7 @@ While the above IDs are enrolled and issued with multiple levels of physical ver
 In these challenging scenarios governments are trying to address globally accepted Sustainable Development Goals (SDGs) by adopting digital transformation programs. Governments and Development Agencies are investing large sums of money to digitise business processes by building portals, mobile apps, and platforms to reach the target user base while NOT able to IDENTIFY & AUTHENTICATE the user with 100% TRUST.\
 
 
-<mark style="color:purple;">**DIGITISING AN EXISTING ID INTO A DIGITAL ID CAN OPEN UP NON LINEAR OPPORTUNITIES FOR GOVTS TO DRIVE DIGITAL INCLUSION VIA UNIVERSALLY ACCEPT TRUSTED DIGITAL IDs.**</mark>
+<mark style="color:purple;">**DIGITISING AN EXISTING ID INTO A DIGITAL ID CAN OPEN UP NON LINEAR OPPORTUNITIES FOR GOVTS TO DRIVE DIGITAL INCLUSION VIA UNIVERSALLY ACCEPTED, TRUSTED DIGITAL IDs.**</mark>
 
 ## What is a Digital ID?
 
