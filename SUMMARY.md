@@ -36,6 +36,7 @@
 
 ## References
 
+* [Glossary](references/glossary.md)
 * [Curated Specifications](references/home.md)
 
 ## Additional Info
