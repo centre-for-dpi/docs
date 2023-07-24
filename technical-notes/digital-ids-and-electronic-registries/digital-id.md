@@ -45,7 +45,7 @@ Any foundational or functional ID that supports below properties is considered a
 
 1. **Human/System Readable -** Digital ID MUST be presented in a format that can be read by a human and systems. Key user identity attributes MUST be made available in QR Code format for systems to easily scan and read.
 2. **Verifiable -** QR Code component of ID MUST be digitally signed by the issuing authority and verification of digital signature to prove non-repudiability be made possible. Human verifying a QR code can be made possible using QR Code reader apps/sdk's.
-3. **Online/Offline Accessible -** Digital ID MUST be accessible through Online APIs. Digital ID MUST also be made available for offline use through digital wallets or by digitally signed scanning QR codes.
+3. **Online/Offline Accessible -** Digital ID MUST be accessible through Online APIs. Digital ID MUST also be made available for offline use through digital wallets or by digitally signed QR codes.
 4. **Online/Offline Authentication -** Digital ID MUST be able to authenticate the user both in online and offline modes. In Offline mode authentication service points are able to verify users in low or no network coverage regions with trust.
 5. **Consented Use -** Use of Digital ID SHALL enable option to collect consents from the user to use ID.
 6. **Privacy Protecting -** Digital ID SHALL enable option to mask ID for usage scenarios where full ID is not required.
