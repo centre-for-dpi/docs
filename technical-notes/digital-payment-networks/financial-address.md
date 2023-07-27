@@ -34,9 +34,12 @@ The financial world is continually evolving with new products and offerings to c
 1. Traditionally bank accounts were identified with customer account number, bank id, bank branch. Overtime, with evolution of  mobile and net banking the identifiers have evolved where the branch id is no longer relevant and this got encapsulated with in mobile number/identifier and net banking customer id respectively.
 2. With card based networks/accounts, product offering with debit, credit, gift, pre-paid cards the attributes to identify a sore of value account keeps changing. e.g., card type, varying length of card number, card type, expiry year/month, cvv, one time tokens, etc.,
 3. &#x20;Digital cash and Crypto cash concepts are continuing to evolve.
-4. In these scneairos, defining a store of value account using a fixed key/value or object structure will not be intituitive and core payment api specifications need to be constantly updated with each new product offering coming into market.
-5. The idea of normative addressing format to represent any store of value account is referred to as **financial address** (fa). Any payer or payee accounts now can be abstracted to a normative address and resolution of final store of value account is left to the final entities doing debit/credit actions of the payment.
-6. On similar lines, to enable integration with various identity systems/registries of all customer ids can also be represented in normative addressing formats!
+
+In these scneairos, defining a store of value account using a fixed key/value or object structure will not be intituitive and core payment api specifications need to be constantly updated with each new product offering coming into market.
+
+The idea of normative addressing format to represent any store of value account is referred to as **financial address** (fa). Any payer or payee accounts now can be abstracted to a normative address and resolution of final store of value account is left to the final entities doing debit/credit actions of the payment.
+
+On similar lines, to enable integration with various identity systems/registries of all customer ids can also be represented in normative addressing formats!
 
 ## Principles
 
