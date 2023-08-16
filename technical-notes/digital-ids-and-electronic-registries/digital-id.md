@@ -2,7 +2,7 @@
 
 ## Context
 
-Government's primary aim is to reach out to specific target user base to easily identify a user and deliver govt services - e.g. medical care, pensions, collect taxes, etc., Every country can relate to existence of at-least one of the below identity systems:
+Government's primary aim is to reach out to specific target user base to easily [**identify**](#user-content-fn-1)[^1] a user and deliver govt services - e.g. medical care, pensions, collect taxes, etc., **Every country can relate to existence of at-least one of the below identity systems**:
 
 1. National Registration Cards (NRC)
 2. Regional Govts Identity Cards
@@ -11,7 +11,7 @@ Government's primary aim is to reach out to specific target user base to easily 
 5. Purpose driven functional identities - Voting, Driving, Farming, Taxation, Professional Practice (Doctor, Lawyer, Teacher, etc.,)
 6. Foundational/Functional IDs restricted to certain category of users - e.g., All Citizens, Citizens above x years, Residents, Refugees, etc.,
 
-In most of the countries foundational or functional IDs are issued as:
+**In most of the countries foundational or functional IDs are **<mark style="color:blue;">**issued**</mark>** as**:
 
 1. Simple paper optionally with a photo and/or hologram sticker&#x20;
 2. Laminate the paper based ID
@@ -26,7 +26,7 @@ In most of the countries foundational or functional IDs are issued as:
    8. Barcode / QR Code / Magnetic Strip / RFID / Smart Chip
    9. etc.,
 
-While the above IDs are enrolled and issued with multiple levels of physical verification, the IDs issued within a jurisdiction do have a good level of trust and acceptance within the country to deliver govt services. However, governments are challenged to accept foundational or functional IDs for various reasons:
+While the above IDs are enrolled and issued with multiple levels of physical verification, the IDs issued within a jurisdiction do have a **good level of trust and acceptance** within the country to deliver govt services. However, governments are <mark style="color:blue;">**challenged to accept**</mark> foundational or functional IDs for various reasons:
 
 1. Detecting genuine vs fraudulent ID cards;
 2. Trusting scanned QR code content;
@@ -41,27 +41,30 @@ In these challenging scenarios governments are trying to address globally accept
 
 ## What is a Digital ID?
 
-Any foundational or functional ID that supports below properties is considered a Digital ID:
+Any foundational or functional ID that supports below <mark style="color:blue;">**properties**</mark> is considered a Digital ID:
 
 1. **Human/System Readable -** Digital ID MUST be presented in a format that can be read by a human and systems. Key user identity attributes MUST be made available in QR Code format for systems to easily scan and read.
 2. **Verifiable -** QR Code component of ID MUST be digitally signed by the issuing authority and verification of digital signature to prove non-repudiability be made possible. Human verifying a QR code can be made possible using QR Code reader apps/sdk's.
 3. **Online/Offline Accessible -** Digital ID MUST be accessible through Online APIs. Digital ID MUST also be made available for offline use through digital wallets or by digitally signed QR codes.
 4. **Online/Offline Authentication -** Digital ID MUST be able to authenticate the user both in online and offline modes. In Offline mode authentication service points are able to verify users in low or no network coverage regions with trust.
-5. **Consented Use -** Use of Digital ID SHALL enable option to collect consents from the user to use ID.
-6. **Privacy Protecting -** Digital ID SHALL enable option to mask ID for usage scenarios where full ID is not required.
-7. **Self / Assisted Use Cases -** Digital ID SHALL enable self & assisted use cases to access, verify and authenticate the user with consents. Use of authorised operators helps to reach digitally illiterate users and helps in inclusion.&#x20;
-8. **Enable Full/Selective KYC -** Digital ID SHALL enable option to release full or selective Know Your Customer (KYC) attributes for downstream use of ID.
-9. **Unique ID -** Digital ID MAY be deduplicated against biometric or demographic data to ensure ONLY unique IDs are issued.&#x20;
+5. **Consented Use -** Use of Digital ID SHALL enable mechanisms to implement consents from the ID holder during authentication or data access or while other uses of ID.
+6. **Privacy Protecting -** Digital ID SHALL enable option to mask ID for usage scenarios where full ID is not required and ensure necessary consented authorisation for data access.
+7. **Self / Assisted Use Cases -** Digital ID SHALL enable self & assisted use cases to access, verify and authenticate the user with consents. Use of authorised operators helps to reach digitally illiterate users and helps in inclusion via open APIs with necessary authorisation by the ID holder.&#x20;
+8. **Enable Full/Selective KYC Disclosure -** Digital ID SHALL enable option to release full or selective Know Your Customer (KYC) attributes for downstream use of ID.
+9. **Unique ID -** Digital ID MAY be deduplicated against biometric or demographic data to ensure ONLY unique IDs are issued. Uniqueness of an ID is NOT a necessary requirement. Many use cases do not require to identify and authenticate an unique user. Identifying and easily/securely authenticating a user is sufficient.&#x20;
+10. **Laws/Regulations -** Digital ID MAY be governed by local laws/regulations to ensure equitable access to ecosystem participants across sectors to reduce friction and costs. Laws/regulations ensures acceptance of DIGITAL ID called out though above properties to create a multiplier effect as a foundational Digital Public Infrastructure.
 
 ## Why is Digital ID important?
 
-While a biometric deduplicated ID system is considered a fool proof ID issuance platform, Governments need not wait for such an ideal scenario to identify a user with TRUST both in physical and digital worlds. \
+Many govt programs do not require a unique ID to deliver services. Very few services may actually require a unique id. Use of Digital IDs shall allow policy makers to reduce friction/cost and to allow integration between systems.
 
-
-Digital ID use shall enable policy makers to integrate with other jurisdiction functional id’s to find duplicates through trusted demographic data and continually improve to remove ghost beneficiaries.\
+\
+Digital ID use shall enable policy makers to integrate with other jurisdiction functional id’s while finding duplicates through trusted demographic data techniques is a continuous improvement process to remove ghost beneficiaries.\
 
 
 Digital IDs made available from existing functional ID systems can eventually link to deduplicated foundational IDs i.e when a country adopts such a deduplicated issuance platform.
+
+While a biometric deduplicated ID system is considered a fool proof ID issuance platform, Governments need not wait for such an ideal scenario to identify a user with **TRUST** both in physical and digital worlds.&#x20;
 
 ## How to convert an existing ID to a Digital ID
 
@@ -82,3 +85,5 @@ Governments can consider below indicative suggestions as an inspiration to to co
 3. HAVING A DIGITAL ID IS MUST HAVE DIGITAL PUBLIC INFRASTRUCTURE (DPI) FOR ANY DIGITAL TRANSFORMATION JOURNEY!
 
 ## Attributions
+
+[^1]: 
