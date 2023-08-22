@@ -4,14 +4,26 @@ description: P2P, P2M, Recurring/Bill Payments, etc.,
 
 # Interoperable QR Code
 
-## Overview
+**Overview**
 
-Interoperable QR code specifications enables choice to users to make payments. Countries that have a near real time interoperable payment network can leverage interoperable QR codes to:
+Imagine a one-stop feature that your country can build to bridge the digital divide, drive financial inclusion to the last mile, break payments silos, drive e-commerce and GDP, reduce financial crime rates, and spur cross-sectoral innovation - all whilst leveraging existing systems.
 
-1. Easily initiate payments using QR codes.
-2. Enable payments between P2P, P2B/P2M, Recurring/Bill Payments etc.,
-3. Capability to generate dynamic QR codes with amount. For static QR Codes, amount has to be entered by payer.
-4. Merchant can automate reconciliation of orders/payments, generate receipts/notifications by integrating with existing accounting platforms. This is a win-win to both business and customer.
+Payments made based on an interoperable Quick Response (QR) code standard allow people to make payments to anyone, anytime, and anywhere. Payments can be made in a real-time, and highly secure manner with this digital public infrastructure that allows people to scan a machine readable QR code through any payment application of their choice on their mobile, regardless of which payment app the merchant uses.&#x20;
+
+QR codes can be made interoperable if a standard is set out by a central authority, and can allow a user to participate in a single network of banks, financial institutions, mobile money, wallets, or other payment mechanisms on the backend. This can be a simple and powerful addition to existing payments systems.&#x20;
+
+QR Codes can be of two types:&#x20;
+
+1. Static QR Codes: Bill amount has to be manually entered - it is a single code and can be printed as it does not change with each transaction.&#x20;
+2. Dynamic QR Codes: Transaction amount is pre-entered by the merchant by connecting it to a PoS terminal.&#x20;
+
+Through Interoperable QR Codes:&#x20;
+
+1. Countries can facilitate seamless payments such as P2P, P2B, P2M and various other entities&#x20;
+2. Merchants can automate the reconciliation of orders and payments, as well as generate receipts and notifications by integrating with existing accounting platforms.&#x20;
+3. Individuals can set up Recurring payments, Bill Payments etc.,
+4. The last mile population can be catered to, and raised to the same level of financial inclusion through digital transformation.
+5. The rate of fraud will drop, while increasing privacy, security, transparency and trust across the ecosystem.&#x20;
 
 ## P2M Ecosystem Players
 
