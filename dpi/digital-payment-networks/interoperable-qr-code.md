@@ -10,6 +10,16 @@ Imagine a one-stop feature that your country can build to bridge the digital div
 
 Payments made based on an interoperable Quick Response (QR) code standard allow people to make payments to anyone, anytime, and anywhere. Payments can be made in a real-time, and highly secure manner with this digital public infrastructure that allows people to scan a machine readable QR code through any payment application of their choice on their mobile, regardless of which payment app the merchant uses.&#x20;
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Untitled.png" alt="" width="375"><figcaption><p>Traditional approach of 'digitisation' breeds exclusion</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Untitledq.png" alt="" width="375"><figcaption><p>The DPI approach guarantees inclusion + market participation</p></figcaption></figure>
+
+</div>
+
 QR codes can be made interoperable if a standard is set out by a central authority, and can allow a user to participate in a single network of banks, financial institutions, mobile money, wallets, or other payment mechanisms on the backend. This can be a simple and powerful addition to existing payments systems.&#x20;
 
 QR Codes can be of two types:&#x20;
@@ -24,6 +34,16 @@ Through Interoperable QR Codes:&#x20;
 3. Individuals can set up Recurring payments, Bill Payments etc.,
 4. The last mile population can be catered to, and raised to the same level of financial inclusion through digital transformation.
 5. The rate of fraud will drop, while increasing privacy, security, transparency and trust across the ecosystem.&#x20;
+
+<div>
+
+<figure><img src="../../.gitbook/assets/a.png" alt="" width="375"><figcaption><p>First-order effects on the ecosystem</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/aa.png" alt="" width="375"><figcaption><p>Second-order effects on the country's overall growth</p></figcaption></figure>
+
+</div>
 
 ## P2M Ecosystem Players
 
@@ -129,8 +149,9 @@ Below is a typical flow to make initiate merchant based QR code based payments:
 
 ## Additional References
 
-1. QR Code printing specifications <**coming soon>**
-2. [The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR\_Codes\_in\_Payments\_Final.pdf) Part of World Bank Fast Payments Toolkit Sep 2021
+1. [Presentation Deck](https://docs.google.com/presentation/d/1xeVsXxTwhaW8SjSxHg9HddoprGDpD5sZlVKeWimT0NY/edit?usp=sharing) summarising the need, benefits and specifications of interoperable QR codes in a simple, visually-appealing manner&#x20;
+2. QR Code printing specifications <**coming soon>**
+3. [The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR\_Codes\_in\_Payments\_Final.pdf) Part of World Bank Fast Payments Toolkit Sep 2021
 
 ## Attributions
 
