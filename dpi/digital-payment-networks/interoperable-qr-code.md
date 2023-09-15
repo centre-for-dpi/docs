@@ -149,9 +149,10 @@ Below is a typical flow to make initiate merchant based QR code based payments:
 
 ## Additional References
 
-1. [Presentation Deck](https://docs.google.com/presentation/d/1xeVsXxTwhaW8SjSxHg9HddoprGDpD5sZlVKeWimT0NY/edit?usp=sharing) summarising the need, benefits and specifications of interoperable QR codes in a simple, visually-appealing manner&#x20;
-2. QR Code printing specifications <**coming soon>**
-3. [The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR\_Codes\_in\_Payments\_Final.pdf) Part of World Bank Fast Payments Toolkit Sep 2021
+1. [Interactive closed-door discussion](https://www.youtube.com/watch?v=tIZGplZjGDI) on Scaling Inclusive Payments through Interoperable QR Codes with central bank officials of 30+ countries and speakers from Brazil, India, Philippines, and Nigeria&#x20;
+2. [Presentation Deck](https://docs.google.com/presentation/d/1xeVsXxTwhaW8SjSxHg9HddoprGDpD5sZlVKeWimT0NY/edit?usp=sharing) summarising the need, benefits and specifications of interoperable QR codes in a simple, visually-appealing manner&#x20;
+3. QR Code printing specifications <**coming soon>**
+4. [The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR\_Codes\_in\_Payments\_Final.pdf) Part of World Bank Fast Payments Toolkit Sep 2021
 
 ## Attributions
 
