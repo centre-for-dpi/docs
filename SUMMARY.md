@@ -27,6 +27,7 @@
   * [Interoperable Bill Payments](dpi/digital-payment-networks/interoperable-bill-payments.md)
   * [Cash in Cash Out (CICO)](dpi/digital-payment-networks/cash-in-cash-out-cico.md)
   * [Financial Address Mapper (G2P Connect)](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
+  * [G2P Payments](technical-notes/digital-payment-networks/g2p-payments.md)
 
 ## Blueprints
 
