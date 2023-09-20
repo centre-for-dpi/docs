@@ -32,4 +32,7 @@ There are few key learnings that make the G2P DPI approach unlike any other:&#x2
 
 While individual country adoptions may vary, the basic outline remains the same and can help countries rapidly deploy this approach.
 
-Further readings and the G2P blueprint can be [found here](https://g2pconnect.cdpi.dev/g2p-connect/readme)
+**Further readings:**
+
+1. The G2P [blueprint ](https://g2pconnect.cdpi.dev/g2p-connect/readme)
+2. A [presentation deck](https://drive.google.com/file/d/1flSxkL9u5WLqo4Qw4mh\_jRN6-bgAa8TN/view?usp=sharing) on the G2P approach
