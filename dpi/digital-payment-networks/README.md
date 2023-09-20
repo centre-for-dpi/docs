@@ -21,4 +21,14 @@ In particular, we explore 5 powerful payments interventions to trigger a DPI tra
 4. [Cash in Cash Out (CiCO)](cash-in-cash-out-cico.md) for Interoperable agents in cash withdrawal
 5. Interoperable bill payments protocol
 
-&#x20;
+All types of transactions - whether between people, businesses, and / or government - can be powered by the same protocol that allows for interoperable payments! The protocol is agnostic to payment device, currency, type of transaction etc.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/2 (1).png" alt="" width="375"><figcaption><p>a protocol which is agnostic ...</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/1 (1).png" alt="" width="375"><figcaption><p>... powers payments which are interoperable! </p></figcaption></figure>
+
+</div>
