@@ -10,9 +10,9 @@ description: An approach that works to transform nations at scale
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-15 at 6.59.46 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-To answer this question, it's useful to first look back. The DPI movement is inspired by the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) - which operated as the original digital infrastructure of the late 20th century, triggering a burst of public and private innovation that broke barriers and drove inclusion. Our controversial opinion: No other tech innovation in recent memory - not the iPhone, not a laptop, not even a computer chip - has triggered as much subsequent innovation as those original open standards. Read that again slowly. &#x20;
+To answer this question, it's useful to first look back. The DPI movement is inspired by the open standards & specifications that created the **Internet** (TCP-IP, HTTP, HTML, SMTP, etc) and **mobile networks** (GSM, SMS, LTE, etc) - which operated as the original digital infrastructure of the late 20th century, triggering a burst of public and private innovation that broke barriers and drove inclusion. Our controversial opinion: No other tech innovation in recent memory - not the iPhone, not a laptop, not even a computer chip - has triggered as much subsequent innovation as those original open standards. Read that again slowly.
 
-So looking ahead, how do countries take a similar **approach** that can catalyse inclusion and innovation in their nations in areas like access to money, access to health, access to education, and competitive innovation in services?&#x20;
+So looking ahead, how do countries take a similar **approach** that can catalyse inclusion and innovation in their nations in areas like access to money, access to health, access to education, and competitive innovation in services?
 
 The DPI approach is about moving from platforms to open networks powered by protocols. We think there are **5 foundational categories** that make up **21st-century digital public infrastructure:** identifiers and registries; data sharing and AI/ML models; signatures and consent; discovery and fulfilment; and payments. For a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to create scalable impact.
 
@@ -20,7 +20,7 @@ The DPI approach is about moving from platforms to open networks powered by prot
 
 Many different building blocks in each of these categories can drive exponential outcomes **within and across** various sectors.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-07-10 at 3.25.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2023-09-21 at 9.29.06 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.37.15 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,11 +28,11 @@ Many different building blocks in each of these categories can drive exponential
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-23 at 10.40.27 PM.png" alt=""><figcaption></figcaption></figure>
 
-**In each of the sections below,** we'll cover **specific building blocks** that fall into these categories, and **link to open blueprints/specifications your country can use** to kick off the transformation.&#x20;
+**In each of the sections below,** we'll cover **specific building blocks** that fall into these categories, and **link to open blueprints/specifications your country can use** to kick off the transformation.
 
-We've also thought through some [tech architecture principles](technical-notes/dpi-tech-architecture-principles/) and [implementation/execution guidance](technical-notes/dpi-implementation-and-execution-guidance.md) that we hope are helpful!&#x20;
+We've also thought through some [tech architecture principles](technical-notes/dpi-tech-architecture-principles/) and [implementation/execution guidance](technical-notes/dpi-implementation-and-execution-guidance.md) that we hope are helpful!
 
-**Let's dive in.**&#x20;
+**Let's dive in.**
 
 1. [Digital IDs and Electronic Registries](dpi/digital-ids-and-electronic-registries/)
 2. [Electronic Signature, PKI and Trust Infra](dpi/electronic-signature-pki-and-trust-infra.md)
