@@ -12,13 +12,13 @@ While each transaction may vary in amount or eligibility, there are a few common
 2. Authenticating the identity of the eligible beneficiaries using online/offline, self/assisted modes
 3. Mapping the authenticated, eligible beneficiaries to a store of value of their choice in which they choose to receive these payments using multiple payment rails
 
-A G2P DPI is about building an overarching architecture as a simple +1 step to your existing systems that ensures interoperability, inclusions, privacy, security, autonomy and asynchronous adoption by design.
+A [G2P DPI](https://drive.google.com/file/d/1flSxkL9u5WLqo4Qw4mh\_jRN6-bgAa8TN/view?usp=sharing) is about building an overarching architecture as a simple +1 step to your existing systems that ensures interoperability, inclusions, privacy, security, autonomy and asynchronous adoption by design.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-09-20 at 9.36.35 AM.png" alt=""><figcaption><p>There are 4 key building blocks to the DPI approach in solving for G2P </p></figcaption></figure>
 
 The Unique ID / eKYC layer allows for uniquely identifying and authenticating each individual within seconds, saving time + effort + leakages on both sides.&#x20;
 
-The Financial address mapper connects each individual's unique ID to the store of value of their choice to receive the payments thus facilitating secure transfer of money to them.&#x20;
+The Financial address mapper connects an identifier to the individual's store of value of choice to receive the payments thus facilitating secure transfer of money to them.&#x20;
 
 The last mile agents help those with little to no digital literacy access the same benefits using their biometric data to drive financial inclusion from the ground up.&#x20;
 
