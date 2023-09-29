@@ -86,5 +86,14 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 1. BeckN Decentralised Health Protocol - DHP [docs](https://developers.becknprotocol.io/docs/introduction/introduction/) | [specs](https://github.com/dhp-project/DHP-Specs)
 2. Health Claims Exchange - HCX [docs](https://docs.hcxprotocol.io) | [specs](https://github.com/hcx-project/hcx-specs)
-3. Data Exchange: DEPA [docs](https://depa.world) | [specs](https://github.com/iSPIRT/DEPA/blob/main/depa\_2.0.yaml)
-4. Vaccination certificate (Verifiable credential): DIVOC [docs](https://divoc.digit.org/) | [specs](https://github.com/egovernments/DIVOC)
+3. Data exchange
+   * Consent-based data exchange: DEPA [docs](https://depa.world) | [specs](https://github.com/iSPIRT/DEPA/blob/main/depa\_2.0.yaml)
+   * X-Road [docs](https://docs.x-road.global/)| [specs](https://github.com/nordic-institute/X-Road)
+4. Data schema/ standards- [docs](http://www.hl7.org/fhir/documentation.html)
+5. Information management systems (individual, hospital, community levels)
+   * OpenMRS - [docs](https://wiki.openmrs.org/) | [specs](https://github.com/OpenMRS)
+   * DHIS2 -[ docs](https://dhis2.org/about/)&#x20;
+   * OpenEHR - [docs](https://specifications.openehr.org/releases/BASE/latest/architecture\_overview.html#\_architecture\_overview) | [specs](https://openehr.atlassian.net/jira/projects)
+   * OpenELIS - [docs](http://docs.openelis-global.org/en/latest/) | [specs](https://github.com/I-TECH-UW/OpenELIS-Global-2/)
+6. Vaccination certificate (Verifiable credential): DIVOC [docs](https://divoc.digit.org/) | [specs](https://github.com/egovernments/DIVOC)
+
