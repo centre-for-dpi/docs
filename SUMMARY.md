@@ -11,6 +11,10 @@
   * [🔐 Security & Privacy By Design](technical-notes/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
 * [🎯 DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
 
+## Mythbusters and FAQs
+
+* [⚛ DPI and the Digital Divide](mythbusters-and-faqs/readme.md)
+
 ## Technical Notes
 
 * [🆔 Identifiers & Registries](dpi/digital-ids-and-electronic-registries/README.md)
