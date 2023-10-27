@@ -18,8 +18,12 @@
 ## Technical Notes
 
 * [🆔 Identifiers & Registries](dpi/digital-ids-and-electronic-registries/README.md)
-  * [Digital ID](technical-notes/digital-ids-and-electronic-registries/digital-id.md)
-  * [Face Authentication](dpi/digital-ids-and-electronic-registries/face-authentication.md)
+  * [Digital ID](technical-notes/digital-ids-and-electronic-registries/digital-id/README.md)
+    * [Capabilities on ID system](technical-notes/digital-ids-and-electronic-registries/digital-id/capabilities-on-id-system.md)
+    * [ID-Auth](technical-notes/digital-ids-and-electronic-registries/digital-id/id-auth.md)
+    * [Face Authentication](technical-notes/digital-ids-and-electronic-registries/digital-id/face-authentication.md)
+    * [eKYC/ Identity profile sharing](technical-notes/digital-ids-and-electronic-registries/digital-id/ekyc-identity-profile-sharing.md)
+    * [Single Sign On (SSO)](technical-notes/digital-ids-and-electronic-registries/digital-id/single-sign-on-sso.md)
 * [📂 Data Sharing, Credentials and Models](dpi/data-and-credentialing-infra.md)
   * [eLockers](technical-notes/data-and-credentialing-infra/elockers.md)
 * [🔏 Signatures & Consent](dpi/electronic-signature-pki-and-trust-infra.md)
