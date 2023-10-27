@@ -28,7 +28,7 @@
   * [eLockers](technical-notes/data-and-credentialing-infra/elockers.md)
 * [🔏 Signatures & Consent](dpi/electronic-signature-pki-and-trust-infra.md)
 * [🛒 Discovery & Fulfilment](technical-notes/discovery-and-fulfillment-networks/README.md)
-  * [Platforms to protocols - Why do we need open networks?](technical-notes/discovery-and-fulfillment-networks/platforms-to-protocols-why-do-we-need-open-networks.md)
+  * [Platforms to Protocols](technical-notes/discovery-and-fulfillment-networks/platforms-to-protocols.md)
 * [💸 Payments](dpi/digital-payment-networks/README.md)
   * [Financial Address](technical-notes/digital-payment-networks/financial-address.md)
   * [Interoperable QR Code](dpi/digital-payment-networks/interoperable-qr-code.md)

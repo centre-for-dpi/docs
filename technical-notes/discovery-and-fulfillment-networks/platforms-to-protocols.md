@@ -1,4 +1,8 @@
-# Platforms to protocols - Why do we need open networks?
+---
+description: Why do we need open networks?
+---
+
+# Platforms to Protocols
 
 _Consider this - Buber is the leading ride-hailing app in country A. Buber takes a huge commission from the drivers and also charges the passenger unfairly. Still, both parties are left with no choice but to use Buber due to strong network effects from the aggregation of a large number of drivers and passengers - creating a virtual monopoly. Sounds familar? Read on!_
 
