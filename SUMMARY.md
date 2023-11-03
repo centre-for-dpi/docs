@@ -25,6 +25,7 @@
     * [eKYC/ Identity profile sharing](technical-notes/digital-ids-and-electronic-registries/digital-id/ekyc-identity-profile-sharing.md)
     * [Single Sign On (SSO)](technical-notes/digital-ids-and-electronic-registries/digital-id/single-sign-on-sso.md)
 * [📂 Data Sharing, Credentials and Models](dpi/data-and-credentialing-infra.md)
+  * [A primer to personal data sharing](technical-notes/data-and-credentialing-infra/a-primer-to-personal-data-sharing.md)
   * [eLockers](technical-notes/data-and-credentialing-infra/elockers.md)
 * [🔏 Signatures & Consent](dpi/electronic-signature-pki-and-trust-infra.md)
 * [🛒 Discovery & Fulfilment](technical-notes/discovery-and-fulfillment-networks/README.md)
