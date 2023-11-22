@@ -31,6 +31,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 ### 3.2 Digital Data Sharing Consents
 
 1. Electronic Consent artefact - [spec](https://dla.gov.in/sites/default/files/pdf/MeitY-Consent-Tech-Framework%20v1.1.pdf)
+2. Consent building block - [docs](https://govstack.gitbook.io/bb-consent/) | [specs](https://github.com/GovStackWorkingGroup/bb-consent)
 
 ## 4. Payments
 
