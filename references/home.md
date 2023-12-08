@@ -32,7 +32,6 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 1. Electronic Consent artefact (Ministry of IT, India) - [spec](https://dla.gov.in/sites/default/files/pdf/MeitY-Consent-Tech-Framework%20v1.1.pdf)
 2. Consent building block (Govstack) - [docs](https://govstack.gitbook.io/bb-consent/) | [specs](https://github.com/GovStackWorkingGroup/bb-consent)
-3. Consent spec (SGFinDex) - docs | [specs](https://specs.api.sgfindex.gov.sg/#section/Security)
 
 ## 4. Payments
 
