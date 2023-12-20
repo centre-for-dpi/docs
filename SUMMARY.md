@@ -7,7 +7,7 @@
   * [🔗 Interoperability](the-dpi-wikipedia/dpi-tech-architecture-principles/interoperability.md)
   * [🧱 Minimalist & Reusable Building Blocks](the-dpi-wikipedia/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
   * [💡 Diverse, Inclusive Innovation](the-dpi-wikipedia/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
-  * [Federated & Decentralised by Design](the-dpi-wikipedia/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
+  * [💠 Federated & Decentralised by Design](the-dpi-wikipedia/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
   * [🔐 Security & Privacy By Design](the-dpi-wikipedia/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
 * [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md)
 

@@ -1,4 +1,4 @@
-# Federated & Decentralised by Design
+# 💠 Federated & Decentralised by Design
 
 ## Overview _(What to aim for)_
 
