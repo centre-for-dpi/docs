@@ -1,10 +1,10 @@
 # 🔯 DPI and Private Competition
 
-<mark style="background-color:purple;">Question</mark>: Does building Digital Public Infrastructure hamper the growth of a competitive economy?&#x20;
+<mark style="background-color:purple;">**Question**</mark>: Does building Digital Public Infrastructure hamper the growth of a competitive economy?&#x20;
 
-<mark style="background-color:purple;">Short Answer</mark>: Not if it is built in accordance with best practice design principles. DPI increases healthy, fair competition in an economy amongst players and triggers tremendous market value. DPI means public interest, not necessarily public ownership or execution.&#x20;
+<mark style="background-color:purple;">**Short Answer**</mark>: Not if it is built in accordance with best practice design principles. DPI increases healthy, fair competition in an economy amongst players and triggers tremendous market value. DPI means public interest, not necessarily public ownership or execution.&#x20;
 
-<mark style="background-color:purple;">Long Answer</mark>: The word ‘public’ of Digital Public Infrastructure is often misconstrued to mean that all components of the infrastructure will be owned and operated by the government, leaving little room for private sector players to build solutions and derive value. One hesitation in adopting DPI lies in the misunderstanding that it will obstruct the free flow of competition in a laissez faire economy, or crowd out the private sector from providing services.&#x20;
+<mark style="background-color:purple;">**Long Answer**</mark>: The word ‘public’ of Digital Public Infrastructure is often misconstrued to mean that all components of the infrastructure will be owned and operated by the government, leaving little room for private sector players to build solutions and derive value. One hesitation in adopting DPI lies in the misunderstanding that it will obstruct the free flow of competition in a laissez faire economy, or crowd out the private sector from providing services.&#x20;
 
 However, there is much more nuance here. The word ‘public’ in DPI denotes that all solutions built, whether private or by the government, are in the best interests of the public. It signals that the individual should be at the centre of the economy and at the heart of all endeavours. The role of the government in DPI may simply be to lay out the rules which enforce this idea of ‘people before profits’ to nurture free and fair competition that is the backbone of any healthy society.&#x20;
 

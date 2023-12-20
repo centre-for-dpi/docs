@@ -1,6 +1,6 @@
 # Table of contents
 
-## 📚 THE DPI WIKIPEDIA
+## THE DPI WIKIPEDIA&#x20;
 
 * [DPI Overview](README.md)
 * [📝 DPI Tech Architecture Principles](the-dpi-wikipedia/dpi-tech-architecture-principles/README.md)
@@ -15,7 +15,7 @@
 
 * [🔯 DPI and Mandating Adoption](mythbusters-and-faqs/dpi-and-mandating-adoption.md)
 * [🔯 DPI and Private Competition](mythbusters-and-faqs/dpi-and-private-competition.md)
-* [⚛ DPI and the Digital Divide](mythbusters-and-faqs/readme.md)
+* [🔯 DPI and the Digital Divide](mythbusters-and-faqs/readme.md)
 * [🔯 DPI and Public Survelliance](mythbusters-and-faqs/dpi-and-public-survelliance.md)
 
 ## Technical Notes
