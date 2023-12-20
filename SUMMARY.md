@@ -1,19 +1,22 @@
 # Table of contents
 
-## DPI
+## 📚 THE DPI WIKIPEDIA
 
 * [DPI Overview](README.md)
-* [📝 DPI Tech Architecture Principles](technical-notes/dpi-tech-architecture-principles/README.md)
-  * [🔗 Interoperability](technical-notes/dpi-tech-architecture-principles/interoperability.md)
-  * [🧱 Minimalist & Reusable Building Blocks](technical-notes/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
-  * [💡 Diverse, Inclusive Innovation](technical-notes/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
-  * [Federated & Decentralised by Design](technical-notes/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
-  * [🔐 Security & Privacy By Design](technical-notes/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
-* [🎯 DPI Implementation & Execution Guidance](technical-notes/dpi-implementation-and-execution-guidance.md)
+* [📝 DPI Tech Architecture Principles](the-dpi-wikipedia/dpi-tech-architecture-principles/README.md)
+  * [🔗 Interoperability](the-dpi-wikipedia/dpi-tech-architecture-principles/interoperability.md)
+  * [🧱 Minimalist & Reusable Building Blocks](the-dpi-wikipedia/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
+  * [💡 Diverse, Inclusive Innovation](the-dpi-wikipedia/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
+  * [Federated & Decentralised by Design](the-dpi-wikipedia/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
+  * [🔐 Security & Privacy By Design](the-dpi-wikipedia/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
+* [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md)
 
 ## Mythbusters and FAQs
 
+* [🔯 DPI and Mandating Adoption](mythbusters-and-faqs/dpi-and-mandating-adoption.md)
+* [🔯 DPI and Private Competition](mythbusters-and-faqs/dpi-and-private-competition.md)
 * [⚛ DPI and the Digital Divide](mythbusters-and-faqs/readme.md)
+* [🔯 DPI and Public Survelliance](mythbusters-and-faqs/dpi-and-public-survelliance.md)
 
 ## Technical Notes
 

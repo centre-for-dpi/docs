@@ -1,12 +1,10 @@
----
-description: 'Question: Will DPI deepen the digital divide?'
----
-
 # ⚛ DPI and the Digital Divide
 
-**Short Answer**: Nope. DPI is not the same as digitisation. Well designed DPI caters equally to people with and without connectivity, and with and without smartphones.
+<mark style="background-color:purple;">**Question**</mark>: Will DPI deepen the digital divide?
 
-**Long Answer**: Often the word ‘digital’ of the term ‘digital public infrastructure’ is misconstrued to mean that it always requires internet connectivity and access to smartphones and thus, leaves behind the people who don’t have access to such technology, connectivity, or devices.&#x20;
+<mark style="background-color:purple;">**Short Answer**</mark>: Nope. DPI is not the same as digitisation. Well designed DPI caters equally to people with and without connectivity, and with and without smartphones.
+
+<mark style="background-color:purple;">**Long Answer**</mark>: Often the word ‘digital’ of the term ‘digital public infrastructure’ is misconstrued to mean that it always requires internet connectivity and access to smartphones and thus, leaves behind the people who don’t have access to such technology, connectivity, or devices.&#x20;
 
 DPI is often, mistakenly, used interchangeably with _digitisation_ (the process of taking paper-based processes online). The DPI approach is sometimes met with scepticism from countries who may have many barriers to cross before a fully-online world becomes a reality for them. This fear - that DPI will not be able to bridge the digital divide - remains one of the most unfortunate misunderstandings of our time!
 

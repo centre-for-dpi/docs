@@ -30,7 +30,7 @@ Many different building blocks in each of these categories can drive exponential
 
 **In each of the sections below,** we'll cover **specific building blocks** that fall into these categories, and **link to open blueprints/specifications your country can use** to kick off the transformation.
 
-We've also thought through some [tech architecture principles](technical-notes/dpi-tech-architecture-principles/) and [implementation/execution guidance](technical-notes/dpi-implementation-and-execution-guidance.md) that we hope are helpful!
+We've also thought through some [tech architecture principles](the-dpi-wikipedia/dpi-tech-architecture-principles/) and [implementation/execution guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md) that we hope are helpful!
 
 **Let's dive in.**
 
