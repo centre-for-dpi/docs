@@ -3,6 +3,7 @@
 ## THE DPI WIKIPEDIA&#x20;
 
 * [DPI Overview](README.md)
+  * [🌟 About The DPI Wikipedia](the-dpi-wikipedia/readme/about-the-dpi-wikipedia.md)
 * [📝 DPI Tech Architecture Principles](the-dpi-wikipedia/dpi-tech-architecture-principles/README.md)
   * [🔗 Interoperability](the-dpi-wikipedia/dpi-tech-architecture-principles/interoperability.md)
   * [🧱 Minimalist & Reusable Building Blocks](the-dpi-wikipedia/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
