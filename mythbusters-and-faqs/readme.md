@@ -1,4 +1,4 @@
-# ⚛ DPI and the Digital Divide
+# 🔯 DPI and the Digital Divide
 
 <mark style="background-color:purple;">**Question**</mark>: Will DPI deepen the digital divide?
 
