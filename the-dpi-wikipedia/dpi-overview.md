@@ -14,13 +14,17 @@ To answer this question, it's useful to first look back. The DPI movement is ins
 
 So looking ahead, how do countries take a similar **approach** that can catalyse inclusion and innovation in their nations in areas like access to money, access to health, access to education, and competitive innovation in services?
 
-The DPI approach is about moving from platforms to open networks powered by protocols. We think there are **5 foundational categories** that make up **21st-century digital public infrastructure:** identifiers and registries; data sharing and AI/ML models; signatures and consent; discovery and fulfilment; and payments. For a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to create scalable impact.
+The DPI approach is about moving from platforms to open networks powered by protocols. We think there are **5 foundational categories** that make up **21st-century digital public infrastructure:** identifiers and registries; data sharing and AI/ML models; trust infra; discovery and fulfilment; and payments.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-11 at 6.59.10 PM.png" alt=""><figcaption></figcaption></figure>
+For a thriving digital economy, these are the functions that should be conveniently accessible at low cost. And fortunately, unlike the mobile and internet, these DPI require even less complementary hard infrastructure (wires, cables, cell towers, etc.) to create scalable impact.
+
+<figure><img src="../.gitbook/assets/New Foundational Digital Public Infra Categories within &#x26; across sectors_Dec 2023.png" alt=""><figcaption></figcaption></figure>
+
+These categories are not intended to be mutually exclusive! Payments on some level is a type of data sharing. Digital signatures (Trust infra) are used in ID/Payments/Data/Discovery and beyond. Consent (Trust infra) should be used in ID and in Data exchange. These categories are simply to indicate areas to focus on when crafting DPI!&#x20;
 
 Many different building blocks in each of these categories can drive exponential outcomes **within and across** various sectors.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-09-21 at 9.29.06 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DPI Thinking Extended- CDPI (Root Deck).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-23 at 10.37.15 PM.png" alt=""><figcaption></figcaption></figure>
 
