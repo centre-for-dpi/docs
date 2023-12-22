@@ -6,6 +6,8 @@ We define DPGs as:&#x20;
 
 A set of well-defined assets / resources; in the form of specifications / software / data / content; made freely available; with its own lifestyle and governance; allowing others to build and operate their own DPI.&#x20;
 
+<figure><img src="../.gitbook/assets/DPI Thinking Extended- CDPI (Root Deck) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 This means DPGs are open source resources used to create or improve a country's DPIs. A stack of DPGs that are interoperable and scalable can come together to build a DPI infrastructure in countries - such as via [G2P Connect](https://app.gitbook.com/o/naAYGnbEtShhYREsQxVo/s/70xU1fYATz5DdXkNYXV6/) for social benefit programs.
 
 Using open source components can help ensure that best practices are incorporated, rapid deployment and scale is achieved, dependency or lock-ins are avoided, and minimum efforts can unlock maximum gains. OpenG2P, OpenSPP, or CoreMIS for government benefits or MOSIP for identity projects are examples of DPGs used to help build DPI infrastructure in countries.&#x20;

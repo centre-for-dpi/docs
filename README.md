@@ -1,4 +1,4 @@
-# About the DPI Wikipedia
+# 🎉 About the DPI Wikipedia
 
 In a crowded technology innovation landscape and a sometimes polarised geopolitical climate, Digital Public Infrastructure has emerged as an unusual point of convergence across countries. It is now well acknowledged as a powerful strategy to drive inclusive and sustainable economic growth.
 
