@@ -11,6 +11,7 @@
   * [💠 Federated & Decentralised by Design](the-dpi-wikipedia/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
   * [🔐 Security & Privacy By Design](the-dpi-wikipedia/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
 * [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md)
+* [🆚 DPG and DPI](the-dpi-wikipedia/dpg-and-dpi.md)
 
 ## Mythbusters and FAQs
 
