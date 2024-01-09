@@ -22,6 +22,8 @@ For a thriving digital economy, these are the functions that should be convenien
 
 These categories are not intended to be mutually exclusive! Payments on some level is a type of data sharing. Digital signatures (Trust infra) are used in ID/Payments/Data/Discovery and beyond. Consent (Trust infra) should be used in ID and in Data exchange. These categories are simply to indicate areas to focus on when crafting DPI!&#x20;
 
+Moreover, this is not an exhaustive list! These blocks are necessary but not sufficient to achieve a thriving digital economy. It is also important to note that the blocks can only be considered as DPI if they are build in accordance with the [technical architecture principles](dpi-tech-architecture-principles/) - a data sharing system that is not interoperable or a digital ID that is not minimalist or reusable cannot be considered as digital public infrastructure.&#x20;
+
 Many different building blocks in each of these categories can drive exponential outcomes **within and across** various sectors.
 
 <figure><img src="../.gitbook/assets/DPI Thinking Extended- CDPI (Root Deck).jpg" alt=""><figcaption></figcaption></figure>
