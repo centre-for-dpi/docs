@@ -10,7 +10,13 @@
   * [💡 Diverse, Inclusive Innovation](the-dpi-wikipedia/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
   * [💠 Federated & Decentralised by Design](the-dpi-wikipedia/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
   * [🔐 Security & Privacy By Design](the-dpi-wikipedia/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
-* [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md)
+* [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance/README.md)
+  * [🚀 DPI as a Packaged Solution (DaaS): A Packaged Product Pilots Program](the-dpi-wikipedia/dpi-implementation-and-execution-guidance/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/README.md)
+    * [💡 Why do we need DaaS?](the-dpi-wikipedia/dpi-implementation-and-execution-guidance/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/why-do-we-need-daas.md)
+    * [🎯 DaaS in a nutshell](the-dpi-wikipedia/dpi-implementation-and-execution-guidance/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/daas-in-a-nutshell.md)
+    * [3⃣ A 3-step process from idea to implementation!](the-dpi-wikipedia/dpi-implementation-and-execution-guidance/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/a-3-step-process-from-idea-to-implementation.md)
+    * [👩💻 Funded DaaS Pilots: Cohort 1](the-dpi-wikipedia/dpi-implementation-and-execution-guidance/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/funded-daas-pilots-cohort-1.md)
+    * [❓ FAQs on DaaS](the-dpi-wikipedia/dpi-implementation-and-execution-guidance/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/faqs-on-daas.md)
 * [🆚 DPG and DPI](the-dpi-wikipedia/dpg-and-dpi.md)
 
 ## Mythbusters and FAQs
