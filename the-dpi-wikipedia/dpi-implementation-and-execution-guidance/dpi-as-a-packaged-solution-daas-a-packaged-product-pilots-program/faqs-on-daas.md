@@ -8,4 +8,4 @@ Common thoughts that may arise  ||  The answer to all is DaaS…&#x20;
 
 **DaaS is a necessary but not sufficient innovation. It may not solve all technical capacity or funding problems but is a necessary first step to simplifying DPI adoption in countries.**
 
-\
+{% embed url="https://youtu.be/VeJpDx5UC-Q?si=IwzlfYx7gnxUOIrg" %}
