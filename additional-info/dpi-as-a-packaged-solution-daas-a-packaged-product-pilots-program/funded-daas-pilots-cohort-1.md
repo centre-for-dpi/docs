@@ -9,7 +9,7 @@ In the first wave, DaaS is being offered in 4 Product categories of DPI Building
 * [ ] Functional registries
 * [ ] ID Account mapper (Send money to any government-to-person program beneficiary using just an identifier (eg a national ID, social protection ID, mobile number, etc.)
 
-4. <mark style="color:blue;">**AI assistant**</mark> - Provide access to right information by removing language and literacy barriers, and enabling dissemination of information about policies and benefits to the last mile
+4. <mark style="color:blue;">**AI assistant**</mark> - Quickly implement conversational AI capabilities for info/knowledge access, ideally using local language via WhatsApp, IVR, etc. Can be implemented in any sectors - healthcare, agriculture, education etc.
 
 ### Deploy DaaS in your country by competitively applying for Funded Pilots&#x20;
 
