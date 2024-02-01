@@ -62,11 +62,11 @@
 
 ## Additional Info
 
-* [🚀 DPI as a Packaged Solution (DaaS): A Packaged Product Pilots Program](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/README.md)
-  * [💡 Why do we need DaaS?](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/why-do-we-need-daas.md)
-  * [🎯 DaaS in a nutshell](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/daas-in-a-nutshell.md)
-  * [3⃣ A 3-step process from idea to implementation!](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/a-3-step-process-from-idea-to-implementation.md)
-  * [👩💻 Funded DaaS Pilots: Cohort 1](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/funded-daas-pilots-cohort-1.md)
-  * [❓ FAQs on DaaS](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/faqs-on-daas.md)
+* [🚀 DPI as a Packaged Solution (DaaS)](additional-info/dpi-as-a-packaged-solution-daas/README.md)
+  * [💡 Why do we need DaaS?](additional-info/dpi-as-a-packaged-solution-daas/why-do-we-need-daas.md)
+  * [🎯 DaaS in a nutshell](additional-info/dpi-as-a-packaged-solution-daas/daas-in-a-nutshell.md)
+  * [3⃣ A 3-step process from idea to implementation!](additional-info/dpi-as-a-packaged-solution-daas/a-3-step-process-from-idea-to-implementation.md)
+  * [👩💻 Funded DaaS Pilots: Cohort 1](additional-info/dpi-as-a-packaged-solution-daas/funded-daas-pilots-cohort-1.md)
+  * [❓ FAQs on DaaS](additional-info/dpi-as-a-packaged-solution-daas/faqs-on-daas.md)
 * [🤝 Licensing](technical-specs/licensing.md)
 * [✍ Contact Us](additional-info/contact-us.md)
