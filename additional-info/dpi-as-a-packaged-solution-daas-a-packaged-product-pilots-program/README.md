@@ -1,7 +1,5 @@
 ---
-description: >-
-  A Packaged Product Pilots Program: A Transformative but Simple Innovation to
-  Implement DPI with Speed
+description: A Transformative but Simple Innovation to Implement DPI with Speed
 ---
 
 # 🚀 DPI as a Packaged Solution (DaaS)
