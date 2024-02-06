@@ -12,6 +12,8 @@ DaaS thus leverages best-in-class **Digital Public Goods (DPGs)** to create a **
 
 Countries can also select the **type of cloud they prefer - public or private clouds** - to drive growth, inclusion and scale. Private clouds may be more appropriate under some data protection regulatory frameworks.&#x20;
 
+<figure><img src="../../.gitbook/assets/Annexure slides - How does DaaS work_ (2).jpg" alt=""><figcaption></figcaption></figure>
+
 ## DaaS is not very different from what governments already do today!&#x20;
 
 DaaS brings together elements that have been a part of digital governments and national infrastructure building for generations:
