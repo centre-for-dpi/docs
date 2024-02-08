@@ -1,15 +1,4 @@
-# 👩💻 Funded DaaS Pilots: Cohort 1
-
-In the first wave, DaaS is being offered in 4 Product categories of DPI Building Blocks:&#x20;
-
-1. <mark style="color:blue;">**Digitally verifiable credentials and eLocker**</mark> - convert any paper certificate, license, or statement into a verifiable certificate with a signed QR code, with a document Wallet app to fetch multiple credentials&#x20;
-2. <mark style="color:blue;">**Digital authentication**</mark> - Add the capability of authenticating whether the individual who owns any kind of ID is trying to use it for a context (eg. via mobile one time password, PIN, fingerprint auth, or other modes)&#x20;
-3. <mark style="color:blue;">**Registries:**</mark>&#x20;
-
-* [ ] Functional registries
-* [ ] ID Account mapper (Send money to any government-to-person program beneficiary using just an identifier (eg a national ID, social protection ID, mobile number, etc.)
-
-4. <mark style="color:blue;">**AI assistant**</mark> - Quickly implement conversational AI capabilities for info/knowledge access, ideally using local language via WhatsApp, IVR, etc. Can be implemented in any sectors - healthcare, agriculture, education etc.
+# 📈 Funded DaaS pilot overview
 
 ### Deploy DaaS in your country by competitively applying for Funded Pilots&#x20;
 
@@ -26,7 +15,7 @@ Applications are open from **January to February 2024**, and selected countries 
 
 ### A Final Snapshot: What’s on Offer?&#x20;
 
-1. **DPI Product Packages Available:** DPIs for Foundational ID, Functional Registries/IDs, Auth/eKYC, Digital Credentialing, Payment, AI stack, etc.
+1. **DPI Product Packages Available:**  Functional Registries, Auth/eKYC/ SSO on any existing ID, Digital Credentialing, ID-Account Mapper and AI Assistant
 2. **Ecosystem Support Provided:** DaaS package (provided by DPG providers, certified implementation partners & cloud providers) and Technology Service Providers to implement the pilot.&#x20;
 3. **Funding Sources**: DaaS-based pilot funds from philanthropy, Govt funders, and other sources to launch pilots
 4. **Timeline to launch:** Countries to apply in February for selection by March 2024 and implementation by April/May 2024
