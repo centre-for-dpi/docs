@@ -66,7 +66,7 @@
   * [💡 Why do we need DaaS?](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/why-do-we-need-daas.md)
   * [🎯 DaaS in a nutshell](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/daas-in-a-nutshell.md)
   * [3⃣ A 3-step process from idea to implementation!](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/a-3-step-process-from-idea-to-implementation.md)
-  * [👩💻 Funded DaaS Pilots: Cohort 1](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/funded-daas-pilots-cohort-1.md)
+  * [👩💻 Cohort 1: DaaS Offerings](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings.md)
   * [❓ FAQs on DaaS](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/faqs-on-daas.md)
 * [🤝 Licensing](technical-specs/licensing.md)
 * [✍ Contact Us](additional-info/contact-us.md)
