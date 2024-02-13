@@ -9,3 +9,5 @@ In many ways, 2023 was labeled as ‘The Year of DPI’ (at least for those who 
 Of course, now that there is consensus on the need to build DPI to accelerate growth and development, it falls on the executors in countries - <mark style="background-color:purple;">**how do we build DPI at an accelerated pace to benefit citizens?**</mark>
 
 {% embed url="https://www.youtube.com/watch?v=VeJpDx5UC-Q" %}
+
+The idea has been explored in this paper - [The Future of Digital Public Infrastructure: A Thesis for Rapid Global Adoption](https://carnegieindia.org/2024/02/13/future-of-digital-public-infrastructure-thesis-for-rapid-global-adoption-pub-91612); PRAMOD VARMA,  RAHUL MATTHAN,  RUDRA CHAUDHURI,  C. V. MADHUKAR
