@@ -95,7 +95,12 @@ d. **Single Sign On:** Allow people holding your ID to sign in to any other publ
 <mark style="background-color:blue;">**Private Employer:**</mark>
 
 1. [Verifiable credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials): Issue salary slips, and employment reports as machine-readable, digitally signed, verifiable records to allow for the reuse of data&#x20;
-2. Can integrate with ID account mapper to seamlessly process employee payrolls\
+2. Can integrate with ID account mapper to seamlessly process employee payrolls
+
+<mark style="background-color:blue;">**If you are an individual:**</mark>&#x20;
+
+1. You can contribute to open source that builds DPI globally&#x20;
+2. To work on DPI tech and policy in India please reach out to CDPI for ongoing work in finance, justice, energy, agriculture, healthcare, and beyond. \
    \
    \
 
