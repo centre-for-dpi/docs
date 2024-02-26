@@ -58,4 +58,4 @@ A brief explainer on AI Assistant
 
 ### Experience centre:
 
-Coming soon!
+Experience the AI assistant DPI [here](https://docs.google.com/document/d/1VPf\_WQhOBZJF43ltCGH8404Xjk0l\_TaEPDhD2Uca9H4/edit?usp=sharing)
