@@ -9,14 +9,14 @@ description: >-
 ### What DPI can I build if I am a ...&#x20;
 
 \
-<mark style="background-color:blue;">**A Central Bank or Financial Regulator:**</mark>&#x20;
+<mark style="background-color:blue;">**Central Bank or Financial Regulator:**</mark>&#x20;
 
 1. eKYC policy to encourage use of digitally signed credentials under boundary conditions
 2. Publish a modern Interoperable [QR Code](https://docs.cdpi.dev/technical-notes/digital-payment-networks/interoperable-qr-code) Standard for mobile payments
 3. Upgrade to a modern & programmable payment protocol (P2P/P2M) allowing fintech to innovate on UX whilst keeping money flow with financial institutions&#x20;
 4. Craft an [Open Finance](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra) regulatory framework for [data sharing](https://sahamati.org.in/what-is-account-aggregator/), including publishing technical specifications for financial data sharing across sectors
 
-<mark style="background-color:blue;">**Any Department with an ID**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(National ID, tax ID, drivers license, birth certificate, etc):</mark>&#x20;
+<mark style="background-color:blue;">**Department with an ID**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(National ID, tax ID, drivers license, birth certificate, etc):</mark>&#x20;
 
 1. Drive coverage of your [Digital ID](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id), using private enrollment partners, fewer fields, etc.
 2. Add [Capabilities on your ID](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/capabilities-on-id-system) to help it operate as a DPI in your society:
