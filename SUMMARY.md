@@ -12,6 +12,7 @@
   * [🔐 Security & Privacy By Design](the-dpi-wikipedia/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
 * [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md)
 * [🆚 DPG and DPI](the-dpi-wikipedia/dpg-and-dpi.md)
+* [❓ What DPI can I build?](the-dpi-wikipedia/what-dpi-can-i-build.md)
 
 ## Mythbusters and FAQs
 
@@ -65,8 +66,8 @@
 * [🚀 DPI as a Packaged Solution (DaaS)](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/README.md)
   * [💡 Why do we need DaaS?](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/why-do-we-need-daas.md)
   * [🎯 DaaS in a nutshell](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/daas-in-a-nutshell.md)
-  * [3⃣ A 3-step process from idea to implementation!](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/a-3-step-process-from-idea-to-implementation.md)
-  * [👩💻 Cohort 1: DaaS Offerings](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/README.md)
+  * [3️⃣ A 3-step process from idea to implementation!](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/a-3-step-process-from-idea-to-implementation.md)
+  * [👩‍💻 Cohort 1: DaaS Offerings](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/README.md)
     * [Digital authentication](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-authentication.md)
     * [Digital credentials](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-credentials.md)
     * [ID Account Mapper](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/id-account-mapper.md)
@@ -75,4 +76,4 @@
   * [📈 Funded DaaS pilot overview](additional-info/dpi-as-a-packaged-solution-daas/funded-daas-pilot-overview.md)
   * [❓ FAQs on DaaS](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/faqs-on-daas.md)
 * [🤝 Licensing](technical-specs/licensing.md)
-* [✍ Contact Us](additional-info/contact-us.md)
+* [✍️ Contact Us](additional-info/contact-us.md)
