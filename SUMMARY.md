@@ -50,11 +50,25 @@
   * [Financial Address Mapper (G2P Connect)](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [G2P Payments](technical-notes/digital-payment-networks/g2p-payments.md)
 
-## Blueprints
+## Initiatives
 
 * [G2P Connect](https://g2pconnect.cdpi.dev)
-* [Agri Connect (forthcoming)](blueprints/agri-connect-forthcoming.md)
-* [Health Connect (forthcoming)](blueprints/health-connect-forthcoming.md)
+* [🌍 Agri Connect (forthcoming)](initiatives/agri-connect-forthcoming.md)
+* [👩‍⚕️ Health Connect (forthcoming)](initiatives/health-connect-forthcoming.md)
+* [🌐 DPI advisory](initiatives/dpi-advisory.md)
+* [🚀 DPI as a Packaged Solution (DaaS)](initiatives/dpi-as-a-packaged-solution-daas/README.md)
+  * [💡 Why do we need DaaS?](initiatives/dpi-as-a-packaged-solution-daas/why-do-we-need-daas.md)
+  * [🎯 DaaS in a nutshell](initiatives/dpi-as-a-packaged-solution-daas/daas-in-a-nutshell.md)
+  * [3️⃣ A 3-step process from idea to implementation!](initiatives/dpi-as-a-packaged-solution-daas/a-3-step-process-from-idea-to-implementation.md)
+  * [👩‍💻 Cohort 1: DaaS Offerings](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/README.md)
+    * [Digital authentication](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-authentication.md)
+    * [Digital credentials](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-credentials.md)
+    * [ID Account Mapper](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/id-account-mapper.md)
+    * [Functional Registries](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/functional-registries.md)
+    * [AI Assistant](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/ai-assistant.md)
+  * [📈 Funded DaaS pilot overview](initiatives/dpi-as-a-packaged-solution-daas/funded-daas-pilot-overview.md)
+  * [❓ FAQs on DaaS](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas.md)
+* [📑 DPI Residents Program](initiatives/dpi-residents-program.md)
 
 ## References
 
@@ -63,17 +77,5 @@
 
 ## Additional Info
 
-* [🚀 DPI as a Packaged Solution (DaaS)](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/README.md)
-  * [💡 Why do we need DaaS?](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/why-do-we-need-daas.md)
-  * [🎯 DaaS in a nutshell](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/daas-in-a-nutshell.md)
-  * [3️⃣ A 3-step process from idea to implementation!](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/a-3-step-process-from-idea-to-implementation.md)
-  * [👩‍💻 Cohort 1: DaaS Offerings](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/README.md)
-    * [Digital authentication](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-authentication.md)
-    * [Digital credentials](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-credentials.md)
-    * [ID Account Mapper](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/id-account-mapper.md)
-    * [Functional Registries](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/functional-registries.md)
-    * [AI Assistant](additional-info/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/ai-assistant.md)
-  * [📈 Funded DaaS pilot overview](additional-info/dpi-as-a-packaged-solution-daas/funded-daas-pilot-overview.md)
-  * [❓ FAQs on DaaS](additional-info/dpi-as-a-packaged-solution-daas-a-packaged-product-pilots-program/faqs-on-daas.md)
 * [🤝 Licensing](technical-specs/licensing.md)
 * [✍️ Contact Us](additional-info/contact-us.md)

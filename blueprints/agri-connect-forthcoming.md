@@ -1,2 +1,0 @@
-# Agri Connect (forthcoming)
-
