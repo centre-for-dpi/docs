@@ -70,7 +70,8 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 ### 5.3 Consented Data Sharing
 
-1. Account Aggregator (Financial data sharing) [specs](https://github.com/Sahamati/account-aggregator-standards)
+1. X-Road [docs](https://docs.x-road.global/)| [specs](https://github.com/nordic-institute/X-Road)
+2. Account Aggregator (Financial data sharing) [specs](https://github.com/Sahamati/account-aggregator-standards)
 
 ## 6. Discovery & Fulfilment
 
