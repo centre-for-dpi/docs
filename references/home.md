@@ -6,7 +6,7 @@ description: Reference Links
 
 ## 1. Overview
 
-Centre for Digital Public Infrastructure (CDPI) curates open standards and specifications across various categories of DPIs for easy reference. This is an initiative to curate specifications that follow [DPI principles](../the-dpi-wikipedia/dpi-tech-architecture-principles/) to enable countries to create required Digital Public Infrastructure rails.
+Centre for Digital Public Infrastructure (CDPI) curates open standards and specifications across various categories of DPIs for easy reference. This is an initiative to curate specifications that follow [DPI principles](../the-dpi-wikipedia/dpi-tech-architecture-principles/) to enable countries to create required Digital Public Infrastructure rails. This list includes open specifications that are published by non-profit global institutions or agreed upon based on a global governance, but also de-facto standards used by countries where the specifications have reached scale of over 10 Million+ transactions.&#x20;
 
 **Note:**
 
@@ -37,7 +37,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 ### 4.1 G2P, P2P & P2M Payments
 
-1. G2P Connect Solution - [docs](https://g2pconnect.cdpi.dev/g2p-connect/readme) | [specs](https://g2p-connect.github.io/specs/)
+1. G2P Connect - [docs](https://g2pconnect.cdpi.dev/g2p-connect/readme) | [specs](https://g2p-connect.github.io/specs/)
 2. P2P / P2M - Unified Payments Interface Protocol (forthcoming)
 3. UK Open Banking Payments - [specs](https://standards.openbanking.org.uk/api-specifications/)
 
