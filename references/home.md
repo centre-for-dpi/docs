@@ -67,6 +67,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 #### 5.2.1 Reference Specs/Implementations:
 
 1. Credential Schemas: Sunbird VC [specs](https://github.com/VC-Specs/vc-specs) | [schemas](https://docs.google.com/spreadsheets/d/1y4z1X7Dfercj7C3wkKbPAR\_ExHbL\_KgXbwtFzeFK078/edit#gid=1454655977) (draft)
+2. EU digital identity wallet [docs](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/blob/main/docs/arf.md) | [specs](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework)
 
 ### 5.3 Consented Data Sharing
 
