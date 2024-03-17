@@ -10,4 +10,4 @@ Some examples of data standards are ISO 10962 Classification of Financial Instru
 
 Many of these standards are extendable implying countries can adopt some of these global standards as a base and contextualize it to suit their local requirements.&#x20;
 
-Any country on the journey of adopting of a national standard can use adaptors (to solve incompatibility issues in the interim) to hasten the process.  Multiple data standards can co-exist as long as they are self-identifying.
+Any country on the journey of adopting a national standard can use adaptors (to solve incompatibility issues in the interim) to hasten the process.  As harmonizing data standards used by all institutions is a behemoth task, multiple data standards can **co-exist as long as they are self-identifying.**

@@ -16,6 +16,6 @@ With warm wishes,&#x20;
 
 Kamya Chandra | Vijay Vujjini&#x20;
 
-Anusree Jaykrishnan | Tanushka Vaid
+Anusree Jayakrishnan | Tanushka Vaid
 
 \

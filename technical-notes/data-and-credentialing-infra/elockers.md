@@ -16,9 +16,6 @@ Imagine a person, A, who needs to apply for a government job. She travels to a m
 
 Multiple organisations face similar challenges for the dispersal of essential services and opportunities to the public. The process of verification - of ensuring that someone is who they say they are is extensive and exhaustive; at least it used to be … before an e-locker.&#x20;
 
-\
-
-
 ### What is an e-locker?&#x20;
 
 An e-locker is an online, verifiable, digital locker App where various government issued and approved documents are stored. An e-locker provides the following services:&#x20;
@@ -27,9 +24,6 @@ An e-locker is an online, verifiable, digital locker App where various governmen
 2. Authentication: of all documents, pre-verified, at par with physical original copies. The e-locker can be built on top of a national ID that can uniquely identify every individual to connect them with their data using multifactor authentication based log-in, or allow log in based on a mobile number or other verifiable identifier &#x20;
 3. Data Exchange: granular consent (for a specific time period and purpose) based exchange of documents in machine readable formats for low cost software evaluations of data (such as those offered by a lending algorithm or shortlisting people for jobs)&#x20;
 
-\
-
-
 An e-locker is based on the following principles:&#x20;
 
 1. **Decentralised control, consent-first approach** - it fetches the data from a variety of organisations based on real time user consent and the unique document or individual ID number instead of storing it in a centralised database.&#x20;
@@ -37,15 +31,9 @@ An e-locker is based on the following principles:&#x20;
 3. **Paperless power sharing** - it steers the cumbersome, paper and labour heavy, governance systems to a digital era and allows equitable distribution of power among individuals from all income, educational and societal levels. It is able to do so by providing multiple options for organisations to integrate and for people to come onboard the system depending on their own technical capabilities. The goal of DPI is to decrease the digital divide by connecting with them at their level while raising them up to a common standard.  &#x20;
 4. **Many apps, many certificates** - Well designed eLockers should have open APIs for issuers of documents and requestors of documents to power multiple apps to access the credentials based on an open network approach&#x20;
 
-
-
 In a world with an e-locker, A would have all her documents stored on her smartphone for easy access and sharing. Within a day, she could apply, be verified, selected, and employed by any agency.&#x20;
 
-
-
 Another urgent use-case for an e-locker was storing and verifying an individual's vaccination certificates during the Covid-19 pandemic. The use of e-lockers during this period also demonstrated how easy it would be to store all certifications and documents right from business licence/ registration, to proof of academic history and employment history, to land ownership, individual identity and more.&#x20;
-
-
 
 ### How does implementing an e-locker benefit a country?&#x20;
 
