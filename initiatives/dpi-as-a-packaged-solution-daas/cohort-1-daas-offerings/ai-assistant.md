@@ -52,10 +52,14 @@ A brief explainer on AI Assistant
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th>CATEGORY</th><th>USE CASES</th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Agriculture</strong></mark></td><td>A farmer getting information about multiple govt. schemes and programs</td></tr><tr><td><mark style="color:purple;"><strong>Climate</strong></mark></td><td>A citizen getting information about how to reduce their carbon footprint and various associated subsidies</td></tr><tr><td><mark style="color:orange;"><strong>Education</strong></mark></td><td>A parent getting assistance on handling their child with special needs</td></tr><tr><td><mark style="color:orange;"><strong>Education</strong></mark></td><td>A teacher getting assistance on using a new teaching technique in her class</td></tr><tr><td><mark style="color:orange;"><strong>Education</strong></mark></td><td>A student getting assistance how to apply for various higher education options and scholarships available to her</td></tr><tr><td><mark style="color:green;"><strong>Healthcare</strong></mark></td><td>A healthcare professional getting information govt. protocols on preventing a new virus</td></tr><tr><td><mark style="color:red;"><strong>Justice and social welfare</strong></mark></td><td>A social worker getting suggestions on how she can help a victim of specific type of domestic violence</td></tr></tbody></table>
 
-### Additional resources:
+{% hint style="success" %}
+For DaaS Cohort 1, **Sunbird AI Assistant** is the AI Assistant product made available.
+{% endhint %}
+
+### Sunbird AI Assistant - Additional resources:
 
 {% embed url="https://docs.google.com/presentation/d/1wfTFDmkDdRvPhFF0ZkT67tGtmWDIIw9E5yztgVs0Urk/edit?usp=drive_link" %}
 
-### Experience centre:
+### Sunbird AI Assistant - Experience centre:
 
 Experience the AI assistant DPI [here](https://docs.google.com/document/d/1VPf\_WQhOBZJF43ltCGH8404Xjk0l\_TaEPDhD2Uca9H4/edit?usp=sharing)

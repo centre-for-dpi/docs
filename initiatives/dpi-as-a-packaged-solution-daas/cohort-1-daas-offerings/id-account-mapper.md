@@ -57,6 +57,10 @@ A short explainer on ID Account mapper
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th>CATEGORY</th><th>USE CASES</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Agriculture</strong></mark></td><td>Direct benefit transfer to farmers for fertiliser subsidies</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Ministry of health sending childbirth allowance for pregnant women</td></tr><tr><td><mark style="color:green;"><strong>Education</strong></mark></td><td>Merit based tuition fee reimbursement for children from low income groups</td></tr><tr><td><mark style="color:orange;"><strong>Climate</strong></mark></td><td>Energy subsidies for houses with rooftop solar</td></tr><tr><td><mark style="color:red;"><strong>Social welfare</strong></mark></td><td>Direct benefit transfer for vulnerable sections after a natural disaster</td></tr></tbody></table>
 
+{% hint style="success" %}
+For DaaS Cohort 1, **OpenG2P SPAR** is the ID-Account Mapper product made available.
+{% endhint %}
+
 ### Additional resources:
 
 {% embed url="https://docs.google.com/presentation/d/1WPdTlNW4hZN5TjTUS3zdla8n-6pnEejTL4wK3TxAUgc/edit?usp=sharing" %}

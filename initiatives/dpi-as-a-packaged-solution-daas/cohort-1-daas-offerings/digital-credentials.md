@@ -59,10 +59,14 @@ A short explainer on verifiable credentials&#x20;
 
 <table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Climate</strong></mark></td><td>Issuing <strong>carbon credits</strong> as verifiable credentials for <strong>energy market trading, eligibility to subsidies</strong> etc.</td></tr><tr><td><mark style="color:purple;"><strong>Education</strong></mark></td><td>Students having their education certificates / admission letters as verifiable credentials and sharing the same to prospective employers/loans/scholarships</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Citizens holding their vaccination details as verifiable credential for eligibility for entering public spaces</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Healthcare professionals with VCs of their professional licensing can present it enabling them to practise anywhere</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Passports as verifiable credentials to assist people in their easy commute in airport</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Business Owners holding Trade License as a verifiable credential for access to credit</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Citizens having their civic certificates (Marriage licenses, Voter ID, Social Security Information /Passport/Driving License) as verifiable credentials to be presented as required</td></tr></tbody></table>
 
-### Additional resources:
+{% hint style="success" %}
+For DaaS Cohort 1, **Inji** is the digital credentials product made available.
+{% endhint %}
+
+### Inji - Additional resources:
 
 {% embed url="https://docs.google.com/presentation/d/1pfI5IcFspKgjNvcX-wTmV99kjMWYyIa0dB6uENLlXXQ/edit?usp=sharing" %}
 
-### Experience centre:
+### Inji - Experience centre:
 
 Coming soon!
