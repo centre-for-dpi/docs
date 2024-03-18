@@ -58,6 +58,8 @@ Increased quality of life powered by the trusted ecosystem that registries creat
 For DaaS Cohort 1, **Sunbird Registries** is the functional registries product made available.
 {% endhint %}
 
+### Sunbird registries - Additional Resources:
+
 {% embed url="https://docs.google.com/presentation/d/1VqSTv_yM4OBzQVivQF_X34GGH1OF0bKlrU85Kk2ZNEw/edit?usp=sharing" %}
 
 ### Sunbird registries - Experience centre:
