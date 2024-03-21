@@ -8,7 +8,7 @@ The most powerful application/ addition of any identifier is to use it for elect
 
 **ID authentication** is the process by which an ID number or a tokenized version of the ID along with one type of authentication factor is used to verify a citizen's identity.  The ID system can be queried and it will provide a **Yes/ No response to the question - “Are you who you claim to be?”**
 
-There are a few key types of authentication:
+There are a few key modes of authentication:
 
 1. Demographic; which verifies a person’s name, address, date of birth, or other information fields
 2. Biometric; which verifies a person’s fingerprints or iris&#x20;
@@ -20,6 +20,15 @@ ID Authentication provides an API-based authentication mechanism for entities to
 Additionally, offline local ID authentication can happen if the ID authority offers a digitally signed artefact i.e. JSON/XML document (as a file or in QR code format) with foundational/functional ID or ID alias, photo, and any other minimal information required for validation to deliver a service.
 
 Depending on the strength of verification required, two-factor authentication can also be considered. In all these cases, the citizen is assumed to have consented to the verification process.
+
+Authentication should be thought through <mark style="background-color:purple;">**three key dimensions :**</mark>
+
+* <mark style="color:green;">**Proof:**</mark> What's the authentication intended to prove? Is it proof of document, proof of identity, proof of presence or proof of existence.
+
+<figure><img src="../../../.gitbook/assets/Copy of Pyramid Infographics by Slidesgo.jpg" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:green;">**Self and assisted**</mark> channels
+* <mark style="color:green;">**Offline and online**</mark> modes
 
 <div data-full-width="false">
 
