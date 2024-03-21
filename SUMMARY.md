@@ -59,6 +59,7 @@
   * [🎯 DaaS in a nutshell](initiatives/dpi-as-a-packaged-solution-daas/daas-in-a-nutshell.md)
   * [3️⃣ A 3-step process from idea to implementation!](initiatives/dpi-as-a-packaged-solution-daas/a-3-step-process-from-idea-to-implementation.md)
   * [📈 Funded DaaS pilot overview](initiatives/dpi-as-a-packaged-solution-daas/funded-daas-pilot-overview.md)
+  * [🖥️ Co-create with us!](initiatives/dpi-as-a-packaged-solution-daas/co-create-with-us.md)
   * [👩‍💻 Cohort 1: DaaS Offerings](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/README.md)
     * [Digital authentication](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-authentication.md)
     * [Digital credentials](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-credentials.md)
