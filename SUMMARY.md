@@ -53,9 +53,6 @@
 
 ## Initiatives
 
-* [💸 G2P Connect](https://g2pconnect.cdpi.dev)
-* [🌍 Agri Connect (forthcoming)](initiatives/agri-connect-forthcoming.md)
-* [👩‍⚕️ Health Connect (forthcoming)](initiatives/health-connect-forthcoming.md)
 * [🌐 DPI advisory](initiatives/dpi-advisory.md)
 * [🚀 DPI as a Packaged Solution (DaaS)](initiatives/dpi-as-a-packaged-solution-daas/README.md)
   * [💡 Why do we need DaaS?](initiatives/dpi-as-a-packaged-solution-daas/why-do-we-need-daas.md)
@@ -71,6 +68,9 @@
   * [❓ FAQs on DaaS](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas.md)
 * [📑 DPI Residents Program](initiatives/dpi-residents-program.md)
 * [⚖️ DPI for Justice](https://cdpi.gitbook.io/dpi-for-justice/)
+* [💸 G2P Connect](https://g2pconnect.cdpi.dev)
+* [👩‍⚕️ Health Connect (forthcoming)](initiatives/health-connect-forthcoming.md)
+* [🌍 Agri Connect (forthcoming)](initiatives/agri-connect-forthcoming.md)
 
 ## References
 
