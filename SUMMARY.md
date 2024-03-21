@@ -54,7 +54,6 @@
 ## Initiatives
 
 * [💸 G2P Connect](https://g2pconnect.cdpi.dev)
-* [Page](initiatives/page.md)
 * [🌍 Agri Connect (forthcoming)](initiatives/agri-connect-forthcoming.md)
 * [👩‍⚕️ Health Connect (forthcoming)](initiatives/health-connect-forthcoming.md)
 * [🌐 DPI advisory](initiatives/dpi-advisory.md)
@@ -71,6 +70,7 @@
     * [AI Assistant](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/ai-assistant.md)
   * [❓ FAQs on DaaS](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas.md)
 * [📑 DPI Residents Program](initiatives/dpi-residents-program.md)
+* [⚖️ DPI for Justice](https://cdpi.gitbook.io/dpi-for-justice/)
 
 ## References
 
