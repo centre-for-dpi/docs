@@ -13,6 +13,7 @@
 * [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md)
 * [🆚 DPG and DPI](the-dpi-wikipedia/dpg-and-dpi.md)
 * [❓ What DPI can I build?](the-dpi-wikipedia/what-dpi-can-i-build.md)
+* [First use case for DPI](the-dpi-wikipedia/first-use-case-for-dpi.md)
 
 ## Mythbusters and FAQs
 
