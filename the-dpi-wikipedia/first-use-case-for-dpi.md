@@ -4,7 +4,7 @@ description: >-
   a DPI building block?
 ---
 
-# First use case for DPI
+# 🥇 First use case for DPI
 
 If you’ve chosen which DPI block you would want to build, congratulations! The first step is done. Now, the second important question is, which use case do you want to pilot that DPI in?&#x20;
 

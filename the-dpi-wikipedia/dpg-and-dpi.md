@@ -6,7 +6,7 @@ We describe DPGs as:&#x20;
 
 A set of well-defined assets / resources; in the form of specifications / software / data / content; made freely available; with its own lifestyle and governance; allowing others to build and operate their own DPI.&#x20;
 
-<figure><img src="../.gitbook/assets/DPI Thinking Extended- CDPI (Root Deck) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-21 at 10.41.37 AM.png" alt=""><figcaption></figcaption></figure>
 
 This means DPGs are open source resources used to create or improve a country's DPIs. A stack of DPGs that are interoperable and scalable can come together to build a DPI infrastructure in countries - such as via [G2P Connect](https://app.gitbook.com/o/naAYGnbEtShhYREsQxVo/s/70xU1fYATz5DdXkNYXV6/) for social benefit programs.
 
