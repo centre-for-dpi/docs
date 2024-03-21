@@ -10,7 +10,6 @@ description: >-
 
 ***
 
-\
 We wanted to share some exciting updates with you!
 
 To accelerate the <mark style="color:purple;">**global 50-in-5 DPI Adoption**</mark> target, the Centre for DPI and EkStep Foundation are co-convening a program for rapid deployment of DPI pilots called DaaS. The idea of DaaS or <mark style="color:purple;">**DPI as a Packaged Solution**</mark> was first introduced in a [paper ](https://carnegieindia.org/2024/02/13/future-of-digital-public-infrastructure-thesis-for-rapid-global-adoption-pub-91612)published by the Carnegie Institute and later put up for discussion at the Global Technology Summit. The program has been designed after taking feedback from key development partners, funders, DPGs, and government agencies. We have published this[ wiki ](https://docs.cdpi.dev/initiatives/dpi-as-a-packaged-solution-daas)for a detailed explanation of how DaaS pilots will be structured.&#x20;
