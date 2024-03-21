@@ -54,6 +54,7 @@
 ## Initiatives
 
 * [💸 G2P Connect](https://g2pconnect.cdpi.dev)
+* [Page](initiatives/page.md)
 * [🌍 Agri Connect (forthcoming)](initiatives/agri-connect-forthcoming.md)
 * [👩‍⚕️ Health Connect (forthcoming)](initiatives/health-connect-forthcoming.md)
 * [🌐 DPI advisory](initiatives/dpi-advisory.md)

@@ -2,7 +2,7 @@
 
 Digital Public Goods (DPG) and Digital Public Infrastructure (DPI) are two distinct yet complementary concepts.&#x20;
 
-We define DPGs as:&#x20;
+We describe DPGs as:&#x20;
 
 A set of well-defined assets / resources; in the form of specifications / software / data / content; made freely available; with its own lifestyle and governance; allowing others to build and operate their own DPI.&#x20;
 
