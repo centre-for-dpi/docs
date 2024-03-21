@@ -13,7 +13,7 @@
 * [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md)
 * [🆚 DPG and DPI](the-dpi-wikipedia/dpg-and-dpi.md)
 * [❓ What DPI can I build?](the-dpi-wikipedia/what-dpi-can-i-build.md)
-* [First use case for DPI](the-dpi-wikipedia/first-use-case-for-dpi.md)
+* [🥇 First use case for DPI](the-dpi-wikipedia/first-use-case-for-dpi.md)
 
 ## Mythbusters and FAQs
 
@@ -53,7 +53,7 @@
 
 ## Initiatives
 
-* [G2P Connect](https://g2pconnect.cdpi.dev)
+* [💸 G2P Connect](https://g2pconnect.cdpi.dev)
 * [🌍 Agri Connect (forthcoming)](initiatives/agri-connect-forthcoming.md)
 * [👩‍⚕️ Health Connect (forthcoming)](initiatives/health-connect-forthcoming.md)
 * [🌐 DPI advisory](initiatives/dpi-advisory.md)
