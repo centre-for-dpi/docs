@@ -1,3 +1,9 @@
+---
+description: >-
+  Are DPGs and DPI the same thing? Are DPGs necessary to build DPI? Read on to
+  know more!
+---
+
 # 🆚 DPG and DPI
 
 Digital Public Goods (DPG) and Digital Public Infrastructure (DPI) are two distinct yet complementary concepts.&#x20;
