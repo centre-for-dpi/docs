@@ -14,11 +14,13 @@ As described in the [UN Secretary General’s Roadmap for Digital Cooperation](h
 
 However, not all Digital Public Goods can be used as building blocks for DPI.&#x20;
 
-DPI can be built through open source or private solutions only as long as they adhere to open specifications, generate network effects, and trigger both public and private innovation.&#x20;
+DPI can be built through open source (or private solutions) only as long as they adhere to open specifications, generate network effects, and trigger both public and private innovation.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 9.48.05 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 10.00.06 AM.png" alt=""><figcaption></figcaption></figure>
 
-This means DPGs are open source resources used to create or improve a country's DPIs. A stack of DPGs that are interoperable and scalable can come together to build a DPI infrastructure in countries - such as via [G2P Connect](https://app.gitbook.com/o/naAYGnbEtShhYREsQxVo/s/70xU1fYATz5DdXkNYXV6/) for social benefit programs.
+DPGs having their own lifestyle and governance means that DPGs are set up by independent institutions that can predate or outlast country specific DPI. They have their own governing bodies and mechanisms to update their infrastructure outside country context. &#x20;
+
+A stack of DPGs that are interoperable and scalable can come together to build a DPI infrastructure in countries - such as via [G2P Connect](https://app.gitbook.com/o/naAYGnbEtShhYREsQxVo/s/70xU1fYATz5DdXkNYXV6/) for social benefit programs.
 
 Using open source components can help ensure that best practices are incorporated, rapid deployment and scale is achieved, dependency or lock-ins are avoided, and minimum efforts can unlock maximum gains. OpenG2P, OpenSPP, or CoreMIS for government benefits or MOSIP for identity projects are examples of DPGs used to help build DPI infrastructure in countries.&#x20;
 
