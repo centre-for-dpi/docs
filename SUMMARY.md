@@ -19,8 +19,8 @@
 
 * [🔯 DPI and Mandating Adoption](mythbusters-and-faqs/dpi-and-mandating-adoption.md)
 * [🔯 DPI and Private Competition](mythbusters-and-faqs/dpi-and-private-competition.md)
-* [🔯 DPI and the Digital Divide](mythbusters-and-faqs/readme.md)
 * [🔯 DPI and Privacy / Security](mythbusters-and-faqs/dpi-and-privacy-security.md)
+* [🔯 DPI and the Digital Divide](mythbusters-and-faqs/readme.md)
 
 ## Technical Notes
 
