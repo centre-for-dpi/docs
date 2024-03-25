@@ -16,7 +16,7 @@ The Centre for DPI is:&#x20;
 
 Whichever country, government, funder, technology and software can help DPI implementation roll out in accordance with best practices, and fast timelines, we are happy to support them and work with them to promote global DPI implementation in the country's best interests.&#x20;
 
-CDPI has team members who have rolled out DPI projects at scale in their own countries, and continues to do so in various contexts (including Daniel Abadie who oversaw Argentina's verifiable credentials system, Emmanuel Khisa who worked on ID and Payments in Africq, and Pramod Varma, the chief architect of the India Stack)&#x20;
+CDPI has team members who have rolled out DPI projects at scale in their own countries, and continues to do so in various contexts (including Daniel Abadie who oversaw Argentina's verifiable credentials system, Emmanuel Khisa who worked on ID and Payments in Africa, and Pramod Varma, the chief architect of the India Stack)&#x20;
 
 Any country can approach CDPI (please email info@cdpi.dev) to engage with us. CDPI can help share some knowledge and insights on the best practices to adopt while designing their digital transformation journeys to ensure they reach scale in sustainable manners, power public and private innovation, and are able to create interoperable, reusable building blocks with minimal funding and resource constraints.&#x20;
 
