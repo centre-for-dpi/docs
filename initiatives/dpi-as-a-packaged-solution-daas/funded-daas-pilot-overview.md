@@ -19,3 +19,7 @@ Applications are open from **January to February 2024**, and selected countries 
 2. **Ecosystem Support Provided:** DaaS package (provided by DPG providers, certified implementation partners & cloud providers) and Technology Service Providers to implement the pilot.&#x20;
 3. **Funding Sources**: DaaS-based pilot funds from philanthropy, Govt funders, and other sources to launch pilots
 4. **Timeline to launch:** Countries to apply in February for selection by March 2024 and implementation by April/May 2024
+
+The following **DaaS playbook** has been co-created to provide visibility to all the steps of creating a DaaS cohort for accelerated pilots:
+
+{% embed url="https://docs.google.com/spreadsheets/d/1EnGMyWLRBlgRX8oTPFnAFwFFNtnhdBxsp5vr7raFcek/edit?usp=sharing" fullWidth="true" %}
