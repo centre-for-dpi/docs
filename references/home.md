@@ -74,6 +74,10 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 1. X-Road [docs](https://docs.x-road.global/)| [specs](https://github.com/nordic-institute/X-Road)
 2. Account Aggregator (Financial data sharing) [specs](https://github.com/Sahamati/account-aggregator-standards)
 
+### 5.4 Datasets
+
+1. ML data sets to train for local languages [docs](https://bhashini.gov.in/ulca/model/benchmark-datasets) | specs
+
 ## 6. Discovery & Fulfilment
 
 ### 6.1 eCommerce Network
