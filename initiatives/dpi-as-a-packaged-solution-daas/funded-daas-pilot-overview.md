@@ -23,3 +23,7 @@ Applications are open from **January to February 2024**, and selected countries 
 The following **DaaS playbook** has been co-created to provide visibility to all the steps of creating a DaaS cohort for accelerated pilots:
 
 {% embed url="https://docs.google.com/spreadsheets/d/1EnGMyWLRBlgRX8oTPFnAFwFFNtnhdBxsp5vr7raFcek/edit?usp=sharing" fullWidth="true" %}
+
+A more visual representation of the above playbook is attached below:
+
+{% embed url="https://docs.google.com/presentation/d/1nSzBahAm5FDzx26gJhFZL2495TX0ww5mqsNjrkDcaXw/edit?usp=sharing" %}
