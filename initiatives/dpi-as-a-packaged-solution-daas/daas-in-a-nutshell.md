@@ -24,4 +24,4 @@ DaaS brings together elements that have been a part of digital governments and n
 
 ### DaaS is simply a combination of these things - a small innovation that we believe could have a big impact.&#x20;
 
-<figure><img src="../../.gitbook/assets/DaaS country workshop (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KC_Deck for CoDevelop IC.jpg" alt=""><figcaption></figcaption></figure>
