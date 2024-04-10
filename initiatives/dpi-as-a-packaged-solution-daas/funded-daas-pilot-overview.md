@@ -15,7 +15,7 @@ Applications are open from **January to February 2024**, and selected countries 
 
 ### A Final Snapshot: What’s on Offer?&#x20;
 
-1. **DPI Product Packages Available:**  Auth/eKYC/ SSO on any existing ID, Digital Credentialing, ID-Account Mapper and AI Assistant
+1. **DPI Product Packages Available:**  Auth/eKYC/ SSO on any existing ID, Digital Credentialing, ID-Account Mapper (in Identity, Payments, Data Sharing)
 2. **Ecosystem Support Provided:** DaaS package (provided by DPG providers, certified implementation partners & cloud providers) and Technology Service Providers to implement the pilot.&#x20;
 3. **Funding Sources**: DaaS-based pilot funds from philanthropy, Govt funders, and other sources to launch pilots
 4. **Timeline to launch:** Countries to apply in February for selection by March 2024 and implementation by April/May 2024
