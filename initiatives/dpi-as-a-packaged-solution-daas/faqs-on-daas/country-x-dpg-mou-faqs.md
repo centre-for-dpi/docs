@@ -1,5 +1,7 @@
 # Country x DPG MOU FAQs
 
+Please see the MOU template [here](https://docs.google.com/document/d/1gS7OTCr1v5IgFqOscqnRcQFXncAusv7U/edit)
+
 <mark style="background-color:orange;">Q. What’s the overall legal framework of DaaS?</mark>&#x20;
 
 A. There are 4 parties involved in DaaS:&#x20;
