@@ -1,6 +1,6 @@
 # Country x DPG MOU FAQs
 
-Please see the MOU template [here](https://docs.google.com/document/d/1gS7OTCr1v5IgFqOscqnRcQFXncAusv7U/edit)
+Please see the MOU template [here](https://docs.google.com/document/d/1HXDTgH8GqJmOn5nBRs\_OOx87CKNX7jib/edit?usp=sharing\&ouid=114523578733264449278\&rtpof=true\&sd=true)
 
 <mark style="background-color:orange;">Q. What’s the overall legal framework of DaaS?</mark>&#x20;
 
