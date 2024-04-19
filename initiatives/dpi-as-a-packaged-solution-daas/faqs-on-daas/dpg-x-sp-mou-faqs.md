@@ -9,7 +9,7 @@ A. There are 4 parties involved in DaaS:&#x20;
 1. DaaS Implementer - the Country department which is executing the DaaS package&#x20;
 2. DaaS Partner - the DPG which is providing the DaaS product to be deployed in the country
 3. Service Provider(s) - the entity(ies) that will deploy, maintain and provide the technical support during the pilot of DaaS&#x20;
-4. Advisor - the partner covering all advisory ( managerial, technical, legal  etc)related to DaaS. For the first cohort, this will be the Centre for DPI. &#x20;
+4. Advisor - the partner covering all advisory (managerial, technical, legal, etc.) related to DaaS. For the first cohort, this will be the Centre for DPI. &#x20;
 
 These parties interact with each other in the following ways:&#x20;
 
