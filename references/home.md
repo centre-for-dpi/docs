@@ -104,3 +104,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
    * OpenELIS - [docs](http://docs.openelis-global.org/en/latest/) | [specs](https://github.com/I-TECH-UW/OpenELIS-Global-2/)
 6. Vaccination certificate (Verifiable credential): DIVOC [docs](https://divoc.digit.org/) | [specs](https://github.com/egovernments/DIVOC)
 
+### 6.4 Misc
+
+1. Open social network (Decentralized Social Networking Protocol) [docs](https://dsnp.org/introducing-dsnp.html) | [specs](https://spec.dsnp.org/)
+
