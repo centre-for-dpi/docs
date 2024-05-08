@@ -69,4 +69,4 @@ For DaaS Cohort 1, **Inji** is the digital credentials product made available.
 
 ### Inji - Experience centre:
 
-Coming soon!
+[https://docs.mosip.io/inji/inji-mobile-wallet/sandbox-details/inji-setup-guide](https://docs.mosip.io/inji/inji-mobile-wallet/sandbox-details/inji-setup-guide)
