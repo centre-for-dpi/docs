@@ -36,6 +36,7 @@
   * [Data standards](technical-notes/data-and-credentialing-infra/data-standards.md)
   * [Verifiable Credentials](technical-notes/data-and-credentialing-infra/verifiable-credentials.md)
   * [eLockers](technical-notes/data-and-credentialing-infra/elockers.md)
+  * [Non-personal Anonymised Datasets](technical-notes/data-and-credentialing-infra/non-personal-anonymised-datasets.md)
 * [🔏 Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra/README.md)
   * [Digital Signatures and PKI](technical-notes/electronic-signature-pki-and-trust-infra/digital-signatures-and-pki.md)
   * [eConsent](technical-notes/electronic-signature-pki-and-trust-infra/econsent.md)
