@@ -6,7 +6,7 @@ The ground realities of implementation vary not just from country to country, bu
 
 1. An <mark style="color:red;">**inherent friction between need and speed of rollout:**</mark> the need for the DPI is urgent for people, but there are often challenges in speed of implementation;
 2. The <mark style="color:red;">**local capacity**</mark> to architect and build minimalist technology infrastructure solutions may be low or vary at different levels of government;
-3. There may be **funding or budget gaps** for execution (not just for the new software systems but also for compute/hardware); and
+3. There may be <mark style="color:red;">**funding or budget gaps**</mark> for execution (not just for the new software systems but also for compute/hardware); and
 4. <mark style="color:red;">**Procurement cycles**</mark> may be long and tedious to kickstart progress. There are multiple hoops to jump through before a country can even test out the DPI block through a pilot. Some of these are shown below, indicating the complexity countries often face: many have a selection process to identify the team that would eventually craft the RFP to identify a final system builder.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/27MGCm4rMwhzKxMl7U3SiaudlOsuBAMwKXDQv6iWeMhUttzmKF5LkszYsudv1aCPbN9nC4gMej3SW9tDv6uLzxuTaT4VelKuVbWtKw9ThDzexHRR08IqIQorupjTR9X9_l5bP9f_aeCHVYIq2Qa7ejM" alt=""><figcaption></figcaption></figure>

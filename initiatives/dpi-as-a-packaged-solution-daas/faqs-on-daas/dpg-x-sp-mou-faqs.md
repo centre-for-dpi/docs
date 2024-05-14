@@ -6,20 +6,20 @@ Please see the MOU template [here ](https://docs.google.com/document/d/1CUGlInnY
 
 A. There are 4 parties involved in DaaS:&#x20;
 
-1. DaaS Implementer - the Country department which is executing the DaaS package&#x20;
-2. DaaS Partner - the DPG which is providing the DaaS product to be deployed in the country
+1. DaaS Country Partner - the Country department which is executing the DaaS package&#x20;
+2. DaaS DPG Partner - the DPG which is providing the DaaS product to be deployed in the country
 3. Service Provider(s) - the entity(ies) that will deploy, maintain and provide the technical support during the pilot of DaaS&#x20;
-4. Advisor - the partner covering all advisory (managerial, technical, legal, etc.) related to DaaS. For the first cohort, this will be the Centre for DPI. &#x20;
+4. Advisor - the partner covering all advisory ( managerial, technical, legal  etc)related to DaaS. For the first cohort, this will be the Centre for DPI. &#x20;
 
 These parties interact with each other in the following ways:&#x20;
 
-1. MOU between the DaaS Implementer (Country Dep’t) and the DaaS Partner (DPG)
-2. MOU between the DaaS Partner (DPG) and the Service Provider
-3. MOU or LoI between the DaaS Implementer and the Advisor
+1. LoI or MOU between DaaS Country Partner and DaaS DPG Partner
+2. MOU between the DaaS DPG Partner and the Service Provider
+3. MOU or LoI between the DaaS Country Partner and the Advisor
 
 <mark style="background-color:purple;">Q: Why have an MOU between a country and a DPG, when it is not the DPG who will ultimately implement the product in the country, but rather the DPG will outsource it to a third party (service provider)?</mark>&#x20;
 
-The DPG is the ‘DaaS Partner’ which means that it is the responsibility of the DPG to support implementation of the DaaS package in the country. To do so, it may utilise the support of a SP or multiple SPs to help with capacity building and technical execution through a separate MOU. Since the DaaS product is owned by the DPG, they will be responsible for training the SPs and ensuring that the deployment adheres to best practices.&#x20;
+The DPG is the ‘DaaS DPG Partner’ which means that it is the responsibility of the DPG to support implementation of the DaaS package in the country. To do so, it may utilise the support of a SP or multiple SPs to help with capacity building and technical execution through a separate MOU. Since the DaaS product is owned by the DPG, they will be responsible for training the SPs and ensuring that the deployment adheres to best practices.&#x20;
 
 A: There are multiple reasons for this:&#x20;
 

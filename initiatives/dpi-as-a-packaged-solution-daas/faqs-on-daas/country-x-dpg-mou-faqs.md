@@ -6,16 +6,16 @@ Please see the MOU template [here](https://docs.google.com/document/d/1HXDTgH8Gq
 
 A. There are 4 parties involved in DaaS:&#x20;
 
-1. DaaS Implementer - the Country department which is executing the DaaS package&#x20;
-2. DaaS Partner - the DPG which is providing the DaaS product to be deployed in the country
+1. DaaS Country Partner - the Country department which is executing the DaaS package&#x20;
+2. DaaS DPG Partner - the DPG which is providing the DaaS product to be deployed in the country
 3. Service Provider(s) - the entity(ies) that will deploy, maintain and provide the technical support during the pilot of DaaS&#x20;
 4. Advisor - the partner covering all advisory ( managerial, technical, legal  etc)related to DaaS. For the first cohort, this will be the Centre for DPI. &#x20;
 
 These parties interact with each other in the following ways:&#x20;
 
-1. MOU between the DaaS Implementer (Country Dep’t) and the DaaS Partner (DPG)
-2. MOU between the DaaS Partner (DPG) and the Service Provider
-3. MOU or LoI between the DaaS Implementer and the Advisor
+1. LoI or MOU between DaaS Country Partner and DaaS DPG Partner
+2. MOU between the DaaS DPG Partner and the Service Provider
+3. MOU or LoI between the DaaS Country Partner and the Advisor
 
 
 
@@ -23,9 +23,9 @@ These parties interact with each other in the following ways:&#x20;
 
 A. The way DaaS pilots will scale in a safe and orderly manner across countries and various building blocks is via standardisation of both technical products as well as the legal and governance framework. The key advantages exist of leveraging a standard MoU are:&#x20;
 
-1. Accelerated Funding for Countries: The MoUs have been crafted in a manner that builds comfort for funders and DPGs on various topics, such as data governance; institutional ownership; timelines, etc. We can only guarantee speed of funding approval with the standard DaaS MoU.&#x20;
-2. Timely kick off of pilot: Existing MOUs or agreements may contain custom formats or clauses that are different from the standard MOU language provided. This customisation could delay the approval cycles for the DPG counterpart and disrupt the fundamental target of DaaS which is rapid deployments of DPI pilots.&#x20;
-3. Multi-DPI Scale Up Potential for Countries: Once a DaaS MOU is signed, annexes to same MOU can be reused by the country for additional DPI blocks offered by the same DPG in the future. Once an MoU draft is approved, it becomes a precedent for other departments in the country to use the same draft to deploy DPI blocks offered by different DPGs in the future.
+1. **Accelerated Funding for Countries:** The MoUs have been crafted in a manner that builds comfort for funders and DPGs on various topics, such as data governance; institutional ownership; timelines, etc. We can only guarantee speed of funding approval with the standard DaaS MoU.&#x20;
+2. **Timely kick off of pilot:** Existing MOUs or agreements may contain custom formats or clauses that are different from the standard MOU language provided. This customisation could delay the approval cycles for the DPG counterpart and disrupt the fundamental target of DaaS which is rapid deployments of DPI pilots.&#x20;
+3. **Multi-DPI Scale Up Potential for Countries:** Once a DaaS MOU is signed, annexes to same MOU can be reused by the country for additional DPI blocks offered by the same DPG in the future. Once an MoU draft is approved, it becomes a precedent for other departments in the country to use the same draft to deploy DPI blocks offered by different DPGs in the future.
 4. However this is only a recommended option. In case a country, due to its legal and administrative contexts, require a different MOU, that can be considered by adding a country specific annexe
 
 
@@ -53,7 +53,7 @@ A: Since DaaS is a program offered globally, we have had to standardise the lang
 \
 <mark style="background-color:orange;">Q: Why have an MOU between a country and a DPG, when it is not the DPG who will ultimately implement the product in the country, but rather the DPG will outsource it to a third party (service provider)?</mark>&#x20;
 
-A: The DPG is the ‘DaaS Partner’ which means that it is the responsibility of the DPG to support implementation of the DaaS package in the country. To do so, it may utilise the support of a SP or multiple SPs to help with capacity building and technical execution through a separate MOU. Since the DaaS product is owned by the DPG, they will be responsible for training the SPs and ensuring that the deployment adheres to best practices.&#x20;
+A: The DPG is the ‘DaaS DPG Partner’ which means that it is the responsibility of the DPG to support implementation of the DaaS package in the country. To do so, it may utilise the support of a SP or multiple SPs to help with capacity building and technical execution through a separate MOU. Since the DaaS product is owned by the DPG, they will be responsible for training the SPs and ensuring that the deployment adheres to best practices.&#x20;
 
 There are multiple reasons for this:&#x20;
 
@@ -72,11 +72,6 @@ There are multiple reasons for this:&#x20;
 <mark style="background-color:orange;">Q. How does this MoU ensure data protection and privacy, along with cybersecurity in my DaaS DPI implementation?</mark>
 
 The country owns the implementation. The data resides in servers , either on prem or on cloud, which are directly and totally controlled by the government. The data is encrypted at all levels. Neither the DPG nor the Service providers will have access to data , unless the country allows for a specific purpose for a specific time and that too under the watchful eyes of a country administrator
-
-
-
-<mark style="background-color:orange;">Q: Why have Singapore as the international centre for arbitration in this MoU?</mark> \
-A: In international agreements, most often a third neutral country is looked towards to be the location for arbitration incase of disputes. London is the most commonly recognised country for contract arbitration in this regard. However, given the high costs associated with litigation in London, it was decided to choose Singapore as the more affordable, but also well-regarded option. The other alternative available is UNCITRAL. It is also important to note that arbitration will only be reached in case internal mediation from both parties fail and some third party support is required to resolve the deadlocks.&#x20;
 
 
 

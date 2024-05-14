@@ -6,21 +6,20 @@ The DaaS pilot program is a competitive application process where countries can 
 
 ### Timelines & Actors in the first wave
 
-The selected countries will be given their <mark style="background-color:purple;">**DaaS packages as well as supplementary funding for pilot rollouts**</mark> by June 2024. All pilots will be live on the ground within 90 days after that. The pilots will operate for a period of 90 days after the go-live date, supported by funding for that time period, to help reach its goals efficiently. Post the completion of the funded pilot, the country and DPG can mutually choose to extend the pilot for more time (or another use case), or start the transition to scale.&#x20;
+The selected countries will be given their <mark style="background-color:purple;">**DaaS packages as well as supplementary funding for pilot rollouts**</mark> by June 2024. All pilots will be live on the ground within 90 days after that. The pilots will operate for a period of 90 days after the go-live date (making the program duration a total of 180 days) to help reach its goals efficiently. Post the completion of the funded pilot, the country and DPG can mutually choose to extend the pilot for more time (or another use case), or start the transition to scale.&#x20;
 
 1. The Centre for Digital Public Infrastructure and EkStep Foundation are joint convenors of the program
-2. The first cohort is being executed in partnership with CoDevelop Foundation (as a funder) and IIITB/EkStep (as open source DPG owners depending on the product)
-3. The selection process is competitive and only 3-5 selected countries will receive supplementary DaaS specific funding (in a cohort)
-4. Countries will have specific milestones and deliverables to execute as a part of DaaS to unlock each level of funding.
+2. The first cohort is being executed in partnership with IIITB/EkStep (as open source DPG owners depending on the product)
+3. Countries undergo an assessment process to ensure they are ready to execute a time-bound pilot for higher chances of success.&#x20;
 
 <figure><img src="../../.gitbook/assets/Final pre-read draft_DaaS Deck for Co-Develop Investment Committee .png" alt=""><figcaption></figcaption></figure>
 
 ### A Final Snapshot: What’s on Offer?&#x20;
 
-1. **DPI Product Packages Available:**  Auth/eKYC/ SSO on any existing ID, Digital Credentialing, ID-Account Mapper (in Identity, Payments, Data Sharing)
+1. **DPI Product Packages Available:**  Digital authentication, Digital Credentials, ID-Account mapper
 2. **Ecosystem Support Provided:** DaaS package (provided by DPG providers, certified implementation partners & cloud providers) and Technology Service Providers to implement the pilot.&#x20;
 3. **Funding Sources**: DaaS-based pilot funds from philanthropy, Govt funders, and other sources to launch pilots
-4. **Timeline to launch:** Countries can reach out to CDPI to be a part of DaaS pilots at info@cdpi.dev, the support for pilot and funding will be released after intial rounds of conversation and country assessment (\~2 months)
+4. **Timeline to launch:** Countries can reach out to CDPI to be a part of DaaS pilots at info@cdpi.dev, the support for pilot and funding will be released after initial rounds of conversation and country assessment (\~2 months)
 
 The following **DaaS playbook** has been co-created to provide visibility to all the steps of creating a DaaS cohort for accelerated pilots:
 
