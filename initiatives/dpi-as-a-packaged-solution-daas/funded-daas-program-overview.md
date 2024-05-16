@@ -1,12 +1,16 @@
-# 📈 Funded DaaS Rollout overview
+---
+description: >-
+  Deploy DPI in your country by competitively applying for the Funded DaaS
+  Program
+---
 
-Deploy DaaS in your country by competitively applying for Funded DPI Rollouts
+# 📈 Funded DaaS Program overview
 
-The DaaS Roll-out program is a competitive application process where countries can make the case for why they are best suited to <mark style="background-color:purple;">quickly implement and scale DPI through the DaaS module</mark> in their own countries.&#x20;
+The DaaS program is a competitive application process where countries can make the case for why they are best suited to <mark style="background-color:purple;">quickly implement and scale DPI through the DaaS module</mark> in their own countries.&#x20;
 
 ### Timelines & Actors in the first wave
 
-The selected countries will be given their <mark style="background-color:purple;">**DaaS packages as well as supplementary funding for DPI rollouts**</mark> by June 2024. All DPI will be live on the ground within 90 days after that. The program will operate for a period of 90 days after the go-live date (making the program duration a total of 180 days) to help reach its goals efficiently. Post the completion of the funded program, the country and DPG can mutually choose to extend it for more time (or another use case), or start the transition to scale.&#x20;
+The selected countries will be given their <mark style="background-color:purple;">**DaaS packages as well as supplementary funding for DPI rollouts**</mark> by June 2024. The phase one of the DPI roll-out will be launched in 90 days and sustain for another 90 days (making the program duration a total of 180 days) to demonstrate sufficient proof of success. Post the completion of the funded program, the country and DPG can mutually choose to extend it for more time (or another use case), or start the transition to scale.&#x20;
 
 1. The Centre for Digital Public Infrastructure and EkStep Foundation are joint convenors of the program
 2. The first cohort is being executed in partnership with IIITB/EkStep (as open source DPG owners depending on the product)
