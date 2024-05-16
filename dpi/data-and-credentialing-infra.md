@@ -10,7 +10,7 @@ In the 21st century, data operates as digital capital. The ability to create val
 
 A DPI approach to data sharing can include the following possible use cases:&#x20;
 
-<figure><img src="../.gitbook/assets/KC_Data Interoperability Webinar_13_03_24 .jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-16 at 11.48.30 AM.png" alt=""><figcaption></figcaption></figure>
 
 1. The ability to generate **verifiable credentials** for key certificates/claims in a digital society and share asynchronously with any requestor (eg. proof of education; proof of business registration; proof of work experience, proof of vaccination, etc.) &#x20;
 2. The ability to share **personal data in real-time in a secure, consented manner** bilaterally with a party offering me a service based on the data (eg a health diagnosis, a loan, a recommendation, etc.)
