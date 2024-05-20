@@ -14,6 +14,7 @@
 * [🆚 DPG and DPI](the-dpi-wikipedia/dpg-and-dpi.md)
 * [❓ What DPI can I build?](the-dpi-wikipedia/what-dpi-can-i-build.md)
 * [🥇 First use case for DPI](the-dpi-wikipedia/first-use-case-for-dpi.md)
+* [📘 Inputs for designing a DPI informed digital transformation strategy](the-dpi-wikipedia/inputs-for-designing-a-dpi-informed-digital-transformation-strategy.md)
 
 ## Mythbusters and FAQs
 
