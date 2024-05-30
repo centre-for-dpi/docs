@@ -40,6 +40,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 1. G2P Connect - [docs](https://g2pconnect.cdpi.dev/g2p-connect/readme) | [specs](https://g2p-connect.github.io/specs/)
 2. P2P / P2M - Unified Payments Interface Protocol (forthcoming)
 3. UK Open Banking Payments - [specs](https://standards.openbanking.org.uk/api-specifications/)
+4. ISO 20022 messaging standards [docs](https://www.iso20022.org/iso-20022-message-definitions?business-domain=1) | specs
 
 #### 4.1.1 Reference Implementations
 
@@ -59,6 +60,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 1. Sunbird VC issuance [docs](https://docs.sunbirdrc.dev/learn/readme) | [specs](https://github.com/Sunbird-RC/sunbird-rc-core/tree/main/api-documentation)
 2. Inji by MOSIP [docs](https://docs.mosip.io/inji/) | specs
+3. CREDEBL (Self-Sovereign Identity (SSI) & Verifiable Credentials (VCs))  [docs](https://docs.credebl.id/en/intro/what-is-credebl/) | [specs](https://github.com/credebl)
 
 ### 5.2 Verifiable Credentials - Presentation
 
