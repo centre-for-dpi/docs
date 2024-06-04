@@ -37,7 +37,7 @@ The last important point to consider is whether the line ministry in charge of t
 
 For example, the first DPI block can be data sharing, the first use case for data sharing may be bank certificates, and the first adopter of the DPI use case may be a digital lender who uses it to approve a small ticket loan!&#x20;
 
-Similarly, the DPI block can be Open Discovery, the first use case for open discovery can be mobility, and the first adopted can be a ride sharing startup who wants to integrate it into his platform.&#x20;
+Similarly, the DPI block can be Open Discovery, the first use case for open discovery can be mobility, and the first adopter can be a ride sharing startup who wants to integrate it into his platform.&#x20;
 
 A powerful combination of these three factors (first DPI block, use-case and adopter) is the winning formula to help ensure your DPI is successful.&#x20;
 
