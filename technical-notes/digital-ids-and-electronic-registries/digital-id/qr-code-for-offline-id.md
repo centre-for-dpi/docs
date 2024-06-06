@@ -26,7 +26,7 @@ For high density encoded payload (> \~1.5 KB) format, the other parameters like 
 
 ## Recommendations
 
-Based on the above design considerations, CDPI recommends the following implementation guidelines:
+Based on the above design considerations, CDPI recommends the following design and implementation guidelines:
 
 1. **QR codes must be versioned**. Version number helps refer to the right QR schema registry for decoding. This allows evolvability of the QR.
 2. Custom format must support scalability built-in for multiple libraries to decode the QR. Encoding should **allow optionality of certain attribute**s, and **capability to add new attributes** that a country would like to incorporate into the QR code.&#x20;
