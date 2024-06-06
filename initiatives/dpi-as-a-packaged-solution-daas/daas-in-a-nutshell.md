@@ -6,7 +6,7 @@
 
 The DaaS products significantly <mark style="background-color:green;">**reduce the time, cost, and workforce required**</mark> to build local, use-case driven DPI. While open-source projects offered by Digital Public Goods (as shown in the diagram above) reduce the time taken to build core DPI components, they do not today reduce the time needed for deployment, and technology management infrastructure.&#x20;
 
-**DaaS combines **<mark style="background-color:green;">**best-in-class open-source DPGs**</mark>** with a new class of **<mark style="background-color:green;">**pre-trained technology service provider institutions**</mark>** to pre-package DPI for ready deployment for pilots**. In addition to this, it combines **program and policy guidance** so that the time to deployment of the DaaS package is further reduced.&#x20;
+**DaaS combines **<mark style="background-color:green;">**best-in-class open-source DPGs**</mark>** with a new class of **<mark style="background-color:green;">**pre-trained technology service providers**</mark>** to pre-package DPI for ready deployment for pilots**. In addition to this, it combines **program and policy guidance** so that the time to deployment of the DaaS package is further reduced.&#x20;
 
 DaaS thus leverages best-in-class **Digital Public Goods (DPGs)** to create a **pre-built package** that **every country can use to test out a pilot**, using a set of pre-trained **Technology Service Providers**. Countries retain full control over the pilot and all systems built (including the IP), and can customise (by adding extensions) the systems post the pilot and before they scale.&#x20;
 
