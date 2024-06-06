@@ -6,13 +6,13 @@ description: Best practices implementation guide
 
 ## Context
 
-QR codes are omnipresent and act as a bridge to connect the physical world with digital. QR codes also help users with minimal or no digital literacy to safely navigate doing digital transactions in payments, enrolling into social programs, verifying driving, university, employment credentials, sharing resources like photos/documents/contacts, facilitating e-comments orders, tracking shipments, etc.,
+QR codes are omnipresent and act as a bridge to connect the physical world with digital. QR codes also help users with minimal or no digital literacy to safely navigate performing digital transactions - payments, enrolling into social programs, proving  driving/university/employment credentials, sharing resources like photos/documents/contacts, e-comments orders, tracking shipments, etc.,
 
 {% hint style="info" %}
-One of the primary challenges in QR code use is the size of the payload to encode for easy scan and decode. For online use cases, URLs with reference codes to redirect to an online service to complete the transaction works.
+One of the primary challenges in QR code use is the size of the payload to encode for easy scan and decode. For online use cases, URLs with reference codes that redirects to an online service to complete the transaction works well.
 {% endhint %}
 
-This note calls out design, implementation best practices for identity / credential domain in **offline use cases using QR**. These principles hold true for other domains as well.
+This note calls out design, implementation best practices for identity / credential domain for **offline use of QR**. These principles hold true for other domains as well.
 
 ## Design Considerations
 
