@@ -14,7 +14,7 @@ One of the primary challenges in QR code use is the size of the payload to encod
 
 This note calls out design, implementation best practices for identity / credential domain in **offline use cases using QR**. These principles hold true for other domains as well.
 
-## Design Considerations for Offline QR Code Use
+## Design Considerations
 
 1. Messages in QR code must be compacted to ensure low / medium priced mobile phones can easily scan and decode the text. Representing the entire payload (id/credential data, digital signature and corresponding public key to verify) in \~2K characters is key to QR code design.&#x20;
 2. QR code must be capable to digitally verify the authenticity of the ID credential.
