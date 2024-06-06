@@ -1,8 +1,8 @@
 ---
-description: Best practices implementation guide
+description: Best practices design and implementation guide
 ---
 
-# Designing Offline ID QR Code
+# QR Code for Offline ID
 
 ## Context
 
@@ -28,13 +28,15 @@ For high density encoded payload (> \~1.5 KB) format, the other parameters like 
 
 Based on the above design considerations, CDPI recommends the following implementation guidelines:
 
-1. QR codes should be versioned and version number helps refer to the right QR schema registry for decoding. This allows evolvability of the QR.
+1. QR codes must be versioned. Version number helps refer to the right QR schema registry for decoding. This allows evolvability of the QR.
 2. Custom format must  support scalability built-in for multiple libraries to decode the QR. Encoding should allow optionality of certain attributes, capability to add new attributes that a country would like to incorporate into the QR code.&#x20;
-3. Design should support more than one cryptographic option for digital signing to enable reasonable backward and future proofing new techniques. Additionally, design should allow key rotation and assume there will be valid QR codes with different key pairs issued at different time.
-4. Publish all versions of QR schemas and make public signing keys available as a registry. All known public signing keys can be easily referenced using a key ID and helps in reducing the QR code size.
-5. To protect sensitive attributes such as permanent IDs, phone number, email ID, etc., consider designing some encryption or one way hashing through user controlled key as salt.
-6. Raw compressed face photo embedded in the QR should work with at least 3 different face matching algorithm's threshold scores (FRR and FAR) that is acceptable and meet in overall inclusion strategies. Face image can also be represented as template/embedding in QR code and help in reducing the photo size to few hundred bytes (\~500).
-7. End to end testing should be carried out in multiple phases to ensure all functional and non-functional objectives of the design / specifications are achieved:&#x20;
+3. To digitally verify the authenticity of QR:
+   1. Design should support more than one cryptographic option for digital signing to enable reasonable backward and future proofing new techniques.
+   2. Design should allow key rotation and assume there will be valid QR codes with different key pairs issued at different time.
+   3. Make public signing keys available as a registry. All known public signing keys should be easily referenced using a key ID. This helps in reducing the QR code size too.
+4. To protect sensitive attributes such as permanent IDs, phone number, email ID, etc., consider designing some encryption or one way hashing through user controlled key as salt.
+5. Raw compressed face photo in the QR should work with at least 3 different face matching algorithm's threshold scores (FRR and FAR) that is acceptable and meet in overall inclusion strategies. Face image can also be represented as template/embedding in QR code and help in reducing the photo size to few hundred bytes (\~500).
+6. End to end testing should be carried out in multiple phases to ensure all functional and non-functional objectives of the design / specifications are achieved:&#x20;
    1. Phase-1: Lab testing with synthesised data sets to validate the design, specs and code. Testing can be through APIs and not necessarily people involved. Sample size \~10 qr messages, \~5 devices.
    2. Phase-2: Team testing with actual people in the office or nearby location in a controlled manner. Sample size \~100 qr messages, \~10 devices.
    3. Phase-3: Integrating the solution with actual business application/workflow and testing in the field in a controlled manner. Sample size \~1000 people, \~100 devices and \~10 locations.
