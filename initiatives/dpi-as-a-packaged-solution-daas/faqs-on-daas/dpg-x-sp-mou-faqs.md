@@ -1,6 +1,6 @@
 # DPG x SP MOU FAQs
 
-Please see the MOU template [here ](https://docs.google.com/document/d/1CUGlInnYFLwd5OTr29Tl5d-oKiG11\_6w/edit)
+Please see the MOU template [here ](https://docs.google.com/document/d/1ldm1Juci5VlWtU539W6siU7N5\_nEukmg/edit)
 
 <mark style="background-color:purple;">Q. What’s the overall legal framework of DaaS?</mark>&#x20;
 
