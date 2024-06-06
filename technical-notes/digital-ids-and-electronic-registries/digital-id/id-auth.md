@@ -74,4 +74,3 @@ The digital ID serves as a key to a broad spectrum of services, encompassing fin
 
 1. [https://docs.mosip.io/1.2.0/modules/id-authentication-services](https://docs.mosip.io/1.2.0/modules/id-authentication-services)
 2. [https://govstack.gitbook.io/bb-identity/3-terminology](https://govstack.gitbook.io/bb-identity/3-terminology)
-3. Rebooting India - Nandan Nilekani & Viral Shah
