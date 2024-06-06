@@ -38,10 +38,14 @@ Based on the above design considerations, CDPI recommends the following design a
 5. Raw compressed face photo in the QR should work with **at least 3 different face matching algorithm's threshold scores (**[**FRR and FAR**](#user-content-fn-1)[^1]**) 1** that is acceptable and meet in overall inclusion strategies. Face image can also be represented as template/embedding and help in reducing the photo size to few hundred bytes (\~500).
 6. **End to end testing** should be carried out in multiple phases to ensure all functional and non-functional objectives of the design / specifications are achieved:&#x20;
    1. **Phase-1**: Lab testing with synthesised data sets to validate the design, specs and code. Testing can be through APIs and not necessarily people involved. Sample size \~10 qr messages, \~5 devices.
-   2. **Phase-2:** Team testing with actual people in the office or nearby location in a controlled manner. Sample size \~100 qr messages, \~10 devices.
-   3. **Phase-3**: Integrating the solution with actual business application/workflow and testing in the field in a controlled manner. Sample size \~1000 people, \~100 devices and \~10 locations.
-   4. **Phase-4**: Rolling out the above solution through a business use case within a region or country wide to improve the end to end offering (including 1:1 face matching). Additionally, testing the solution against multiple use cases to get feedback and improve the specs.
-   5. **Phase-5**: Formal 1.0 release of specs/solution and proposing specifications with  regional and/or global standardisation bodies.
+   2. **Phase-2:** Controlled team testing with actual people in the office or nearby location. Sample size \~100 qr messages, \~10 devices, \~1 location.
+   3. **Phase-3**: Integrating the solution with actual business application/workflow and controlled field testing. Sample size \~1000 people, \~100 devices and \~10 locations.
+   4. **Phase-4**: Rolling out the above integrated business use case solution within a region (or country wide) to evaluate end to end solution offering (including 1:1 face matching). Additionally, test the solution against multiple use cases to get feedback and improve specs/design/solution offering.
+   5. **Phase-5**: Formal 1.0 release of specs/solution for the country/region. Propose specifications with regional and/or global standardisation bodies.
+
+{% hint style="info" %}
+In addition to above technical recommendations, QR code should be popularised through branding, certification and campaigns.
+{% endhint %}
 
 ## References
 
