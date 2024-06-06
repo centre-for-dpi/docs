@@ -4,7 +4,7 @@
 
 1. Countries can choose the use case they want to pilot after reviewing the products on offer
 2. Have conversations with CDPI, DPGs, and ecosystem market players to understand and procure the DPI DaaS package
-3. Configure it to their systems and infrastructure
+3. Configure it to their systems and infrastructure with the help of pre-trained Service providers who can support (along with the DPG) building local capacity for long term scale and sustainability of the DPI.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/jEiw7ruvNSwXV3coHib_skqrfyoY8SFy2eigIUCUsnnh-k38jFeogOi1xfhy1bckBqzaQ6bGi037z2WJ-U0UMSO4CAKc0EJKwpu7IvAHKiOXCHioicGDXhd5x_2SVf6ilr56OiV4OCvFDQ7czIjUYpY" alt=""><figcaption></figcaption></figure>
 
