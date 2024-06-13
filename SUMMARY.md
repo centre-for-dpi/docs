@@ -37,6 +37,7 @@
   * [A primer to personal data sharing](technical-notes/data-and-credentialing-infra/a-primer-to-personal-data-sharing.md)
   * [Data standards](technical-notes/data-and-credentialing-infra/data-standards.md)
   * [Verifiable Credentials](technical-notes/data-and-credentialing-infra/verifiable-credentials.md)
+  * [Building Data Analytics Pipelines](technical-notes/data-and-credentialing-infra/building-data-analytics-pipelines.md)
   * [eLockers](technical-notes/data-and-credentialing-infra/elockers.md)
   * [Non-personal Anonymised Datasets](technical-notes/data-and-credentialing-infra/non-personal-anonymised-datasets.md)
 * [🔏 Trust Infra](technical-notes/electronic-signature-pki-and-trust-infra/README.md)
