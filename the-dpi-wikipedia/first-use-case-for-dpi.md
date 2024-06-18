@@ -21,8 +21,6 @@ Which use-case is…
 
 For example, do people regularly need to show their income certificates to get access to various programs and there is no way to verify them? Is the pension scheme a large enough program through which money is transferred every month but there is no way to map the accounts it is going to? If this is true, then it is a good first use-case! On the other hand, converting school certificates into verifiable credentials (that someone may hardly use in their lives) is not necessarily a powerful first step. Try to select a use-case that addresses the daily needs of the common man. This way there will be a big enough pain point that people are willing to try something new in order to find an easier way to navigate that situation, and the willingness to adopt the DPI will be higher.&#x20;
 
-
-
 2. <mark style="background-color:orange;">Covering large amounts of the population?</mark>&#x20;
 
 It is ideal if the use-case has a large enough coverage in the country so that it can create meaningful impact right from the start. For example, turning vaccine certificates into a verifiable credential is something that affects everyone in the country, as does receiving subsidies for food or gas. The larger the coverage of the pain point, the faster will be the voluntary adoption of the DPI. If a very niche sector is chosen as the first use-case it will be difficult to apply it cross-sectorally or use it as proof of success for a larger population.&#x20;
@@ -31,8 +29,6 @@ It is ideal if the use-case has a large enough coverage in the country so that i
 
 The last important point to consider is whether the line ministry in charge of that use case is also aligned to the DPI approach or can be efficiently brought on board. For example, for verifying land records, is the home ministry alright with sharing the land record database? For routing G2P for educational scholarships, is the education ministry alright with sharing student records? Knowing you have the agency over or approval of the line ministry required to execute the DPI block for this use-case means that you now have a winning formula in your hand!&#x20;
 
-
-
 <mark style="background-color:purple;">Note: The first use case is different from first adopter!</mark>&#x20;
 
 For example, the first DPI block can be data sharing, the first use case for data sharing may be bank certificates, and the first adopter of the DPI use case may be a digital lender who uses it to approve a small ticket loan!&#x20;
@@ -40,6 +36,8 @@ For example, the first DPI block can be data sharing, the first use case for dat
 Similarly, the DPI block can be Open Discovery, the first use case for open discovery can be mobility, and the first adopter can be a ride sharing startup who wants to integrate it into his platform.&#x20;
 
 A powerful combination of these three factors (first DPI block, use-case and adopter) is the winning formula to help ensure your DPI is successful.&#x20;
+
+> While implementing the first DPI block it's always advised to **pick three potential use cases and three first adopters** to pursue in parallel for a higher chance of successful implementation :medal:
 
 Happy building!&#x20;
 
