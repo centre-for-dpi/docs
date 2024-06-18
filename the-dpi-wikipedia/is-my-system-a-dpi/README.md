@@ -38,7 +38,7 @@ A registry implementation can be considered a DPI if it stores **data**&#x20;
 * &#x20;**digitally signed format**&#x20;
 * that external parties - **both public and private - can access**&#x20;
 
-a. The first and simplest way to enable data sharing using registries to generate [verifiable credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials) for the holder **as a natural exhaust** for the stored data. This allows both online/offline,  asynchronous, user-controlled usage of data stored in a registry.
+a. The first and simplest way to enable data sharing using registries to generate [verifiable credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials) for the holder **as a natural exhaust** for the stored data.&#x20;
 
 b. Registries operating as mature DPI can also enable **access system to system directly via open APIs.** These open API standards can come from self-defined national standards or derived from well-accepted open specifications like the [G2P Connect/ DCI](https://g2pconnect.cdpi.dev/protocol/interfaces/registries) APIs.
 
@@ -46,33 +46,31 @@ b. Registries operating as mature DPI can also enable **access system to system 
 
 _a._ [_Peer-to-Peer/Person-to-Merchant (P2P/P2M) Payments_](https://docs.cdpi.dev/technical-notes/digital-payment-networks)
 
-Often, instant bank-to-bank payment systems are packaged as DPI implementations. However, for a P2P/P2M payments infrastructure to truly operate as DPI, **interoperability and inclusivity is key.**&#x20;
+Often, instant bank-to-bank payment systems are packaged as DPI implementations. However, for a P2P/P2M payments infrastructure to truly operate as DPI, it should be
 
-Inclusivity: The infrastructure should have scaled to usage by the **majority of the population** without significant cost or technology barriers&#x20;
+**Inclusive:** The infrastructure should have scaled to usage by the **majority of the population** without significant cost or technology barriers&#x20;
 
-Interoperability: to operate as a mature DPI, a payments rails should support the movement of money across:
+**Interoperable:** To operate as a mature DPI, a payments rails should support the movement of money across:
 
 * Any account used for payment (Bank, Wallet, Mobile Money, Credit Lines)
 * Any app used to pay (Bank, Wallet, Mobile Money, Fintech)
 * Any device or channel (Feature phones, PoS machines, Smartphones, QR stickers; Online/Offline, Dynamic QR)
 * Any recipient of payment (P2P, P2M, P2G, G2P, etc.)
 
-A powerful DPI approach would also mean that the payments infrastructure is **programmable** to support capabilities like recurring payments, offline/ feature phone payments, flexible authorisation options etc.&#x20;
-
-This represents the ideal (though evolving) state of nature payments DPI. Countries do not need to build all of this on day one though - they can add capabilities as they build, but the initial architecture should be **future proof and easily extensible** allowing ease of addition of new features without burdensome technical rewriting.
+This represents the ideal (though evolving) state of nature payments DPI. Countries do not need to build all of this on day one though - they can add capabilities as they build, but the initial architecture should be **future-proof, programmable, and easily extensible** allowing ease of addition of new features.
 
 _b._ [_G2P Payments_ ](https://g2pconnect.cdpi.dev/)
 
 Government-to-Person (G2P) benefits is a complex ecosystem with many modules, including scheme management, beneficiary management, disbursement systems, settlement systems, and last-mile cash-in/cash-out systems, all spread across various departments.&#x20;
 
 {% hint style="info" %}
-The presence of a digitised G2P infrastructure <mark style="color:red;">**does not**</mark> automatically imply a DPI   implementation. Some modules, such as beneficiary scheme management, are simply digital solutions.
+The presence of a digitised G2P infrastructure <mark style="color:red;">**does not**</mark> automatically imply a DPI implementation. Some modules, such as beneficiary scheme management, are simply digital solutions.
 {% endhint %}
 
 G2P systems can operate as DPI by **utilizing reusable infrastructure, such as** [**registries**](https://g2pconnect.cdpi.dev/protocol/interfaces/registries)**, an** [**ID-Account mapper**](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture)**, and** [**cash in cash out standards**](https://docs.cdpi.dev/technical-notes/digital-payment-networks/cash-in-cash-out-cico)**.**
 
-* Collected **beneficiary data** can be **converted into a registry for reuse** by other departments (see #2 on registries). This includes registries of beneficiary identities which can operate in some countries as a verifiable ID if it enables **authentication, a credential, or eKYC.**&#x20;
-* An **ID-Account mapper** (a four-field registry mapping a verifiable ID or phone number to an account number) can be used to **route payments without repetition.** However, G2P systems can be powerful first adopters of other DPI in the country - such as identity authentication/ eKYC blocks built by other departments for ease of beneficiary onboarding or payment rails.
+* Collected **beneficiary data** can be **converted into a registry for reuse** by other departments (see #2 on registries).
+* An **ID-Account mapper** (a four-field registry mapping a verifiable ID or phone number to an account number) can be used to **route payments without repetition.**&#x20;
 
 4. <mark style="background-color:purple;">**Data sharing infrastructure - Personal**</mark>&#x20;
 
