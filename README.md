@@ -18,4 +18,14 @@ Kamya Chandra | Vijay Vujjini&#x20;
 
 Anusree Jayakrishnan | Tanushka Vaid
 
+
+
+**Citation guidelines:**
+
+**Centre for DPI. (2024). **_**\[Title of the Article]**_**. DPI Wikipedia. Retrieved from https://docs.cdpi.dev/**&#x20;
+
+For example:
+
+**Centre for DPI. (2024). **_**Understanding DPI**_**. DPI Wikipedia. Retrieved from https://docs.cdpi.dev/understanding-dpi**
+
 \
