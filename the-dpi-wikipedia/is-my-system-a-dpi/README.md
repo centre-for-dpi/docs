@@ -7,8 +7,8 @@ However, **not everything labeled as DPI truly functions as such.** How can you 
 Before diving in, let's recap a few key points:
 
 * Open source does not automatically mean DPI, nor do DPI implementations need to rely solely on open-source solutions.
-* DPI implementations must use **open APIs, open standards and open specifications** to achieve interoperability and reuse by 3rd party public and private institutions.
-* All DPI implementations are designed to be **reusable by others,** and not just beneficial to the implementing institution.
+* DPI implementations must use open APIs, open standards, and open specifications to achieve interoperability and reusability.&#x20;
+* All DPI implementations are designed to be reusable by third-party public and private institutions, and not just beneficial to the implementing institution.
 * Every DPI implementation must adhere to and internalise five key [technical design](https://docs.cdpi.dev/the-dpi-wikipedia/dpi-tech-architecture-principles) principles
 
 <figure><img src="../../.gitbook/assets/DPI Thinking Extended- CDPI (Root Deck) (1).jpg" alt=""><figcaption></figcaption></figure>
@@ -28,7 +28,7 @@ Additionally, more mature ID systems should enable the following capabilities:
 * [**Single Sign-On**](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/single-sign-on-sso) (enabling login to other public or private goods and services via the ID)
 * [**e-signing**](https://docs.cdpi.dev/technical-notes/electronic-signature-pki-and-trust-infra/esign) (replacing a wet signature with an ID-enabled electronic signature), which all help trigger a high-trust digital economy)
 
-2. <mark style="background-color:purple;">**Registries containing personal data**</mark>
+2. <mark style="background-color:purple;">**Registries containing personal data:**</mark>
 
 Registries are one of the most common digitisation implementations, often understood as simple databases.
 
@@ -42,7 +42,7 @@ a. The first and simplest way to enable data sharing using registries to generat
 
 b. Registries operating as mature DPI can also enable **access system to system directly via open APIs.** These open API standards can come from self-defined national standards or derived from well-accepted open specifications like the [G2P Connect/ DCI](https://g2pconnect.cdpi.dev/protocol/interfaces/registries) APIs.
 
-3. <mark style="background-color:purple;">**Digital Payments Infrastructure**</mark>&#x20;
+3. <mark style="background-color:purple;">**Digital Payments Infrastructure :**</mark>
 
 _a._ [_Peer-to-Peer/Person-to-Merchant (P2P/P2M) Payments_](https://docs.cdpi.dev/technical-notes/digital-payment-networks)
 
@@ -72,25 +72,25 @@ G2P systems can operate as DPI by **utilizing reusable infrastructure, such as**
 * Collected **beneficiary data** can be **converted into a registry for reuse** by other departments (see #2 on registries).
 * An **ID-Account mapper** (a four-field registry mapping a verifiable ID or phone number to an account number) can be used to **route payments without repetition.**&#x20;
 
-4. <mark style="background-color:purple;">**Data sharing infrastructure - Personal**</mark>&#x20;
+4. <mark style="background-color:purple;">**Data sharing infrastructure - Personal :**</mark>
 
 a. User-centric [Verifiable Credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials)
 
-Digitally issuing PDF certificates in a dedicated app or platform is not considered a DPI approach on its own. Credentials operate as DPI when they are **digitally signed, machine readable and can be shared with and verified by anyone.** Adding a signed QR to a PDF certificate is a quick and simple way to convert a digital certificate to a DPI. For more mature data-sharing DPI, the API standards for sharing credentials and the schema for defining the content should be harmonized at a national level.
+Digitally issuing PDF certificates in a dedicated app or platform is not considered a DPI approach on its own. Credentials operate as DPI when they are **digitally signed, machine-readable, and can be shared with and verified by anyone.** Adding a signed QR to a PDF certificate is a quick and simple way to convert a digital certificate to a DPI. For more mature data-sharing DPI, the API standards for sharing credentials and the schema for defining the content should be harmonised at a national level.
 
 b. System to system Real-time data sharing networks
 
-A centralized data warehouse or repository of personal data is not typically considered a DPI (unless crafted as a Registry above). The DPI approach involves creating **federated, open data-sharing networks where any data consumer or provider can plug in to receive or share data** as per the network's rules. It is highly recommended to collect user consent as part of this flow. Open API standards (for data sharing) and schema will need to be defined at a sector/ national level.
+A centralised data warehouse or repository of personal data is not typically considered a DPI (unless crafted as a Registry above). The DPI approach involves creating **federated, open data-sharing networks where any data consumer or provider can plug in to receive or share data** as per the network's rules. It is highly recommended to collect user consent as part of this flow. Open API standards (for data sharing) and schema will need to be defined at a sector/ national level.
 
-5. <mark style="background-color:purple;">**Data Sharing Infrastructure -**</mark> [<mark style="background-color:purple;">**Anonymized Data**</mark>](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/non-personal-anonymised-datasets)
+5. <mark style="background-color:purple;">**Data Sharing Infrastructure -**</mark> [<mark style="background-color:purple;">**Anonymised Data:**</mark>](../../technical-notes/data-and-credentialing-infra/non-personal-anonymised-datasets.md)
 
-Uploading PDFs or Excel files in bulk for public consumption is not usually considered DPI, because of its low reusability potential. Anonymized aggregated data should be made available to third parties in a **machine-consumable format with APIs for access.** Permissions and licensing terms can be set on these data sets.
+Uploading PDFs or Excel files in bulk for public consumption is not usually considered DPI, because of its low reusability potential. Anonymised aggregated data should be made available to third parties in a **machine-consumable format with APIs for access.** Permissions and licensing terms can be set on these data sets.
 
-6. <mark style="background-color:purple;">**Unifying government Services**</mark>&#x20;
+6. <mark style="background-color:purple;">**Unifying government Services :**</mark>
 
 Many governments use an Enterprise Services Bus (ESB) solution to unify the various services provided by the government into a single-window application or portal. While this architecture is useful, it is also very complex, difficult to maintain and scale, and requires interdepartmental consensus.
 
-The DPI approach would be if each department would **open their APIs for a service and publish them for third parties to consume and integrate into their workflows.** The Department of ICT, for example, could compile all these open APIs and make them easily accessible for integration.
+The DPI approach would be if each department would **open its APIs for a service and publish them for third parties to consume and integrate into their workflows.** The Department of ICT, for example, could compile all these open APIs and make them easily accessible for integration.
 
 Alternatively, existing government services buses could open up collectively the APIs for all the services they have aggregated.
 
