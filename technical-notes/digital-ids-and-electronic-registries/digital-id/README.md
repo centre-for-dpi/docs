@@ -1,6 +1,6 @@
 # Digital ID
 
-## Context
+### Context
 
 Government's primary aim is to reach out to specific target user base to easily [**identify**](#user-content-fn-1)[^1] a user and deliver govt services - e.g. medical care, pensions, collect taxes, etc., **Every country can relate to existence of at-least one of the below identity systems**:
 
@@ -39,7 +39,7 @@ In these challenging scenarios governments are trying to address globally accept
 
 <mark style="color:purple;">**DIGITISING AN EXISTING ID INTO A DIGITAL ID CAN OPEN UP NON LINEAR OPPORTUNITIES FOR GOVTS TO DRIVE DIGITAL INCLUSION VIA UNIVERSALLY ACCEPTED, TRUSTED DIGITAL IDs.**</mark>
 
-## What is a Digital ID?
+### What is a Digital ID?
 
 Any foundational or functional ID that supports below <mark style="color:blue;">**properties**</mark> is considered a Digital ID:
 
@@ -54,19 +54,17 @@ Any foundational or functional ID that supports below <mark style="color:blue;">
 9. **Unique ID -** Digital ID MAY be deduplicated against biometric or demographic data to ensure ONLY unique IDs are issued. Uniqueness of an ID is NOT a necessary requirement. Many use cases do not require to identify and authenticate an unique user. Identifying and easily/securely authenticating a user is sufficient.&#x20;
 10. **Laws/Regulations -** Digital ID MAY be governed by local laws/regulations to ensure equitable access to ecosystem participants across sectors to reduce friction and costs. Laws/regulations ensures acceptance of DIGITAL ID called out though above properties to create a multiplier effect as a foundational Digital Public Infrastructure.
 
-## Why is Digital ID important?
+### Why is Digital ID important?
 
 Many govt programs do not require a unique ID to deliver services. Very few services may actually require a unique id. Use of Digital IDs shall allow policy makers to reduce friction/cost and to allow integration between systems.
 
-\
-Digital ID use shall enable policy makers to integrate with other jurisdiction functional id’s while finding duplicates through trusted demographic data techniques is a continuous improvement process to remove ghost beneficiaries.\
-
+Digital ID use shall enable policy makers to integrate with other jurisdiction functional id’s while finding duplicates through trusted demographic data techniques is a continuous improvement process to remove ghost beneficiaries.
 
 Digital IDs made available from existing functional ID systems can eventually link to deduplicated foundational IDs i.e when a country adopts such a deduplicated issuance platform.
 
 While a biometric deduplicated ID system is considered a fool proof ID issuance platform, Governments need not wait for such an ideal scenario to identify a user with **TRUST** both in physical and digital worlds.&#x20;
 
-## How to convert an existing ID to a Digital ID
+### How to convert an existing ID to a Digital ID
 
 Governments can consider below indicative suggestions as an inspiration to to convert physical IDs to Digital IDs:
 
@@ -77,6 +75,23 @@ Governments can consider below indicative suggestions as an inspiration to to co
    2. These two key ID attributes shall open up verification and authentication capabilities.
 4. ID authority should procure PKI certificates to issue Online Digital IDs through Auth/eKYC APIs and Offline Digital IDs through mobile wallet / eLocker apps.
 5. ID authority should enable govt and private ecosystem players to access Digital ID through api’s, self/assisted use, acceptance of digitally signed docs, cyber & information security laws, user privacy laws and related policies.
+
+### Merging multiple different ID cards into one card is not necessary
+
+Merging many different identity cards is not necessary, and in fact, various countries retain a combination of functional IDs (such as a driver's license, farmers certificate etc.) and foundational IDs.&#x20;
+
+A foundational ID is able to scale to become a national ID only when it is **minimalist** (captures the very basic 5-7 data points on an individual such as name, gender, date of birth, address, and some authentication capabilities) **and delivers value through reusability** (by e-auth and e-kyc).&#x20;
+
+e-Authentication is a feature that can submit a yes/no response when asked, and e-KYC is a feature that can submit foundational profile fields in addition to authentication. The single-sign-on capability allows an individual to log-on to any government or private portal on the basis of their government issued iD (similar to using a Google account to log on to a website).&#x20;
+
+For _**functional IDs**_, building an auth feature would be most useful since other departments can verify the identity of the concerned individual before issuing a service to them (such as a social benefits department authenticates if a person is a farmer before transferring money to them).&#x20;
+
+For _**national IDs**_ (such as minor ID, passport, Non-resident ID), e-auth or SSO may be built.&#x20;
+
+And for the _**national foundational ID,**_ either of the three features may be built for individuals to utilise.&#x20;
+
+These capabilities can be built on any current identity in the country (depending on the nature of the ID) within a matter of weeks and leveraged by individuals and institutions to access trusted information based on the individual's consent to provide more efficient access to services such as opening a bank account or availing benefits through a government portal.  \
+
 
 **IMPORTANT NOTES:**&#x20;
 
