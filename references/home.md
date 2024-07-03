@@ -6,7 +6,7 @@ description: Reference Links
 
 ## 1. Overview
 
-Centre for Digital Public Infrastructure (CDPI) curates open standards and specifications across various categories of DPIs for easy reference. This is an initiative to curate specifications that follow [DPI principles](../the-dpi-wikipedia/dpi-tech-architecture-principles/) to enable countries to create required Digital Public Infrastructure rails. This list includes open specifications that are published by non-profit global institutions or agreed upon based on a global governance, but also de-facto standards used by countries where the specifications have reached scale of over 10 Million+ transactions.&#x20;
+Centre for Digital Public Infrastructure (CDPI) curates open standards and specifications across various categories of DPIs for easy reference. This is an initiative to curate specifications that follow [DPI principles](../the-dpi-wiki/dpi-tech-architecture-principles/) to enable countries to create required Digital Public Infrastructure rails. This list includes open specifications that are published by non-profit global institutions or agreed upon based on a global governance, but also de-facto standards used by countries where the specifications have reached scale of over 10 Million+ transactions.&#x20;
 
 **Note:**
 

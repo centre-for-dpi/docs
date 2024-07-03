@@ -1,22 +1,22 @@
 # Table of contents
 
-## THE DPI WIKIPEDIA&#x20;
+## THE DPI WIKI
 
 * [🎉 About the DPI Wiki](README.md)
-* [✨ DPI Overview](the-dpi-wikipedia/dpi-overview.md)
-* [📝 DPI Tech Architecture Principles](the-dpi-wikipedia/dpi-tech-architecture-principles/README.md)
-  * [🔗 Interoperability](the-dpi-wikipedia/dpi-tech-architecture-principles/interoperability.md)
-  * [🧱 Minimalist & Reusable Building Blocks](the-dpi-wikipedia/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
-  * [💡 Diverse, Inclusive Innovation](the-dpi-wikipedia/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
-  * [💠 Federated & Decentralised by Design](the-dpi-wikipedia/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
-  * [🔐 Security & Privacy By Design](the-dpi-wikipedia/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
-* [🎯 DPI Implementation & Execution Guidance](the-dpi-wikipedia/dpi-implementation-and-execution-guidance.md)
-* [🆚 DPG and DPI](the-dpi-wikipedia/dpg-and-dpi.md)
-* [❓ What DPI can I build?](the-dpi-wikipedia/what-dpi-can-i-build.md)
-* [🥇 First use case for DPI](the-dpi-wikipedia/first-use-case-for-dpi.md)
-* [📘 Inputs for designing a DPI informed digital transformation strategy](the-dpi-wikipedia/inputs-for-designing-a-dpi-informed-digital-transformation-strategy.md)
-* [📢 Is my system a DPI?](the-dpi-wikipedia/is-my-system-a-dpi/README.md)
-  * [TL; DR - Is my system a DPI?](the-dpi-wikipedia/is-my-system-a-dpi/tl-dr-is-my-system-a-dpi.md)
+* [✨ DPI Overview](the-dpi-wiki/dpi-overview.md)
+* [📝 DPI Tech Architecture Principles](the-dpi-wiki/dpi-tech-architecture-principles/README.md)
+  * [🔗 Interoperability](the-dpi-wiki/dpi-tech-architecture-principles/interoperability.md)
+  * [🧱 Minimalist & Reusable Building Blocks](the-dpi-wiki/dpi-tech-architecture-principles/minimalist-and-reusable-building-blocks.md)
+  * [💡 Diverse, Inclusive Innovation](the-dpi-wiki/dpi-tech-architecture-principles/diverse-inclusive-innovation.md)
+  * [💠 Federated & Decentralised by Design](the-dpi-wiki/dpi-tech-architecture-principles/federated-and-decentralised-by-design.md)
+  * [🔐 Security & Privacy By Design](the-dpi-wiki/dpi-tech-architecture-principles/security-and-privacy-by-design.md)
+* [🎯 DPI Implementation & Execution Guidance](the-dpi-wiki/dpi-implementation-and-execution-guidance.md)
+* [🆚 DPG and DPI](the-dpi-wiki/dpg-and-dpi.md)
+* [❓ What DPI can I build?](the-dpi-wiki/what-dpi-can-i-build.md)
+* [🥇 First use case for DPI](the-dpi-wiki/first-use-case-for-dpi.md)
+* [📘 Inputs for designing a DPI informed digital transformation strategy](the-dpi-wiki/inputs-for-designing-a-dpi-informed-digital-transformation-strategy.md)
+* [📢 Is my system a DPI?](the-dpi-wiki/is-my-system-a-dpi/README.md)
+  * [TL; DR - Is my system a DPI?](the-dpi-wiki/is-my-system-a-dpi/tl-dr-is-my-system-a-dpi.md)
 
 ## Mythbusters and FAQs
 
