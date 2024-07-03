@@ -2,7 +2,7 @@
 
 ## THE DPI WIKIPEDIA&#x20;
 
-* [🎉 About the DPI Wikipedia](README.md)
+* [🎉 About the DPI Wiki](README.md)
 * [✨ DPI Overview](the-dpi-wikipedia/dpi-overview.md)
 * [📝 DPI Tech Architecture Principles](the-dpi-wikipedia/dpi-tech-architecture-principles/README.md)
   * [🔗 Interoperability](the-dpi-wikipedia/dpi-tech-architecture-principles/interoperability.md)
