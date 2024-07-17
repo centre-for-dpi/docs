@@ -15,6 +15,7 @@
 * [❓ What DPI can I build?](the-dpi-wiki/what-dpi-can-i-build.md)
 * [🥇 First use case for DPI](the-dpi-wiki/first-use-case-for-dpi.md)
 * [📘 Inputs for designing a DPI informed digital transformation strategy](the-dpi-wiki/inputs-for-designing-a-dpi-informed-digital-transformation-strategy.md)
+* [💰 How much does it cost to build DPI?](the-dpi-wiki/how-much-does-it-cost-to-build-dpi.md)
 * [📢 Is my system a DPI?](the-dpi-wiki/is-my-system-a-dpi/README.md)
   * [TL; DR - Is my system a DPI?](the-dpi-wiki/is-my-system-a-dpi/tl-dr-is-my-system-a-dpi.md)
 
