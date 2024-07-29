@@ -22,6 +22,6 @@ DaaS brings together elements that have been a part of digital governments and n
 2. **Packaged product software purchases are not new** - they are part of routine government operations (such as through the Microsoft suite, Email providers, etc.)&#x20;
 3. **Open Source DPGs are not new either** - multiple governments use open-source components such as X Road for data sharing or open protocols for best-in-practice tech principles.&#x20;
 
-### DaaS is simply a combination of these things - a small innovation that we believe could have a big impact.&#x20;
+<figure><img src="../../.gitbook/assets/21_05_24 CDPI DaaS Deck to CoDevelop Funding IC.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/KC_DaaS Deck for Funder Investment Committee .jpg" alt=""><figcaption></figcaption></figure>
+### DaaS is simply a combination of these things - a small innovation that we believe could have a big impact.&#x20;
