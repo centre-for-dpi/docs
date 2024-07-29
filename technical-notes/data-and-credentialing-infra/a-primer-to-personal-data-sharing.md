@@ -18,9 +18,9 @@ Broadly, we can identify three types of consented data sharing:
 
 ### Cross-border data sharing&#x20;
 
-Cross border flows are simplest with user-led methods such as credentials, which don’t require issuing parties to have bilateral or multilateral agreements in place with every possible international verifier of a credential. Instead, any potential verifying entity of the credential who wishes to access the data can locally verify the digital signature to access the personal data presented by the user.
+Cross border flows are simplest with user-led methods such as credentials, which don’t require issuing parties to have bilateral or multilateral agreements in place with every possible international verifier of a credential. Instead, any potential verifying entity of the credential who wishes to access the data can locally verify the digital signature to access the personal data presented by the user. The verifying entity should ensure to have access to (and cache with ttl - time to live settings) trust registries namely - global issuer list, corresponding verification keys & revocation list and credential data schema to accept credentials with higher trust and convenience to the presenter.
 
 System-to-system data sharing in cross border use cases can require a slightly higher level of coordination between government departments, the establishment of international consent managers, supporting legal or regulatory frameworks, security clearances (for opening up of API ports) as well as interoperability of technical systems in order to be successful.&#x20;
 
-Federated anonymised data sets can be utilised for cross-border research and developmental initiatives as well through proper contextualisation of the data.&#x20;
+Federated anonymised data sets can be utilised for cross-border research and developmental initiatives as well through proper contextualisation of the data. Please refer [here](non-personal-anonymised-datasets.md) for additional design choices to enable and access federated anonymised data sets.
 
