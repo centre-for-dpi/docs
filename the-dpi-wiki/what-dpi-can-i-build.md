@@ -106,4 +106,6 @@ d. **Single Sign On:** Allow people holding your ID to sign in to any other publ
 
 
 
+<figure><img src="../.gitbook/assets/wkb 4.png" alt=""><figcaption></figcaption></figure>
+
 [^1]: 
