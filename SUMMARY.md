@@ -65,6 +65,7 @@
 * [🚀 DPI as a Packaged Solution (DaaS)](initiatives/dpi-as-a-packaged-solution-daas/README.md)
   * [💡 Why do we need DaaS?](initiatives/dpi-as-a-packaged-solution-daas/why-do-we-need-daas.md)
   * [🎯 DaaS in a nutshell](initiatives/dpi-as-a-packaged-solution-daas/daas-in-a-nutshell.md)
+  * [📦 Pre-packaged DaaS kits](initiatives/dpi-as-a-packaged-solution-daas/pre-packaged-daas-kits.md)
   * [3️⃣ A 3-step process from idea to implementation!](initiatives/dpi-as-a-packaged-solution-daas/a-3-step-process-from-idea-to-implementation.md)
   * [📈 Funded DaaS Program overview](initiatives/dpi-as-a-packaged-solution-daas/funded-daas-program-overview.md)
   * [👩‍💻 Cohort 1: DaaS Offerings](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/README.md)
