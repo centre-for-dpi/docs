@@ -12,3 +12,5 @@ The reason DaaS stresses on non-procurement is to ensure rapid deployments of mi
 
 DaaS defers from traditional pilots or POCs because the infrastructure is built for population-scale from day one using country resources and capacity, and can reach full coverage in a matter of months. This is supported by the fact that DaaS applies only to minimalist layers such as authentication on top of existing ID (and not ID enrolment itself - which even on a best-effort basis would take years to cover the whole population).&#x20;
 
+Regardless of whether countries choose to join the funded DaaS cohort or independently execute DPI blocks, it can be helpful to [reuse some standardised DPI artefacts](reusable-daas-artefacts.md) that can help expedite the process of execution, regardless of the DPI block chosen, the choice of vendor, or the scale of execution.
+
