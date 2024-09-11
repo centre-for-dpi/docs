@@ -6,6 +6,10 @@ description: >-
 
 # 🎯 DPI Implementation & Execution Guidance
 
+{% hint style="info" %}
+Note: to help rapid implementation of DPI blocks in line with best practices for privacy, security and global DPI safeguards, countries can independently reuse [standardised design and implementation artefacts](../initiatives/dpi-as-a-packaged-solution-daas/reusable-daas-artefacts.md) curated by the international DPI ecosystem.&#x20;
+{% endhint %}
+
 1. <mark style="background-color:purple;">**Frame the problem clearly.**</mark> The lack of growth of a specific digital program or solution is not a societal problem. Identify the real and root needs of individuals and businesses and gaps in service delivery to see where DPI can help intervene to create exponential change.. &#x20;
 2. <mark style="background-color:purple;">**Think through why existing ecosystem players act the way they do**</mark>**.** Mapping current incentives and current costs is crucial to understanding how to create change for the individual - DPI's aim is to change the calculus for ecosystem players who can now offer better services. What will it take to get them to do things differently? What are their real bottlenecks and costs?&#x20;
 3. <mark style="background-color:purple;">**Don’t aim for perfection before beginning.**</mark> Universal adoption or aligning all partners on board (especially large incumbents) is almost never possible at first. Start anyway with a ‘coalition of the willing’ as early adopters and build from there - more will come over time.  Asynchronous adoption is par for the course. Target some political support eventually, but it's not always possible to get whole-of-government alignment at the start.

@@ -39,6 +39,9 @@ Based on our costing model, “Conversion” DPI building blocks such as verifia
 
 Extending or deepening the implementation to add additional use cases over a 12 month period (illustrating the multi-domain impact of DPI) **could cost around $1.3 Million (+/- 15%)** in total. The costs of augmenting national P2P/P2M payment systems varies more based on the scope/capabilities of the existing system.
 
-In case countries wish to build these blocks to demonstrate quick wins with powerful last mile benefits, they could also consider the[ DaaS Program](https://docs.cdpi.dev/initiatives/dpi-as-a-packaged-solution-daas) and receive support from private philanthropic sources and open source DPI packages necessary to roll-out these capabilities.&#x20;
+In case countries wish to build these blocks to demonstrate quick wins with powerful last mile benefits, they could also consider the[ DaaS Program](https://docs.cdpi.dev/initiatives/dpi-as-a-packaged-solution-daas) and receive support from private philanthropic sources and open source DPI packages necessary to roll-out these capabilities. \
 
-\
+
+{% hint style="info" %}
+To view an indicative costing model that reflects the typical price ranges of a minimalist DPI execution by leveraging an open source product, irrespective of geography, please visit the [standardised artefacts page](../initiatives/dpi-as-a-packaged-solution-daas/reusable-daas-artefacts.md). The model also outlines standard team structures based on the technology and program requirements that can support DPI execution. The costs represent extensive consultations with multiple international and local private vendors and open source products across the world, on a range of DPI blocks, based on their prior experience executing similar infrastructures in other countries.&#x20;
+{% endhint %}
