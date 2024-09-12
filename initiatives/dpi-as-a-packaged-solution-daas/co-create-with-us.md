@@ -1,7 +1,7 @@
 ---
 description: >-
-  If you are a DPG, SP or ISV looking to scale DPI implementations, partner with
-  us.
+  If you are a DPG, SP or ISV looking to scale DPI implementations - partner
+  with us!
 ---
 
 # 🖥️ Co-create with us!
@@ -27,6 +27,10 @@ We anticipate that this model will play a critical role in deploying DPI at scal
 Regards,&#x20;
 
 Centre for Digital Public Infrastructure & EkStep Foundation
+
+{% hint style="info" %}
+We have compiled a [DPG readiness checklist for DaaS](https://docs.google.com/document/d/15SHAxiRkTdn7EHbtXiNlJc4lf1e9sNhFFnYMv05lb8U/edit#heading=h.px0at9cs9yuo) to help DPGs understand the requirements to package their products under the DaaS model for rapid deployment by countries. DPGs may also find it helpful to read through the [DaaS Playbook ](reusable-daas-artefacts.md)to understand the nuances of the program before filling in the form below
+{% endhint %}
 
 {% hint style="success" %}
 Fill this form to join partner on DaaS implementation:
