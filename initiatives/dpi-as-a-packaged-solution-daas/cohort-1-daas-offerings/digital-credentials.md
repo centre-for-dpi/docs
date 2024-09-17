@@ -63,6 +63,14 @@ A short explainer on verifiable credentials&#x20;
 For DaaS Cohort 1, **Inji** is the digital credentials product made available.
 {% endhint %}
 
+
+
+This document below outlines a call to action for software vendors (ISVs) to adopt a user-centric, verifiable credentialing infrastructure that ensures secure, low-cost, and trusted digital data sharing across sectors.
+
+{% file src="../../../.gitbook/assets/Verifiable Credentialing Infrastructure_ISVs.pdf" %}
+
+
+
 ### Inji - Additional resources:
 
 {% embed url="https://docs.google.com/presentation/d/1pfI5IcFspKgjNvcX-wTmV99kjMWYyIa0dB6uENLlXXQ/edit?usp=sharing" %}
