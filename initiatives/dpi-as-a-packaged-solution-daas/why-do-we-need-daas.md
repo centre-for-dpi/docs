@@ -1,6 +1,6 @@
 # 💡 Why do we need DaaS?
 
-### Challenges of Current DPI Implementation that DaaS Seeks to Address
+Challenges of Current DPI Implementation that DaaS Seeks to Address
 
 The ground realities of implementation vary not just from country to country, but also by region. Yet a few common challenges in DPI rollouts persist across contexts: &#x20;
 
@@ -14,7 +14,3 @@ The ground realities of implementation vary not just from country to country, bu
 <mark style="background-color:green;">**These execution pains are real!**</mark> Often, initial planners are unable to anticipate the exact system requirements eventually needed in nationwide infrastructure. They feel the need to anticipate and prepare for all eventualities which is an extremely time-consuming process and often doesn’t bear fruit. The future is ever-changing. The DaaS framing helps to keep the current context in mind while simultaneously allowing future innovations to be extensible in the future with minimal changes to its foundational protocols and systems. Creating optionality is a powerful strategy for large-scale digital projects.
 
 In many countries there is no <mark style="color:green;">**demonstrated proof of success**</mark> to show others that the <mark style="color:green;">**DPI approach will work at an unprecedented scale**</mark> - when applied to a specific use case, in that context, and for those outcomes. A DaaS phase one implementation rollout can help establish this conviction.&#x20;
-
-A brief presentation on DaaS is linked below&#x20;
-
-{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vQ66TefGrsFlrsJTr2hP6SOsmGjV21ziQHWP9K-a2oNI2hdSUG40DIuUeNV-mXvqtAOSNiCm47JPxiK/pub?delayms=3000&loop=false&start=false" %}

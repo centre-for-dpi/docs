@@ -20,3 +20,7 @@ Regardless of whether countries choose to join the funded DaaS cohort or indepen
 
 •⁠  reusable wherever decentralised private adoption of a module is required (such as verifiable credentials)
 
+A presentation on DaaS can be viewed here:&#x20;
+
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vQ66TefGrsFlrsJTr2hP6SOsmGjV21ziQHWP9K-a2oNI2hdSUG40DIuUeNV-mXvqtAOSNiCm47JPxiK/pub?delayms=3000&loop=false&start=false" %}
+
