@@ -25,7 +25,7 @@ Authentication should be thought through <mark style="background-color:purple;">
 
 * <mark style="color:green;">**Proof:**</mark> What's the authentication intended to prove? Is it proof of document, proof of identity, proof of presence or proof of existence.
 
-<figure><img src="../../../.gitbook/assets/Copy of Pyramid Infographics by Slidesgo.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DPI Thinking Slide Library - CDPI (Root Deck).jpg" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:green;">**Self and assisted**</mark> channels
 * <mark style="color:green;">**Offline and online**</mark> modes
