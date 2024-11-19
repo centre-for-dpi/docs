@@ -79,7 +79,7 @@
     * [AI Assistant](initiatives/dpi-as-a-packaged-solution-daas/upcoming-daas-cohorts/ai-assistant.md)
   * [❓ FAQs on DaaS](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas/README.md)
     * [Country x DPG MOU /LoI FAQs](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas/country-x-dpg-mou-loi-faqs.md)
-    * [DPG x SP MOU FAQs](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas/dpg-x-sp-mou-faqs.md)
+    * [Ecosystem Participation Terms FAQs](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas/ecosystem-participation-terms-faqs.md)
 * [📑 DPI Residents Program](initiatives/dpi-residents-program.md)
 * [⚖️ DPI for Justice](https://cdpi.gitbook.io/dpi-for-justice/)
 * [💸 G2P Connect](https://g2pconnect.cdpi.dev)

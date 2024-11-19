@@ -1,6 +1,6 @@
 # Country x DPG MOU /LoI FAQs
 
-Please see the MOU template[ here](https://docs.google.com/document/d/1oLzn7bKKN8tQb4pObTqwwj5F68kA5f8\_/edit) and the LOI template [here](https://docs.google.com/document/d/1ZxpFt6P4VnRQV3QesXE2jsHorzkXOchkkSrzio320ns/edit)
+Please see the DaaS legal framework [here ](https://docs.google.com/document/d/1WjoUDT0IB9Jcel5eyA1q0279UJj\_cYmhLxlFJE9hsv4/edit?pli=1\&tab=t.0#heading=h.k552y4umgrjn)
 
 <mark style="background-color:orange;">Q. What’s the overall legal framework of DaaS?</mark>&#x20;
 
@@ -15,7 +15,7 @@ These parties interact with each other in the following ways:&#x20;
 
 1. LoI or MOU between DaaS Country Partner and DaaS DPG Partner
 2. Ecosystem Participation Terms signed by all SPs and DPGs part of the DaaS ecosystem
-3. MOU or LoI between the DaaS Country Partner and the Advisor
+3. MOU or LoI between the DaaS Country Partner and the Advisor (optional)&#x20;
 
 
 
