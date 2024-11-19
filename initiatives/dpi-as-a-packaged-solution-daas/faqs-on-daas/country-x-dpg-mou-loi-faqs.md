@@ -14,7 +14,7 @@ A. There are 4 parties involved in DaaS:&#x20;
 These parties interact with each other in the following ways:&#x20;
 
 1. LoI or MOU between DaaS Country Partner and DaaS DPG Partner
-2. MOU between the DaaS DPG Partner and the Service Provider
+2. Ecosystem Participation Terms signed by all SPs and DPGs part of the DaaS ecosystem
 3. MOU or LoI between the DaaS Country Partner and the Advisor
 
 
@@ -43,7 +43,7 @@ A. No, it doesn’t. The choice of hosting the DPI (private cloud, public cloud,
 
 <mark style="background-color:orange;">Q. Does the MoU mention the specific Service Provider that will be deployed by the DPG in the country, along with their roles and responsibilities?</mark>&#x20;
 
-A: No, the MOU between the country and the DPG only lays a framework for DPGs to engage a service provider(s) to provide technical capacity and support for deployment in the local country context. The MoU is service provider agnostic. Please note that the selection of the Service Provider may happen after this Country-DPG MoU is signed and the SP may be adjusted/augmented if the execution cycles of the SP do not meet the benchmarks set by the DPG. The roles and responsibilities of the SPs are mentioned in a separate standardised MOU between the SP and the DPG.\
+A: No, the MOU between the country and the DPG only lays a framework for DPGs to engage a service provider(s) to provide technical capacity and support for deployment in the local country context. The MoU is service provider agnostic. Please note that the selection of the Service Provider may happen after this Country-DPG MoU is signed and the SP may be adjusted/augmented if the execution cycles of the SP do not meet the benchmarks set by the DPG. The roles and responsibilities of the SPs are mentioned in the Ecosystem Participation Terms signed by all SPs and DPGs.\
 
 
 <mark style="background-color:orange;">Q. Will the Country-DPG MoU be available in a language other than English for countries for whom English is not the native language?</mark>&#x20;
@@ -65,7 +65,7 @@ There are multiple reasons for this:&#x20;
 
 4\. DaaS is about packaging policy, procurement, core product software, pre-built / configured solutions, training etc. This MoU is a template to expedite roll out with equal balance of speed and of ensuring that a country's independence and sovereignty is protected.
 
-5\. In the current design, Svc Providers have a back to back MoU agreement with DPGs to ensure all obligations are delivered through them. This keeps all 3 parties (country + DPG + svc) aligned on the same track and moving efficiently.&#x20;
+5\. In the current design, Svc Providers have a back to back agreement with DPGs to ensure all obligations are delivered through them. This keeps all 3 parties (country + DPG + svc) aligned on the same track and moving efficiently.&#x20;
 
 
 
