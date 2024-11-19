@@ -42,6 +42,10 @@ A. The principle behind DaaS is standardisation and productization. This means t
 
 A. Of course! In the initial cohorts of DaaS, the DPGs provide training and capacity building for service providers on their products. Once a service provider feels sufficiently empowered, they are free to approach countries directly and deploy the open source code on their own, enhanced by their own IP as they see fit.&#x20;
 
-\
+<mark style="background-color:purple;">Q. Why aren't cloud providers included in the EPT?</mark>&#x20;
+
+A. Cloud providers typically have back-to-back contractual agreements with the SP to support on country deployment. From a DaaS implementation perspective, we did not want to distribute the accountability among various participating entities so we restricted it to SPs who receive the compensation from the DPGs for implementation and are thus, responsible for its timely execution. Cloud providers would operate as an entity under the SPs.
+
+However, similar to SPs, cloud providers are also empowered to individually utilise DaaS artefacts and open source DPG code to implement independently in countries. \
 \
 \
