@@ -1,6 +1,6 @@
 # 🤝 Licensing
 
-Content of this site is licensed under CC BY-SA 4.0 by CDPI
+Content of this site is licensed under CC0 1.0 Universal by CDPI
 
 
 
