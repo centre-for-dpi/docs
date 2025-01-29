@@ -32,10 +32,10 @@ Through this, the payment systems know which account to transfer the money to, w
 The financial world is continually evolving with new products and offerings to customers.&#x20;
 
 1. Traditionally bank accounts were identified with customer account number, bank id, bank branch. Overtime, with evolution of  mobile and net banking the identifiers have evolved where the branch id is no longer relevant and this got encapsulated with in mobile number/identifier and net banking customer id respectively.
-2. With card based networks/accounts, product offering with debit, credit, gift, pre-paid cards the attributes to identify a sore of value account keeps changing. e.g., card type, varying length of card number, card type, expiry year/month, cvv, one time tokens, etc.,
+2. With card based networks/accounts, product offering with debit, credit, gift, pre-paid cards the attributes to identify a store of value account keeps changing. e.g., card type, varying length of card number, card type, expiry year/month, cvv, one time tokens, etc.,
 3. &#x20;Digital cash and Crypto cash concepts are continuing to evolve.
 
-In these scneairos, defining a store of value account using a fixed key/value or object structure will not be intituitive and core payment api specifications need to be constantly updated with each new product offering coming into market.
+In these scenarios, defining a store of value account using a fixed key/value or object structure will not be intuitive and core payment api specifications need to be constantly updated with each new product offering coming into market.
 
 The idea of normative addressing format to represent any store of value account is referred to as **financial address** (fa). Any payer or payee accounts now can be abstracted to a normative address and resolution of final store of value account is left to the final entities doing debit/credit actions of the payment.
 
@@ -43,9 +43,9 @@ On similar lines, to enable integration with various identity systems/registries
 
 ## Principles
 
-1. Financial address is case insensitive normative represenation of a store of value account represented as id-type:id@provider
-2. id-type can be a account num, customer id, user id, virutal id, unique id, one time token, pre-paid voucher no, cdbc  id, etc.,
-3. The resolution of final store of value details is left to the entity holding these accounts at final debit/credit lef of the payment transactions.
+1. Financial address is case insensitive normative representation of a store of value account represented as id-type:id@provider
+2. id-type can be a account num, customer id, user id, virtual id, unique id, one time token, pre-paid voucher no, cdbc  id, etc.,
+3. The resolution of final store of value details is left to the entity holding these accounts at final debit/credit left of the payment transactions.
 4. id-type & provider information in financial address shall enable intermediaries in the payment network to route the payment instructions as per the network rules/polices.
 
 ## Examples
