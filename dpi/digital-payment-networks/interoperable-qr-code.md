@@ -126,7 +126,7 @@ Below is a typical flow to make initiate merchant based QR code based payments:
 3. Additionally merchant may integrate with POS terminal to generate dynamic QR codes using APIs for each transaction with amount and other customised attributes like description, tax info etc.,
 4. Customer using her payment app scans the interoperable QR code
 5. Payment app checks signed QR code scanned is non-tampered and is from trusted source. Uses network registry to identify the acquiring banks
-6. Customer payment app provides a choice to customer to select linked account to pay for the transaction
+6. Customer payment app provides a choice to customer to select linked accounts to pay for the transaction
 7. Customer payment app securely collects banking account pin to authorise the payment from the customer
 8. Customer payment app initiates the payment on interoperable payments network to pay to the merchant's account
 9. Notification of payment status is notified to merchant and customer by the respective banking apps.
