@@ -10,15 +10,7 @@ Imagine a one-stop feature that your country can build to bridge the digital div
 
 Payments made based on an interoperable Quick Response (QR) code standard allow people to make payments to anyone, anytime, and anywhere. Payments can be made in a real-time, and highly secure manner with this digital public infrastructure that allows people to scan a machine readable QR code through any payment application of their choice on their mobile, regardless of which payment app the merchant uses.&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Untitled.png" alt="" width="375"><figcaption><p>Traditional approach of 'digitisation' breeds exclusion</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Untitledq.png" alt="" width="375"><figcaption><p>The DPI approach guarantees inclusion + market participation</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled.png" alt="" width="375"><figcaption><p>Traditional approach of 'digitisation' breeds exclusion</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Untitledq.png" alt="" width="375"><figcaption><p>The DPI approach guarantees inclusion + market participation</p></figcaption></figure></div>
 
 QR codes can be made interoperable if a standard is set out by a central authority, and can allow a user to participate in a single network of banks, financial institutions, mobile money, wallets, or other payment mechanisms on the backend. This can be a simple and powerful addition to existing payments systems.&#x20;
 
@@ -35,15 +27,7 @@ Through Interoperable QR Codes:&#x20;
 4. The last mile population can be catered to, and raised to the same level of financial inclusion through digital transformation.
 5. The rate of fraud will drop, while increasing privacy, security, transparency and trust across the ecosystem.&#x20;
 
-<div>
-
-<figure><img src="../../.gitbook/assets/a.png" alt="" width="375"><figcaption><p>First-order effects on the ecosystem</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/aa.png" alt="" width="375"><figcaption><p>Second-order effects on the country's overall growth</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/a.png" alt="" width="375"><figcaption><p>First-order effects on the ecosystem</p></figcaption></figure> <figure><img src="../../.gitbook/assets/aa.png" alt="" width="375"><figcaption><p>Second-order effects on the country's overall growth</p></figcaption></figure></div>
 
 ## P2M Ecosystem Players
 
@@ -73,7 +57,7 @@ Additionally, experience layer at merchant and customer can optionally be suppor
 
 Interoperable QR code specification to Scan & Pay, Click & Pay and to Deep Link between apps and to enable easy one click and authorise one time or recurring payment.
 
-**Specification:** [link](https://centre-for-dpi.github.io/docs/qr\_code.html) | [source](../../technical-specs/payments/src/qr\_code.yaml)
+**Specification:** [link](https://centre-for-dpi.github.io/docs/qr_code.html) | [source](../../technical-specs/payments/src/qr_code.yaml)
 
 **Discussions**:  [link](https://github.com/orgs/centre-for-dpi/discussions)&#x20;
 {% endtab %}
@@ -137,14 +121,14 @@ Above specification has been stress tested for below use cases. Sample JSONs are
 
 Below is a typical flow to make initiate merchant based QR code based payments:
 
-1. Merchant signs up with acquiring banks to avial QR code based payment service
+1. Merchant signs up with acquiring banks to available QR code based payment service
 2. Using merchant's banking interface, merchant requests a static QR code
-3. Additionally merchant may integrate with POS terminal to gerneate dynamic QR codes using APIs for each transaction with amount and other customised attributes like description, tax info etc.,
-4. Customer using her payment app scans the interoperable qr code
-5. Payment app checks singed QR code scanned is non-tampered and is from trusted source. Uses network registry to identify the acquiring banks
+3. Additionally merchant may integrate with POS terminal to generate dynamic QR codes using APIs for each transaction with amount and other customised attributes like description, tax info etc.,
+4. Customer using her payment app scans the interoperable QR code
+5. Payment app checks signed QR code scanned is non-tampered and is from trusted source. Uses network registry to identify the acquiring banks
 6. Customer payment app provides a choice to customer to select linked account to pay for the transaction
-7. Customer payment app securly collects banking account pin to authorise the payment from the customer
-8. Customer payment app initiate the payment on interoperable payments network to pay to the merchant's account
+7. Customer payment app securely collects banking account pin to authorise the payment from the customer
+8. Customer payment app initiates the payment on interoperable payments network to pay to the merchant's account
 9. Notification of payment status is notified to merchant and customer by the respective banking apps.
 
 ## Additional References
@@ -152,7 +136,7 @@ Below is a typical flow to make initiate merchant based QR code based payments:
 1. [Interactive closed-door discussion](https://www.youtube.com/watch?v=tIZGplZjGDI) on Scaling Inclusive Payments through Interoperable QR Codes with central bank officials of 30+ countries and speakers from Brazil, India, Philippines, and Nigeria&#x20;
 2. [Presentation Deck](https://docs.google.com/presentation/d/1xeVsXxTwhaW8SjSxHg9HddoprGDpD5sZlVKeWimT0NY/edit?usp=sharing) summarising the need, benefits and specifications of interoperable QR codes in a simple, visually-appealing manner&#x20;
 3. QR Code printing specifications <**coming soon>**
-4. [The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR\_Codes\_in\_Payments\_Final.pdf) Part of World Bank Fast Payments Toolkit Sep 2021
+4. [The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR_Codes_in_Payments_Final.pdf) Part of World Bank Fast Payments Toolkit Sep 2021
 
 ## Attributions
 
