@@ -8,11 +8,11 @@ In today’s world, it is perfectly possible to connect various systems via comm
 
 A lot of people think that having a central system with high security is actually better than having multiple decentralised systems that are interconnected. However, this has proven to be false. Simply put, any central system or storage becomes a honeypot that is the repeated target of multiple cyber attacks. Decentralised systems function as lower value targets and strengthened by the best principles and practices of DPI, they become highly secure with very low chances of large scale data leaks or privacy concerns.&#x20;
 
-## **Technical Tools **_**(How to achieve it)**_&#x20;
+## **Technical Tools&#x20;**_**(How to achieve it)**_&#x20;
 
 * [ ] ”Wrapper” APIs above disparate existing systems rather than new large centralised databases.
 
-## **Societal Outcomes **_**(Why it matters)**_
+## **Societal Outcomes&#x20;**_**(Why it matters)**_
 
 * [ ] Autonomy of Institutions
 * [ ] Cybersecurity

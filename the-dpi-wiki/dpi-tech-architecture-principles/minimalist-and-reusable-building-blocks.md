@@ -14,12 +14,12 @@ This ensures simplicity of the DPI, low cost/risk of building, ease of scalabili
 
 Maximalism creates complexity, high risk, and low innovation; cannot deal with future advancements; and most importantly drives exclusion.
 
-## **Technical Tools **_**(How to achieve it)**_&#x20;
+## **Technical Tools&#x20;**_**(How to achieve it)**_&#x20;
 
 * [ ] Design of minimalist components, protocols/specifications that do NOT form a complete solution, but perform one function well.
 * [ ] This means DPI architects should not overspecify data fields, forms of data, modes of use, types of authentication, etc.,
 
-## **Societal Outcomes **_**(Why it matters)**_
+## **Societal Outcomes&#x20;**_**(Why it matters)**_
 
 * [ ] Feasibility & Success of digital intervention
 * [ ] Privacy

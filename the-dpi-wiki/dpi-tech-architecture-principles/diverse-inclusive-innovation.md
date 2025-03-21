@@ -22,7 +22,7 @@ Private Innovation can be leveraged both in building the DPI (for instance, in d
 
 Public/private adoption and innovation should be **voluntary** and **demand-based** rather than mandated by authorities. This tends to create sustained usage over time.&#x20;
 
-## **Technical Tools **_**(How to achieve it)**_&#x20;
+## **Technical Tools&#x20;**_**(How to achieve it)**_&#x20;
 
 * [ ] Open Application Programming Interfaces (APIs)
 * [ ] Digital signatures (Public Key Infrastructure)
@@ -32,7 +32,7 @@ Public/private adoption and innovation should be **voluntary** and **demand-base
 * [ ] Data & other Standards
 * [ ] Multi-modal access
 
-## **Societal Outcomes **_**(Why it matters)**_
+## **Societal Outcomes&#x20;**_**(Why it matters)**_
 
 * [ ] Inclusion
 * [ ] Scale

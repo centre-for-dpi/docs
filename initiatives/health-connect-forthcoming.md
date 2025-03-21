@@ -1,2 +1,0 @@
-# 👩‍⚕️ Health Connect (forthcoming)
-
