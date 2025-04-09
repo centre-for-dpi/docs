@@ -83,6 +83,7 @@
 * [📑 DPI Residents Program](initiatives/dpi-residents-program.md)
 * [⚖️ DPI-CPA](https://cdpi.gitbook.io/dpi-cpa/)
 * [💸 G2P Connect](https://g2pconnect.cdpi.dev)
+* [📨 User Centric Credentialing & Personal Data Sharing](https://cdpi.gitbook.io/user-centric-credentialing-and-personal-data-sharing)
 * [⚕️ DPI for Health](https://cdpi.gitbook.io/dpi-for-healthcare)
 * [🌍 Agri Connect (forthcoming)](initiatives/agri-connect-forthcoming.md)
 
