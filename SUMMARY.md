@@ -81,7 +81,7 @@
     * [Country x DPG MOU /LoI FAQs](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas/country-x-dpg-mou-loi-faqs.md)
     * [Ecosystem Participation Terms FAQs](initiatives/dpi-as-a-packaged-solution-daas/faqs-on-daas/ecosystem-participation-terms-faqs.md)
 * [📑 DPI Residents Program](initiatives/dpi-residents-program.md)
-* [⚖️ DPI-CPA](https://cdpi.gitbook.io/dpi-cpa/)
+* [⚖️ DPI for Child Rights](https://cpa.cdpi.dev/)
 * [💸 G2P Connect](https://g2pconnect.cdpi.dev)
 * [📨 User Centric Credentialing & Personal Data Sharing](https://cdpi.gitbook.io/user-centric-credentialing-and-personal-data-sharing)
 * [⚕️ DPI for Health](https://cdpi.gitbook.io/dpi-for-healthcare)
