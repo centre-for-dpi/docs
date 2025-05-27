@@ -10,6 +10,8 @@ In the current scenario, both sectors (public and private) spend considerable am
 
 Digitally verifiable credentials, a simple, marginal improvement to existing systems, built using a Digital Public Infrastructure approach can solve this problem at scale.&#x20;
 
+<a href="https://vc.cdpi.dev/" class="button primary">Read more on CDPI's VCs knowledge base </a>
+
 ### What are verifiable credentials?&#x20;
 
 Any issuing authority (whether they are issuing national identity, school certifications, income certificates, recommendation letters, driving licences, tax identity, etc) can make their certificates tamper proof while retaining full autonomy over it.&#x20;

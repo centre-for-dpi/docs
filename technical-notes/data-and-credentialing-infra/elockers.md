@@ -16,6 +16,8 @@ Imagine a person, A, who needs to apply for a government job. She travels to a m
 
 Multiple organisations face similar challenges for the dispersal of essential services and opportunities to the public. The process of verification - of ensuring that someone is who they say they are is extensive and exhaustive; at least it used to be … before an e-locker.&#x20;
 
+<a href="https://vc.cdpi.dev/" class="button primary">Read more on CDPI's VCs knowledge base</a>
+
 ### What is an e-locker?&#x20;
 
 An e-locker is an online, verifiable, digital locker App where various government issued and approved documents are stored. An e-locker provides the following services:&#x20;
