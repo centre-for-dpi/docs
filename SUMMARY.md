@@ -85,6 +85,7 @@
 * [💸 G2P Connect](https://g2pconnect.cdpi.dev)
 * [📨 User Centric Credentialing & Personal Data Sharing](https://cdpi.gitbook.io/user-centric-credentialing-and-personal-data-sharing)
 * [⚕️ DPI for Health](https://cdpi.gitbook.io/dpi-for-healthcare)
+* [DPI for Taxation](https://www.imf.org/en/Publications/fandd/issues/2024/09/Creating-Value-for-Taxpayers-Chandra-Vaid-Varma)
 * [🌍 Agri Connect (forthcoming)](initiatives/agri-connect-forthcoming.md)
 
 ## References
