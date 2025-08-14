@@ -14,6 +14,8 @@ DaaS differs from traditional pilots or POCs because the infrastructure is built
 
 Regardless of whether countries choose to join the funded DaaS cohort or independently execute DPI blocks, it can be helpful to [reuse some standardised DPI artefacts](reusable-daas-artefacts.md) that can help expedite the process of execution, regardless of the DPI block chosen, the choice of vendor, or the scale of execution.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 <mark style="background-color:purple;">**DaaS will fast track DPI adoption to any ‘hard to reach areas’, applicable beyond the globalisation effort.**</mark>&#x20;
 
 •⁠  ⁠reusable for sub national/state level adoption within any large countries (such as state level registries)&#x20;
