@@ -19,6 +19,7 @@
 * [💰 How much does it cost to build DPI?](the-dpi-wiki/how-much-does-it-cost-to-build-dpi.md)
 * [📢 Is my system a DPI?](the-dpi-wiki/is-my-system-a-dpi/README.md)
   * [TL; DR - Is my system a DPI?](the-dpi-wiki/is-my-system-a-dpi/tl-dr-is-my-system-a-dpi.md)
+* [📱 Building a SuperApp: A three step guide to apply DPI thinking](the-dpi-wiki/building-a-superapp-a-three-step-guide-to-apply-dpi-thinking.md)
 
 ## Mythbusters and FAQs
 
