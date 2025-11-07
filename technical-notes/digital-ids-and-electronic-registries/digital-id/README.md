@@ -1,3 +1,9 @@
+---
+description: >-
+  Many countries have built digital IDs including Singapore (Singpass), Rwanda
+  national ID with eKYC, Chile National ID and India's digital ID (Aadhaar).
+---
+
 # Digital ID
 
 ### Context
@@ -11,7 +17,7 @@ Government's primary aim is to reach out to specific target user base to easily 
 5. Purpose driven functional identities - Voting, Driving, Farming, Taxation, Professional Practice (Doctor, Lawyer, Teacher, etc.,)
 6. Foundational/Functional IDs restricted to certain category of users - e.g., All Citizens, Citizens above x years, Residents, Refugees, etc.,
 
-**In most of the countries foundational or functional IDs are **<mark style="color:blue;">**issued**</mark>** as**:
+**In most of the countries foundational or functional IDs are&#x20;**<mark style="color:blue;">**issued**</mark>**&#x20;as**:
 
 1. Simple paper optionally with a photo and/or hologram sticker&#x20;
 2. Laminate the paper based ID
