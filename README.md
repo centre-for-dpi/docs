@@ -6,11 +6,11 @@ Through the DPI Wiki, we've attempted to distil 15 years of practical implementa
 
 We’ve tried to simplify it to the absolute minimum of what you need to know to get started in the execution of an inclusive, interoperable, and high scale DPI in your country – across agriculture, finance, health, education, skilling, ecommerce, and beyond.&#x20;
 
-<mark style="background-color:purple;">To the builders and practitioners in countries tirelessly working to solve large scale societal problems: this wiki is dedicated to you.</mark> &#x20;
+<mark style="background-color:purple;">To the builders and practitioners in countries working tirelessly to solve large-scale societal problems, this wiki is dedicated to you.</mark> &#x20;
 
-We hope it can help bring you closer to your implementation goals.&#x20;
+We hope it helps bring you closer to your implementation goals.&#x20;
 
-Send us your dashboards so we can celebrate with you!&#x20;
+Send us your dashboards so we can celebrate with you!
 
 With warm wishes,&#x20;
 
@@ -28,4 +28,4 @@ For example:
 
 **Centre for DPI. (2024).&#x20;**_**Understanding DPI**_**. DPI Wiki. Retrieved from https://docs.cdpi.dev/understanding-dpi**
 
-\
+<br>
