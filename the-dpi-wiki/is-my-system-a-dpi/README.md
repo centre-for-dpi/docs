@@ -90,10 +90,10 @@ Uploading PDFs or Excel files in bulk for public consumption is not usually cons
 
 Many governments use an Enterprise Services Bus (ESB) solution to unify the various services provided by the government into a single-window application or portal. While this architecture is useful, it is also very complex, difficult to maintain and scale, and requires interdepartmental consensus.
 
-The DPI approach would be if each department would **open its APIs for a service and publish them for third parties to consume and integrate into their workflows.** The Department of ICT, for example, could compile all these open APIs and make them easily accessible for integration.
+The DPI approach would be if each department would **open its APIs for a service and publish them for third parties to consume and integrate into their workflows**. The Department of ICT, for example, could compile all these open APIs and make them easily accessible for integration.
 
-Alternatively, existing government services buses could collectively open up the APIs for all the services they have aggregated.
+Alternatively, existing government services buses could collectively open up APIs for all the services they have aggregated.
 
-_Note: This article only discusses technical metrics; Good, participatory governance and inclusive market innovations are equally crucial for a DPI implementation_
+_Note: This article only discusses technical metrics; Good, participatory governance and inclusive market innovations are equally crucial for a DPI implementation._
 
 <br>
