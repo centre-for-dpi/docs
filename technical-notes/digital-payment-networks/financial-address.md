@@ -4,49 +4,52 @@ description: Normalised financial address for payments
 
 # Financial Address
 
-## Concept
+### Concept
 
-Just the way ‘21/02, House X, Street Y, City Z, Postcode - 000’ is your home address (where you stay), the combination of ‘Bank A/c No., Code, Bank Name + Branch’ or “Card number, Provider, Expiry, CVV” etc. is your financial address (where your money stays).&#x20;
+Just as ‘21/02, House X, Street Y, City Z, Postcode - 000’ is your home address (where you stay), the combination of ‘Bank A/c No., Code, Bank Name + Branch’ or “Card number, Provider, Expiry, CVV” serves as your financial address (where your money stays).
 
-A few decades ago, the only way to meet people at home was by giving them your home address and inviting them over. So people had smaller friend circles and fewer people in their lives.  Soon, Google Maps simplified an entire address to a single, shareable URL which allowed people to have a quick, efficient way of getting their address out. Then email addresses, instagram handles, linkedin profiles and multiple other channels of discovery came along encouraging new connections. People’s social lives exploded, and the world as we know it transformed.&#x20;
+A few decades ago, the only way to meet people at home was by giving them your home address and inviting them over. As a result, people had smaller friend circles and fewer people in their lives. Soon, Google Maps simplified an entire address to a single, shareable URL, which allowed people to have a quick, efficient way of sharing their address. Then email addresses, Instagram handles, LinkedIn profiles, and multiple other channels of discovery emerged, encouraging new connections. People’s social lives exploded, and the world as we know it transformed.
 
-The same is now happening in the financial world for payments through the concept and implementation of a “financial address”. &#x20;
+The same phenomenon is now happening in the financial world for payments through the concept and implementation of a “financial address”.
 
-A financial address is a system that (i) encourages people to transact digitally, from any store of value, to any store of value, while completely preserving (ii) the privacy of the payer/payee and (iii) the trust of the receiver.&#x20;
+A financial address is a system that (i) encourages people to transact digitally, from any store of value, to any store of value, while completely preserving (ii) the privacy of the payer/payee and (iii) the trust of the receiver.
 
-A financial address simplifies any store of value to a unique address in the form of “id-type:id@provider”. For example,  “mobile:12345@mobile-pymt”  (mobile@mobile-provider)  or&#x20;
+A financial address simplifies any store of value to a unique address in the form of “id-type:id@provider”. For example, “mobile:12345@mobile-pymt” (mobile@mobile-provider) or
 
-“account:12345@national-bank” (account-id@bank-psp-code)&#x20;
+“account:12345@national-bank” (account-id@bank-psp-code)
 
 Through this, the payment systems know which account to transfer the money to, while hiding these details from the human and machine eye. It creates a routing mechanism that ensures secure transfer of money, while eliminating the chances of fraud, misuse, or leakages through hacking. The resolution of the final store of value account is left to the final entities doing debit/credit actions of the payment.
 
-## Advantages&#x20;
+### Advantages&#x20;
 
-1. Protects privacy of users encouraging them to transact with various parties freely and safely&#x20;
-2. Enhances cybersecurity by preventing the creation of honeypots (large databases with sensitive financial data that can be hacked or leaked)&#x20;
-3. Allows multiple, and ever evolving, stores of value to be conveniently communicated in a standard format&#x20;
-4. Builds P2P and P2M trust - spurring innovation and adoption.&#x20;
+1. Protects privacy of users encouraging them to transact with various parties freely and safely
+2. Enhances cybersecurity by preventing the creation of honeypots (large databases with sensitive financial data that can be hacked or leaked)
+3. Allows multiple, and ever evolving, stores of value to be conveniently communicated in a standard format
+4. Builds P2P and P2M trust, spurring innovation and adoption.
 
-## Why Financial Address?
+### Why Financial Address?
 
-The financial world is continually evolving with new products and offerings to customers.&#x20;
+The financial world is continually evolving with new products and offerings to customers.
 
-1. Traditionally bank accounts were identified with customer account number, bank id, bank branch. Overtime, with evolution of  mobile and net banking the identifiers have evolved where the branch id is no longer relevant and this got encapsulated with in mobile number/identifier and net banking customer id respectively.
-2. With card based networks/accounts, product offering with debit, credit, gift, pre-paid cards the attributes to identify a store of value account keeps changing. e.g., card type, varying length of card number, card type, expiry year/month, cvv, one time tokens, etc.,
-3. &#x20;Digital cash and Crypto cash concepts are continuing to evolve.
+1. Traditionally, bank accounts were identified with customer account number, bank ID, and bank branch. Over time, with the evolution of mobile and net banking, the identifiers have evolved where the branch ID is no longer relevant and has been encapsulated within mobile number/identifier and net banking customer ID respectively.
+2. With card-based networks/accounts, product offerings with debit, credit, gift, and pre-paid cards, the attributes to identify a store of value account keep changing. Examples include card type, varying length of card number, card type, expiry year/month, CVV, one time tokens, etc.
+3. Digital cash and crypto cash concepts are continuing to evolve.
 
-In these scenarios, defining a store of value account using a fixed key/value or object structure will not be intuitive and core payment api specifications need to be constantly updated with each new product offering coming into market.
+In these scenarios, defining a store of value account using a fixed key/value or object structure will not be intuitive, and core payment API specifications need to be constantly updated with each new product offering coming into the market.
 
-The idea of normative addressing format to represent any store of value account is referred to as **financial address** (fa). Any payer or payee accounts now can be abstracted to a normative address and resolution of final store of value account is left to the final entities doing debit/credit actions of the payment.
+The idea of normative addressing format to represent any store of value account is referred to as **financial address** (fa). Any payer or payee accounts can now be abstracted to a normative address and resolution of the final store of value account is left to the final entities doing debit/credit actions of the payment.
 
-On similar lines, to enable integration with various identity systems/registries of all customer ids can also be represented in normative addressing formats!
+Similarly, to enable integration with various identity systems and registries, all customer IDs can also be represented in normative addressing formats!
 
 ## Principles
 
-1. Financial address is case insensitive normative representation of a store of value account represented as id-type:id@provider
-2. id-type can be a account num, customer id, user id, virtual id, unique id, one time token, pre-paid voucher no, cdbc  id, etc.,
-3. The resolution of final store of value details is left to the entity holding these accounts at final debit/credit left of the payment transactions.
-4. id-type & provider information in financial address shall enable intermediaries in the payment network to route the payment instructions as per the network rules/polices.
+1.  Financial address is a case-insensitive, normative representation of a store of value account, represented as id-type:id@provider
+
+    The id-type can be an account num, customer id, user id, virtual id, unique id, one time token, pre-paid voucher no, CDBC ID, etc.
+
+    The resolution of the final store of value details is left to the entity holding these accounts at the point of final debit/credit left of the payment transactions.
+
+    The ID type & provider information in financial address shall enable intermediaries in the payment network to route the payment instructions as per the network rules/polices.
 
 ## Examples
 
