@@ -12,8 +12,9 @@ A DPI approach to data sharing can include the following possible use cases:&#x2
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-05-16 at 11.48.30 AM.png" alt=""><figcaption></figcaption></figure>
 
-1. The ability to generate **verifiable credentials** for key certificates/claims in a digital society and share asynchronously with any requestor (eg. proof of education; proof of business registration; proof of work experience, proof of vaccination, etc.) &#x20;
-2. The ability to share **personal data in real-time in a secure, consented manner** bilaterally with a party offering me a service based on the data (eg a health diagnosis, a loan, a recommendation, etc.)
-3. The ability for a society to generate **open anonymised datasets** to enable research or trends assessments across various sectors&#x20;
+1. The ability to generate **verifiable credentials** for key certificates and claims in a digital society, and share asynchronously with any requester (e.g., proof of education, proof of business registration, proof of work experience, proof of vaccination, etc.)
+2. The ability to share **personal data in real-time in a secure, consented manner** bilaterally with a party offering me a service based on the data (e.g., a health diagnosis, a loan, a recommendation, etc.)
 
-Additionally, the open anonymised datasets can be used to train and publish **open AI/ML models** that can be used to better enable access to services based on data, e.g. real time language translation models; financial underwriting models; etc.&#x20;
+The ability for a society to generate **open anonymised datasets** to enable research or trend assessments across various sectors.
+
+Additionally, these open anonymised datasets can be used to train and publish **open AI/ML models** that can be used to better enable access to data-driven services such as real-time language translation models, financial underwriting models, etc.&#x20;
