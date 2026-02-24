@@ -2,7 +2,7 @@
 
 ### What is it?
 
-Convert any paper certificate, license, or statement into a **verifiable certificate with a signed QR** code, with a **document wallet app** to fetch multiple credentials
+Convert any paper certificate, license, or statement into a **verifiable certificate with a signed QR** code, with a **document wallet app** to fetch multiple credentials.
 
 {% embed url="https://drive.google.com/file/d/1hdf3cX_w1rHTF6-IpmQ59eSV9ijevMCg/view?usp=drive_link" %}
 A short explainer on verifiable credentials&#x20;
@@ -12,40 +12,40 @@ A short explainer on verifiable credentials&#x20;
 
 {% tabs %}
 {% tab title="Capabilities " %}
-| Issuer can issue digitally signed, machine readable credentials                                         |
-| ------------------------------------------------------------------------------------------------------- |
-| Issuer can revoke the issued credentials                                                                |
-| Issuer can share VCs to users with authentication                                                       |
-| Users (data subjects) can import credentials from various sources (i.e. issuers) to their mobile wallet |
-| Users can share credentials to relying parties from their mobile wallet                                 |
-| Relying (verifying) parties can receive and verify credentials shared with them                         |
-| Credentials can be verififed in both online and offline settings                                        |
+| Issuers can issue digitally signed, machine-readable credentials                                              |
+| ------------------------------------------------------------------------------------------------------------- |
+| Issuers can revoke the issued credentials                                                                     |
+| Issuers can share VCs to users with authentication                                                            |
+| Users, or data subjects, can import credentials from various sources, such as issuers, to their mobile wallet |
+| Users can share credentials with relying parties from their mobile wallet                                     |
+| Relying or verifying parties can receive and verify credentials shared with them                              |
+| Credentials can be verified in both online and offline settings                                               |
 {% endtab %}
 
 {% tab title="Benefits" %}
-<mark style="background-color:purple;">**For the system/ business user:**</mark>
+<mark style="background-color:purple;">**For the system/business user:**</mark>
 
-| Cost of trust is low; not easy to forge the certificate                                                      |
-| ------------------------------------------------------------------------------------------------------------ |
-| Low cost anytime, anywhere verification                                                                      |
-| Cost of reissuance is almost completely eliminated                                                           |
-| Different departments can reuse the same infrastructure to generate credentials effortlessly                 |
-| Decreased costs of processing the presented credential                                                       |
-| Integrates well into existing workflows (eg; issuing a paper certificate, emailing documents to the subject) |
-| Lesser chances of frauds and impersonations                                                                  |
-| Credentials can be issued both as physical and digital docs - hence solving for inclusion for the population |
+| Cost of trust is low; not easy to forge the certificate                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| Enables low-cost verification anytime, anywhere                                                                         |
+| Cost of reissuance is almost completely eliminated                                                                      |
+| Different departments can reuse the same infrastructure to generate credentials effortlessly                            |
+| Reduces processing costs for presented credentials                                                                      |
+| Integrates well into existing workflows, such as issuing paper certificates or emailing documents to recipients         |
+| Lesser chances of frauds and impersonation                                                                              |
+| Credentials can be issued in both physical and digital formats, ensuring accessibility and inclusion for the population |
 
 <mark style="background-color:purple;">**For the end user:**</mark>
 
-| Empowers the users (owners of the data) with control of data back in their hands    |
-| ----------------------------------------------------------------------------------- |
-| Increases ease of transactions as there no need to carry piles of paper files/ pdfs |
-| Saves time as no copying/ print outs are needed                                     |
-| Multiple modes of presenting the credential are available - offline & online        |
-| Certificates can be stored in wallet of user's choice - choice of multiple apps     |
-| Ease of applying (by submitting documents) to services, benefits or schemes         |
-| No fear or risk of losing the "original" credential/ certificate                    |
-| Faster access to services enabled by faster verification                            |
+| Empowers the users (owners of the data) with control of data back in their hands                    |
+| --------------------------------------------------------------------------------------------------- |
+| Increases ease of transactions by eliminating the need to carry paper files or PDFs                 |
+| Saves time by removing the need for copying or printing                                             |
+| Multiple modes of presenting the credential are available, both offline and online                  |
+| Certificates can be stored in wallet of user's choice, allowing for the selection, of multiple apps |
+| Enables ease of applying to services, benefits, or schemes by simplifying document submission       |
+| Eliminates the fear or risk of losing original credentials or certificates                          |
+| Faster access to services through accelerated verification processes                                |
 {% endtab %}
 
 {% tab title="Value created" %}
@@ -57,7 +57,7 @@ A short explainer on verifiable credentials&#x20;
 
 ### What use cases can be powered?
 
-<table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Climate</strong></mark></td><td>Issuing <strong>carbon credits</strong> as verifiable credentials for <strong>energy market trading, eligibility to subsidies</strong> etc.</td></tr><tr><td><mark style="color:purple;"><strong>Education</strong></mark></td><td>Students having their education certificates / admission letters as verifiable credentials and sharing the same to prospective employers/loans/scholarships</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Citizens holding their vaccination details as verifiable credential for eligibility for entering public spaces</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Healthcare professionals with VCs of their professional licensing can present it enabling them to practise anywhere</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Passports as verifiable credentials to assist people in their easy commute in airport</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Business Owners holding Trade License as a verifiable credential for access to credit</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Citizens having their civic certificates (Marriage licenses, Voter ID, Social Security Information /Passport/Driving License) as verifiable credentials to be presented as required</td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Climate</strong></mark></td><td>Issuing carbon credits as verifiable credentials for energy market trading, eligibility for subsidies, etc.</td></tr><tr><td><mark style="color:purple;"><strong>Education</strong></mark></td><td>Students having their education certificates and admission letters as verifiable credentials and sharing them with prospective employers, loan providers, and scholarship programs</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Citizens holding their vaccination details as verifiable credential to demonstrate eligibility for entering public spaces.</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Healthcare professionals with VCs of their professional licensing can present them to enable practice anywhere.</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Passports as verifiable credentials to assist people in their easy commute through airports.</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Business owners holding trade licenses as verifiable credentials gain access to credit facilities.</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Citizens having their civic certificates, including marriage licenses, voter ID, social security information, passports, and driving licenses, as verifiable credentials to be presented as required.</td></tr></tbody></table>
 
 {% hint style="success" %}
 For DaaS Cohort 1, **Inji** is the digital credentials product made available.
