@@ -6,12 +6,12 @@ description: Reference Links
 
 ## 1. Overview
 
-Centre for Digital Public Infrastructure (CDPI) curates open standards and specifications across various categories of DPIs for easy reference. This is an initiative to curate specifications that follow [DPI principles](../the-dpi-wiki/dpi-tech-architecture-principles/) to enable countries to create required Digital Public Infrastructure rails. This list includes open specifications that are published by non-profit global institutions or agreed upon based on a global governance, but also de-facto standards used by countries where the specifications have reached scale of over 10 Million+ transactions.&#x20;
+Centre for Digital Public Infrastructure (CDPI) curates open standards and specifications across various categories of DPIs for easy reference. This is an initiative to curate specifications that follow [DPI principles](../the-dpi-wiki/dpi-tech-architecture-principles/) to enable countries to create required Digital Public Infrastructure rails. This list includes open specifications that are published by non-profit global institutions or agreed upon based on a global governance, as well as de-facto standards used by countries where the specifications have reached a scale of over 10 million transactions.
 
 **Note:**
 
 1. This is a draft and all stakeholders in DPI space can share their comments.
-2. Reference implementations listed here are as per the claim of implementing org. CDPI has not verified the claims.
+2. Reference implementations listed here are provided as per the claim of implementing organisations. CDPI has not verified these claims.
 3. Countries are advised to independently verify at the time of the adoption.
 
 ## 2. Identifier & Registries
@@ -46,7 +46,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 1. Batch payments -  [Mojaloop](https://docs.mojaloop.io/getting-started/), [Mifos](https://mifos.org/resources/documentation/)
 2. Beneficiary / Scheme Mgmt partners - [OpenG2P](https://docs.openg2p.org/guides/developer-guides), [OpenSPP](https://docs.openspp.org/index.html), [DIGIT](https://core.digit.org/)
-3. Cash In Cash Out (CICO) - AePS [specs](https://www.npci.org.in/PDF/AePS/MicroATM\_Standards\_v1.5.1\_Clean.pdf?TSPD\_101\_R0=08f002952bab20008b7d8da5fd1e2eab2b05707bcf97d4d8a37e2e70559f1e5cf52cf371b2dd168808262911fb14300061acdcd788119a546d34e72dd804f44c2e3b50502dbe0deab71add6e66931a3c1c3f7d06c44de06e493ae71639d420a0) published by NPCI/IBA/UIDAI
+3. Cash In Cash Out (CICO) - AePS [specs](https://www.npci.org.in/PDF/AePS/MicroATM_Standards_v1.5.1_Clean.pdf?TSPD_101_R0=08f002952bab20008b7d8da5fd1e2eab2b05707bcf97d4d8a37e2e70559f1e5cf52cf371b2dd168808262911fb14300061acdcd788119a546d34e72dd804f44c2e3b50502dbe0deab71add6e66931a3c1c3f7d06c44de06e493ae71639d420a0) published by NPCI/IBA/UIDAI
 
 ## 5. Data & Open AI/ML Models
 
@@ -68,7 +68,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 #### 5.2.1 Reference Specs/Implementations:
 
-1. Credential Schemas: Sunbird VC [specs](https://github.com/VC-Specs/vc-specs) | [schemas](https://docs.google.com/spreadsheets/d/1y4z1X7Dfercj7C3wkKbPAR\_ExHbL\_KgXbwtFzeFK078/edit#gid=1454655977) (draft)
+1. Credential Schemas: Sunbird VC [specs](https://github.com/VC-Specs/vc-specs) | [schemas](https://docs.google.com/spreadsheets/d/1y4z1X7Dfercj7C3wkKbPAR_ExHbL_KgXbwtFzeFK078/edit#gid=1454655977) (draft)
 2. EU digital identity wallet [docs](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/blob/main/docs/arf.md) | [specs](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework)
 
 ### 5.3 Consented Data Sharing
@@ -96,13 +96,13 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 1. BeckN Decentralised Health Protocol - DHP [docs](https://developers.becknprotocol.io/docs/introduction/introduction/) | [specs](https://github.com/dhp-project/DHP-Specs)
 2. Health Claims Exchange - HCX [docs](https://docs.hcxprotocol.io) | [specs](https://github.com/hcx-project/hcx-specs)
 3. Data exchange
-   * Consent-based data exchange: DEPA [docs](https://depa.world) | [specs](https://github.com/iSPIRT/DEPA/blob/main/depa\_2.0.yaml)
+   * Consent-based data exchange: DEPA [docs](https://depa.world) | [specs](https://github.com/iSPIRT/DEPA/blob/main/depa_2.0.yaml)
    * X-Road [docs](https://docs.x-road.global/)| [specs](https://github.com/nordic-institute/X-Road)
 4. Data schema/ standards- [docs](http://www.hl7.org/fhir/documentation.html)
 5. Information management systems (individual, hospital, community levels)
    * OpenMRS - [docs](https://wiki.openmrs.org/) | [specs](https://github.com/OpenMRS)
    * DHIS2 -[ docs](https://dhis2.org/about/)&#x20;
-   * OpenEHR - [docs](https://specifications.openehr.org/releases/BASE/latest/architecture\_overview.html#\_architecture\_overview) | [specs](https://openehr.atlassian.net/jira/projects)
+   * OpenEHR - [docs](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_architecture_overview) | [specs](https://openehr.atlassian.net/jira/projects)
    * OpenELIS - [docs](http://docs.openelis-global.org/en/latest/) | [specs](https://github.com/I-TECH-UW/OpenELIS-Global-2/)
 6. Vaccination certificate (Verifiable credential): DIVOC [docs](https://divoc.digit.org/) | [specs](https://github.com/egovernments/DIVOC)
 
