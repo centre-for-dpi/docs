@@ -1,10 +1,3 @@
----
-description: >-
-  Centre for Digital Public Infrastructure This document provides a
-  comprehensive evaluation of four leading Open Source Verifiable Credential
-  (VC) stacks: INJI, CREDEBL, walt.id, and QuarkID.
----
-
 # Comparative Analysis of Verifiable Credential Stacks
 
 ### Objective
