@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Comparative Analysis of Verifiable Credential Stacks
 
 ### Objective
