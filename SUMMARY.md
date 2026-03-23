@@ -62,6 +62,16 @@
   * [Cash-in Cash-Out (CICO)](dpi/digital-payment-networks/cash-in-cash-out-cico.md)
   * [Financial Address Mapper (G2P Connect)](https://cdpi.gitbook.io/g2p-connect/protocol/interfaces/beneficiary-management/mapper-architecture)
   * [G2P Payments](technical-notes/digital-payment-networks/g2p-payments.md)
+* [Cloud-Agnostic Deployment of DPI and Data Portability](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/README.md)
+  * [Architectural Principles for Cloud-Agnostic DPI](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/architectural-principles-for-cloud-agnostic-dpi.md)
+  * [Design deep dive](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/design-deep-dive.md)
+  * [Data Portability as Core Principle](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/data-portability-as-core-principle.md)
+  * [Implementation Patterns](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/implementation-patterns.md)
+  * [The Role of One-Click Deployment](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/the-role-of-one-click-deployment.md)
+  * [Governance and Decision Frameworks](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/governance-and-decision-frameworks.md)
+  * [Challenges and Trade-offs](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/challenges-and-trade-offs.md)
+  * [Recommendations for DPI Implementations by System Maturity](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/recommendations-for-dpi-implementations-by-system-maturity.md)
+  * [Future Directions](technical-notes/cloud-agnostic-deployment-of-dpi-and-data-portability/future-directions.md)
 
 ## Initiatives
 
