@@ -1,3 +1,7 @@
+---
+icon: cloud-binary
+---
+
 # Cloud-Agnostic Deployment of DPI and Data Portability
 
 ### Executive Summary
