@@ -59,17 +59,19 @@ A short explainer on verifiable credentials&#x20;
 
 <table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Climate</strong></mark></td><td>Issuing carbon credits as verifiable credentials for energy market trading, eligibility for subsidies, etc.</td></tr><tr><td><mark style="color:purple;"><strong>Education</strong></mark></td><td>Students having their education certificates and admission letters as verifiable credentials and sharing them with prospective employers, loan providers, and scholarship programs</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Citizens holding their vaccination details as verifiable credential to demonstrate eligibility for entering public spaces.</td></tr><tr><td><mark style="color:blue;"><strong>Healthcare</strong></mark></td><td>Healthcare professionals with VCs of their professional licensing can present them to enable practice anywhere.</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Passports as verifiable credentials to assist people in their easy commute through airports.</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Business owners holding trade licenses as verifiable credentials gain access to credit facilities.</td></tr><tr><td><mark style="color:orange;"><strong>Govt Services</strong></mark></td><td>Citizens having their civic certificates, including marriage licenses, voter ID, social security information, passports, and driving licenses, as verifiable credentials to be presented as required.</td></tr></tbody></table>
 
+{% hint style="info" %}
+For DaaS Cohort 1, **Inji** was the digital credentials product made available.
+{% endhint %}
+
 {% hint style="success" %}
-For DaaS Cohort 1, **Inji** is the digital credentials product made available.
+For DaaS Cohort 2, **Inji, Walt.id, CREDEBL and QuarkID** are the Digital Public Goods evaluated.
 {% endhint %}
 
 
 
-This document below outlines a call to action for software vendors (ISVs) to adopt a user-centric, verifiable credentialing infrastructure that ensures secure, low-cost, and trusted digital data sharing across sectors.
+This document below outlines a call to action for Service Providers (SP) to adopt a user-centric, verifiable credentialing infrastructure that ensures secure, low-cost, and trusted digital data sharing across sectors.
 
-{% file src="../../../.gitbook/assets/Verifiable Credentialing Infrastructure_ISVs.pdf" %}
-
-
+{% file src="../../../.gitbook/assets/DaaS Technical Scope Template for DVC_v2.0.pdf" %}
 
 ### Inji - Additional resources:
 
@@ -78,3 +80,17 @@ This document below outlines a call to action for software vendors (ISVs) to ado
 ### Inji - Experience centre:
 
 [https://docs.mosip.io/inji/inji-mobile-wallet/sandbox-details/inji-setup-guide](https://docs.mosip.io/inji/inji-mobile-wallet/sandbox-details/inji-setup-guide)
+
+
+
+### Walt.id - Additional resources:
+
+{% embed url="https://docs.walt.id/" %}
+
+### CREDEBL - Additional resources:
+
+{% embed url="https://docs.credebl.id/docs" %}
+
+### QuarkID - Additional resources:
+
+{% embed url="https://github.com/ssi-quarkid" %}
