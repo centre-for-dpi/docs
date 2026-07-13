@@ -49,6 +49,7 @@
     * [Decision Framework for Verifiable Credentials](technical-notes/data-and-credentialing-infra/verifiable-credentials/decision-framework-for-verifiable-credentials/README.md)
       * [Verifiable Credentials Cheatsheet](https://vc-use-cases.cdpi.dev/vc-cheatsheet.html)
       * [Comparative Analysis of Verifiable Credential Stacks](technical-notes/data-and-credentialing-infra/verifiable-credentials/decision-framework-for-verifiable-credentials/comparative-analysis-of-verifiable-credential-stacks.md)
+    * [DIDs & PKI in Verifiable Credentials](technical-notes/data-and-credentialing-infra/verifiable-credentials/dids-and-pki-in-verifiable-credentials.md)
   * [Data standards](technical-notes/data-and-credentialing-infra/data-standards.md)
   * [Non-personal Anonymised Datasets](technical-notes/data-and-credentialing-infra/non-personal-anonymised-datasets.md)
   * [Building Data Analytics Pipelines](technical-notes/data-and-credentialing-infra/building-data-analytics-pipelines.md)
