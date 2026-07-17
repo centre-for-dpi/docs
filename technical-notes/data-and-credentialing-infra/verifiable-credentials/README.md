@@ -65,3 +65,10 @@ It is only when we can reliably identify each individual that we can effectively
 2. [Sunbird RC's wiki](https://docs.sunbirdrc.dev/help/comprehensive-overview-electronic-registries-and-verifiable-credentials/verifiable-credentials) on VCs
 3. [DIVOC](https://divoc.digit.org/platform/divocs-verifiable-certificate-features-2.0/creating-a-divoc-certificate/overview-of-divocs-digital-certificates) (a credentialling infra that has issued 20 m+ documents):&#x20;
 4. Verifiable credentials [101 deck ](https://drive.google.com/file/d/1iTaME2obM6TFboGxJX6U4y0We2gD-Epg/view)
+
+
+
+## Technical Notes
+
+1. [DIDs & PKI in Verifiable Credentials](https://docs.google.com/document/d/1CWG0lScTDpLqCnKQE0_AWM23OniNFRq4P-Gx6W0pDyE/edit?usp=sharing)
+2. [Trust Model Mapping - PKI & Decentralised Trust](https://docs.google.com/document/d/1kqIs3KScMTxtChaSCf4kfPIj1R34-iMlG9gm6F3Qf-k/edit?usp=sharing)
