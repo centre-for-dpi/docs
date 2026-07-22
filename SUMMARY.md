@@ -42,6 +42,7 @@
     * [Digital Signatures and PKI](technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/digital-signatures-and-pki.md)
     * [eConsent](technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/econsent.md)
     * [eSign](technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/esign.md)
+    * [Executing a Decentralised Trust Model](technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/executing-a-decentralised-trust-model.md)
 * [📂 Data Sharing & Credentials ](dpi/data-and-credentialing-infra.md)
   * [A primer to personal data sharing](technical-notes/data-and-credentialing-infra/a-primer-to-personal-data-sharing.md)
   * [Verifiable Credentials](technical-notes/data-and-credentialing-infra/verifiable-credentials/README.md)
