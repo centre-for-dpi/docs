@@ -1,6 +1,6 @@
 # Digital Signatures and PKI
 
-Digital signatures are cryptographic mechanisms used to verify the authenticity and integrity of electronic data. In healthcare, where the accuracy and confidentiality of information are paramount, they play a crucial role in ensuring electronic records remain trustworthy.
+Digital signatures are cryptographic mechanisms used to verify the authenticity and integrity of electronic data. In any sector where the accuracy and confidentiality of information matter, such as health, finance or public services, they help ensure that electronic records remain trustworthy.
 
 Public Key Infrastructure (PKI) is at the heart of digital signatures.
 

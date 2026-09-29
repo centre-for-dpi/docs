@@ -18,7 +18,7 @@ Enable innovation both by ‘**challenger**’ market players in the ecosystem a
 
 This is essential to catalyse private innovation that doesn't merely target an elite connected population in a country, but also innovates to solve the challenges of diverse populations who speak multiple languages and have varying levels of digital literacy, thus reducing the impact of a digital divide. The principle also addresses both scale, adaptability and sustainability over time.
 
-Private innovation can be leveraged both in building the DPI (for instance, in driving private partners to enroll individuals into an identity system) and in usage of the DPI in a wider digital economy to offer solutions (for instance, banks or private players using an identity e-KYC to offer a service like opening a bank account).
+Private innovation can be leveraged both in building the DPI (for instance, in driving private partners to enrol individuals into an identity system) and in usage of the DPI in a wider digital economy to offer solutions (for instance, banks or private players using an identity e-KYC to offer a service like opening a bank account).
 
 Public- and private-sector adoption and innovation should be **voluntary** and **demand-based** rather than mandated by authorities. This tends to create sustained usage over time.&#x20;
 

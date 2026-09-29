@@ -45,7 +45,7 @@ Similarly, to enable integration with various identity systems and registries, a
 
 1.  Financial address is a case-insensitive, normative representation of a store of value account, represented as id-type:id@provider
 
-    The id-type can be an account num, customer id, user id, virtual id, unique id, one time token, pre-paid voucher no, CDBC ID, etc.
+    The id-type can be an account num, customer id, user id, virtual id, unique id, one time token, pre-paid voucher no, CBDC ID, etc.
 
     The resolution of the final store of value details is left to the entity holding these accounts at the point of final debit/credit left of the payment transactions.
 
@@ -64,12 +64,12 @@ Similarly, to enable integration with various identity systems and registries, a
 </strong><strong>user-id@psp-code e.g. joeuser@national-bank
 </strong>token@psp-code e.g token:123456@a123
 code@purpose-code.voucher-provider e.g voucher:12345@food.coupon-network
-<strong>cdbc-id@cdbc e.g. 12345@digital-cash"
+<strong>cbdc-id@cbdc e.g. 12345@digital-cash
 </strong></code></pre>
 {% endtab %}
 
 {% tab title="Identity Address" %}
-
+An identity address uses the same id-type:id@provider format to point to an identity record instead of a store of value. Examples: token:12345@national-id, uid:12345@national-id and vid:12345@national-id. Payment systems can resolve an identity address to a financial address through an ID Account Mapper.
 {% endtab %}
 {% endtabs %}
 

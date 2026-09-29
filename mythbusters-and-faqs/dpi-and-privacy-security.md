@@ -12,7 +12,7 @@ For example, design features of a country’s <mark style="background-color:gree
 * [x] **Avoiding tracking** - no collection of location/purpose in ID auth/eKYC
 * [x] Creating a **Virtual ID or a token as a fungible alias** for the permanent ID to avoid providing the actual ID number for services
 * [x] Authentication done with **consent** of the user (via one time password or biometrics)
-* [x] Usage **audits which are permanently auto-deleted** every n months
+* [x] Usage **audits which are permanently auto-deleted after a fixed retention period set in law or policy**
 * [x] **End-to-end encryption** for data at rest and data transport layers
 * [x] Allowing residents to **lock their ID and/or biometrics,** disabling authentication
 * [x] **Unique tokens that are different for every system**, eliminating the ability to merge databases
@@ -28,7 +28,7 @@ Features of <mark style="background-color:green;">**an interoperable data sharin
 * [x] A **pre-specified time period for access to data** - with consent revocable at any time by the individual
 * [x] **Multi-factor, multi-modal authentication** capabilities for signing in to the system
 
-For instance, **Brazil’s PIX has prioritized security** in its payment system through a combination of technologies and regulatory measures: **It uses encryption protocols, two-factor authentication to verify user identities and digitally signed transactions, with possibility to reverse payment within a certain time window**. The financial network itself is not connected to the internet, and **only restricted participants can actually access** the database directly, in addition to regulatory oversight by the Central Bank of Brazil which ensures compliance with financial security standards and promotes user trust in the system.&#x20;
+For instance, **Brazil’s PIX has prioritised security** in its payment system through a combination of technologies and regulatory measures: **It uses encryption protocols, two-factor authentication to verify user identities and digitally signed transactions, with possibility to reverse payment within a certain time window**. The financial network itself is not connected to the internet, and **only restricted participants can actually access** the database directly, in addition to regulatory oversight by the Central Bank of Brazil which ensures compliance with financial security standards and promotes user trust in the system.&#x20;
 
 Another example is Aadhaar, India’s ID system which **collects only 4 minimal, constant fields** of an individual: name, date of birth, address, gender. This means that the data is always accurate. Now what if they had collected 10 fields including profession, income, family members, etc.? This could change year on year, making the data redundant. Collecting and storing that information would also make systems bulky and inefficient, affecting the speed and accuracy of all systems that use it (such as banks using ID data for eKYC).&#x20;
 

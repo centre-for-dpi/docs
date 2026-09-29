@@ -18,7 +18,7 @@ description: >-
 
 <mark style="background-color:blue;">**Department with an ID**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(National ID, tax ID, drivers license, birth certificate, etc):</mark>&#x20;
 
-1. Drive coverage of your [Digital ID](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id), using private enrollment partners, fewer fields, etc.
+1. Drive coverage of your [Digital ID](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id), using private enrolment partners, fewer fields, etc.
 2. Add [Capabilities on your ID](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/capabilities-on-id-system) to help it operate as a DPI in your society:
 
 a. **eKYC:** Share key profile data fields with ecosystem players via verifiable credentials or eKYC APIs
@@ -33,12 +33,12 @@ d. **Single Sign On:** Allow people holding your ID to sign in to any other publ
 
 1. Publish a modern Interoperable [QR Code](https://docs.cdpi.dev/technical-notes/digital-payment-networks/interoperable-qr-code) Standard for mobile payments
 2. Upgrade to a modern evolvable programmable payment protocol for all kinds of payments (P2P/P2M; G2P, retail). This protocol should allow for innovation in use cases as well (recurring payments, vouchers, credit etc.)
-3. Add an [ID to Account mapper](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture) - a 4-field registry to allow government benefits across departments to be sent to any kind of account (mobile money, bank account, etc.)
+3. Add an [ID Account Mapper](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture) - a 4-field registry to allow government benefits across departments to be sent to any kind of account (mobile money, bank account, etc.)
 
 <mark style="background-color:blue;">**Social Protection Benefit Program Manager:**</mark>
 
 1. Use [face authentication](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/face-authentication) or other existing ID authentication to ease onboarding and registration
-2. Add an [ID to Account mapper](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture) - a 4-field registry to allow gov’t benefits across departments to be sent to any kind of account (mobile money, bank account, etc.)
+2. Add an [ID Account Mapper](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture) - a 4-field registry to allow gov’t benefits across departments to be sent to any kind of account (mobile money, bank account, etc.)
 3. Leverage existing or encourage creation of [registries](https://g2pconnect.cdpi.dev/protocol/interfaces/registries) to check eligibility criteria automatically&#x20;
 4. Craft each block of your G2P ecosystem per open [specifications](https://g2pconnect.cdpi.dev/g2p-connect/readme) to create a plug and play G2P architecture and vendor flexibility
 
@@ -46,18 +46,18 @@ d. **Single Sign On:** Allow people holding your ID to sign in to any other publ
 
 1. Create an optional issuance module of [Verifiable credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials) (eLockers) to encourage other departments (state, local, central) to issue their certificates as credentials (the decision to convert paper-based docs into verifiable credentials remains with individual departments)&#x20;
 2. Encourage [eAuth/eKYC/eSign capabilities](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/capabilities-on-id-system) for service delivery on existing functional IDs
-3. Publish an open API policy to encourage individual departments’ API publication for various services (like tax filing, beneficiary enrollment, etc.) openly available. This can be integrated into the workflows of other applications for maximum utilization
+3. Publish an open API policy to encourage individual departments’ API publication for various services (like tax filing, beneficiary enrolment, etc.) openly available. This can be integrated into the workflows of other applications for maximum utilisation
 4. Open API for Govt Services: Encourage government departments to move from single-window portals to open up their APIs to enhanced user experience and service delivery
-5. Publish electronic standard for [consent](https://docs.cdpi.dev/technical-notes/electronic-signature-pki-and-trust-infra/econsent) to share data (to be used across domains)
+5. Publish electronic standard for [consent](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/econsent) to share data (to be used across domains)
 
 <mark style="background-color:blue;">**Finance Ministry:**</mark>&#x20;
 
 1. Create an [Open Banking](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra) ([data sharing](https://sahamati.org.in/what-is-account-aggregator/) + payments) framework to allow individuals to share their data to get access to services (without systemic risks)
-2. Encourage government departments to use an [ID to Account mapper](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture) for disbursal of government benefits
+2. Encourage government departments to use an [ID Account Mapper](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture) for disbursal of government benefits
 
 <mark style="background-color:blue;">**Commerce/Digital Economy Ministry:**</mark>
 
-1. Commerce: [Open discovery and fulfilment of services](https://docs.cdpi.dev/technical-notes/discovery-and-fulfillment-networks) to increase overall accessibility in sectors like digital commerce, mobility, logistics, and manufacturing. Allows any party to use any app to discover and avail any service available on any platform
+1. Commerce: [Open discovery and fulfilment of services](https://docs.cdpi.dev/technical-notes/digital-payment-networks/discovery-and-fulfillment-networks) to increase overall accessibility in sectors like digital commerce, mobility, logistics, and manufacturing. Allows any party to use any app to discover and avail any service available on any platform
 
 <mark style="background-color:blue;">**Tax Authority:**</mark>&#x20;
 
@@ -77,10 +77,10 @@ d. **Single Sign On:** Allow people holding your ID to sign in to any other publ
 2. Open APIs for assisted case filing and online tracking of cases&#x20;
 3. Anonymised access to legal counsel through interoperable apps and tele-law
 
-[<mark style="background-color:blue;">**Agriculture Ministry (click here)**</mark>](../initiatives/agri-connect-forthcoming.md) &#x20;
+<mark style="background-color:blue;">**Agriculture Ministry:**</mark>
 
 1. Registries&#x20;
-2. Open networks for discovery and fulfillment (of produces, idle capacity like machinery, land, energy sources)
+2. Open networks for discovery and fulfilment (of produces, idle capacity like machinery, land, energy sources)
 
 <mark style="background-color:blue;">**Private Bank/ Public sector banks:**</mark>
 

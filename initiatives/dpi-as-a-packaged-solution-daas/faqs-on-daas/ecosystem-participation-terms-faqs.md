@@ -29,9 +29,9 @@ A. The 'contract' in this case is a multi-party contract termed as Ecosystem Par
 
 A. The EPT comes into force only for the DPG and SP chosen for a particular implementation post the signing of the country scope document.&#x20;
 
-<mark style="background-color:purple;">Q. Why does the MOU restrict Service Providers from using code under their own IP that is not available through open source?</mark>&#x20;
+<mark style="background-color:purple;">Q. Why do the Ecosystem Participation Terms (EPT) restrict Service Providers from using code under their own IP that is not available through open source?</mark>&#x20;
 
-A. The principle behind DaaS is standardisation and productization. This means that all the products available through the DaaS program must be exactly replicable and rapidly executable for multiple countries; hence it involves standard legal frameworks, product kits, funding amounts, etc. If a service provider brings in their own proprietary code or IP into the execution cycle, multiple scenarios separate from the best practices of DaaS may play out:&#x20;
+A. The principle behind DaaS is standardisation and productisation. This means that all the products available through the DaaS program must be exactly replicable and rapidly executable for multiple countries; hence it involves standard legal frameworks, product kits, funding amounts, etc. If a service provider brings in their own proprietary code or IP into the execution cycle, multiple scenarios separate from the best practices of DaaS may play out:&#x20;
 
 1. The country may get locked-in to that particular service provider since a new vendor will not have access to that code or IP.
 2. It will prevent the country or DPG from switching service providers mid-way in case of any contingency.

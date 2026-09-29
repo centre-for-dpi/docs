@@ -1,10 +1,10 @@
 # Implementation Patterns
 
-#### Multi-Cloud Deployment Strategies
+### Multi-Cloud Deployment Strategies
 
 Several architectural patterns support cloud-agnostic deployment:
 
-**Active-Active Multi-Cloud**: Services deployed simultaneously across multiple providers, with traffic distributed based on performance, cost, or policy requirements. This approach maximizes resilience but increases operational complexity.
+**Active-Active Multi-Cloud**: Services deployed simultaneously across multiple providers, with traffic distributed based on performance, cost, or policy requirements. This approach maximises resilience but increases operational complexity.
 
 **Primary-Secondary Configuration**: One provider hosts primary workloads while others maintain hot or warm standby capacity. This balances operational simplicity with migration readiness.
 
@@ -12,7 +12,7 @@ Several architectural patterns support cloud-agnostic deployment:
 
 **Development-Production Separation**: Development and testing environments on different infrastructure than production, providing practical experience with migration while limiting production risk.
 
-#### Abstraction Layer Design
+### Abstraction Layer Design
 
 Successful cloud-agnostic architecture requires well-designed abstraction layers:
 

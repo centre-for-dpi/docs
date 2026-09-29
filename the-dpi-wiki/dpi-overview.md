@@ -12,9 +12,7 @@ So looking ahead, how can countries take a similar **approach** to catalyse incl
 
 The DPI approach is about moving from platforms to open networks powered by protocols. We think there are three (3) **foundational categories** that make up **21st-century digital public infrastructure:**
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-19 at 2.30.42 PM.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-19 at 2.30.42 PM.png" alt="Three elements of Digital Public Infrastructure that drive growth across sectors: Identities &#x26; Trust Infra (authenticating any noun in a digital ecosystem and building trust through signatures and consent); Data Sharing &#x26; Credentials (sharing personal and public data in real time or asynchronously, peer to peer or publicly); Payments &#x26; Transaction Networks (making financial or any peer-to-peer transactions, such as energy, commerce and mobility, with ease)."><figcaption></figcaption></figure>
 
 This is not an exhaustive list! These blocks are necessary but not sufficient to achieve a thriving digital economy. It is also important to note that the blocks can only be considered as DPI if they are built in accordance with the [technical architecture principles](dpi-tech-architecture-principles/). A data sharing system that is not interoperable, or a digital ID that is not minimalist or reusable, cannot be considered as digital public infrastructure.
 
@@ -40,7 +38,7 @@ Transaction Networks allow any product or service to be discovered and fulfilled
 
 Many different building blocks in each of these categories can drive exponential outcomes **within and across** various sectors.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-19 at 2.39.16 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-19 at 2.39.16 PM.png" alt="DPI building blocks grouped in three stacks. Identity &#x26; Trust Infrastructure: individual ID (authentication and eKYC), business/tax ID, health facility registry, public credit registry, eSign, PKI/digital signature, consent artefact. Data sharing &#x26; Credentials: open finance, health data sharing, eLocker, AI natural language models. Payments &#x26; Transaction Networks: P2P/P2M payments, G2P benefit transfers, bill payments protocols, electronic toll collection, eCommerce, mobility &#x26; transport, open tax filing APIs."><figcaption></figcaption></figure>
 
 ...by creating **ecosystems** that combine:&#x20;
 
@@ -48,7 +46,7 @@ Many different building blocks in each of these categories can drive exponential
 2. supplemented by **governance** frameworks that are transparent, accountable, participatory;&#x20;
 3. and robust public and private **market** innovation.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-19 at 2.43.07 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-19 at 2.43.07 PM.png" alt="The DPI approach works by using open tech standards and enabling policy to bring the best out of free markets. Three layers: Market (public and private innovation; competitive market players designing diverse solutions); Governance (legal and institutional framework, public programmes to drive adoption, ecosystem facilitation, participatory governance); Open Tech Standards &#x26; Building Blocks (open specifications and protocols). If it cannot be reused by others, it is not DPI."><figcaption></figcaption></figure>
 
 We've also thought through some [implementation/execution guidance](dpi-implementation-and-execution-guidance.md) that we hope is helpful to translate DPI theory into practice!&#x20;
 

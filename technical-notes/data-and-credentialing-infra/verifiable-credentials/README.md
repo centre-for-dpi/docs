@@ -6,7 +6,7 @@ Governments interact with the individuals in their country for various purposes,
 
 The foundation for any of these processes is to establish the attributes of the individual by verifying documents to determine their eligibility for services or benefits.
 
-In the current scenario, both sectors (public and private) invest considerable amounts of effort in verifying the authenticity of the individual’s data, with no guarantee of success. Mistakes can be costly, with large sums of money and opportunities not reaching the intended people. They can also be dangerous, with unverified individuals gaining unauthorized access to sensitive systems and processes.
+In the current scenario, both sectors (public and private) invest considerable amounts of effort in verifying the authenticity of the individual’s data, with no guarantee of success. Mistakes can be costly, with large sums of money and opportunities not reaching the intended people. They can also be dangerous, with unverified individuals gaining unauthorised access to sensitive systems and processes.
 
 Digitally verifiable credentials, a simple, marginal improvement to existing systems, built using a Digital Public Infrastructure approach can solve this problem at scale.
 
@@ -24,9 +24,9 @@ In this method, no centralisation is required. It allows various departments to 
 
 The application programming interfaces (APIs) of different issuing authorities are opened to enable a real-time data fetch between systems. Data is fetched (but not stored) based on API calls made from one system to another to validate a specific piece of data based on the individual’s consent. Any data-issuing authority and any data-consuming authority can connect to the same network by linking their APIs and completing their own verification according to national guidelines.
 
-Data should only be verified with the individual’s consent. As with all DPI, the individual must be at the center of the infrastructure.
+Data should only be verified with the individual’s consent. As with all DPI, the individual must be at the centre of the infrastructure.
 
-An individual can specify the data he wants verified, the party he wants to share it with, and for how long. The consent is granular, purpose-specific (e.g., for a loan or benefit), simple to understand, and revocable.&#x20;
+An individual can specify the data they want verified, the party they want to share it with, and for how long. The consent is granular, purpose-specific (e.g., for a loan or benefit), simple to understand, and revocable.&#x20;
 
 There can be three broad modes of data sharing:&#x20;
 
@@ -34,7 +34,7 @@ There can be three broad modes of data sharing:&#x20;
 
 a) Wallets: In digital wallets, users can provide their consent to fetch their digitally signed documents from various entities. These documents are securely stored on the user’s dashboard and shared as needed. This empowers individuals by giving them control over all their verified credentials.
 
-b) e-Lockers: In this model, the documents are not stored on any dashboard. Instead, when the user provides consent, these documents can be fetched from the provider and displayed to the user or the data consumer he provides his consent to. These e-Lockers are managed by one or more entities in the country and allow federation of verifiable credentials.&#x20;
+b) e-Lockers: In this model, the documents are not stored on any dashboard. Instead, when the user provides consent, these documents can be fetched from the provider and displayed to the user or the data consumer they provide their consent to. These e-Lockers are managed by one or more entities in the country and allow federation of verifiable credentials.&#x20;
 
 2. Consent and data are shared separately and managed through different entities: In this model, the consent is managed through a third-party intermediary known as a consent manager. These entities obtain user consent as per the consent artefact specified and communicate this to data providers, who then separately share the data with data consumers. Examples include, the Account Aggregator ecosystem in India.&#x20;
 3. Consent is managed through the data provider: In this model, data is shared between two entities such as two government departments, without the individual being directly involved (though ultimately for the individual’s benefit). Consent is provided by the data provider itself at the time of sharing the data.                      &#x20;
@@ -70,5 +70,5 @@ It is only when we can reliably identify each individual that we can effectively
 
 ## Technical Notes
 
-1. [DIDs & PKI in Verifiable Credentials](https://docs.google.com/document/d/1CWG0lScTDpLqCnKQE0_AWM23OniNFRq4P-Gx6W0pDyE/edit?usp=sharing)
-2. [Trust Model Mapping - PKI & Decentralised Trust](https://docs.google.com/document/d/1kqIs3KScMTxtChaSCf4kfPIj1R34-iMlG9gm6F3Qf-k/edit?usp=sharing)
+1. [DIDs & PKI in Verifiable Credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials/dids-and-pki-in-verifiable-credentials)
+2. [Trust Model Mapping - PKI & Decentralised Trust](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/executing-a-decentralised-trust-model)

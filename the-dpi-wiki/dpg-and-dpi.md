@@ -10,13 +10,13 @@ Digital Public Goods (DPG) and Digital Public Infrastructure (DPI) are two disti
 
 As described in the [UN Secretary General’s Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf), digital public goods are:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 9.51.14 AM.png" alt=""><figcaption><p>For more information on DPGs, please visit <a href="https://digitalpublicgoods.net/standard/">https://digitalpublicgoods.net/standard/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 9.51.14 AM.png" alt="Defining Digital Public Goods: open-source software, open standards, open data, open AI systems, and open content collections that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the Sustainable Development Goals (SDGs)."><figcaption><p>For more information on DPGs, please visit <a href="https://digitalpublicgoods.net/standard/">https://digitalpublicgoods.net/standard/</a></p></figcaption></figure>
 
 However, not all Digital Public Goods can be used as building blocks for DPI.&#x20;
 
 DPI can be built through open-source or private solutions, as long as they adhere to open specifications, generate network effects, and trigger both public and private innovation.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 10.00.06 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 10.00.06 AM.png" alt="DPGs in the context of DPI: a set of well designed assets or resources, in the form of specifications, software, data or content, made freely available, with its own lifecycle and governance, allowing others to build and operate their own DPIs."><figcaption></figcaption></figure>
 
 DPGs having their own lifecycle and governance means that DPGs are set up by independent institutions that can predate or outlast country-specific DPI. They have their own governing bodies and mechanisms to update their infrastructure outside the country’s context. &#x20;
 

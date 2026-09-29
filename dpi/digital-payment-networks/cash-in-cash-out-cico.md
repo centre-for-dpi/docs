@@ -18,7 +18,7 @@ The cash-in, cash-out DPI helps solve the challenge of last-mile access to forma
 
 The cash-in cash-out system equips selected human beings to function as ‘micro-ATMs’. This means that they travel to remote areas of the country where individuals can conduct transactions through their bank accounts using the person as a ‘micro-ATM’. The individuals get immediate access to their money while remaining in the formal financial system.&#x20;
 
-Cash-In: This process involves securely transferring benefits to end beneficiaries by removing intermediaries and removing friction and costs.
+Cash-In: This process lets a person deposit physical cash at an agent point and receive the same value in their bank or mobile money account, so cash can enter the digital payment system with less friction and cost.
 
 Cash-Out: This process provides access to physical cash at the last mile, enabling the use of direct cash benefits payouts.
 

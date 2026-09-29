@@ -4,10 +4,6 @@
 
 Convert any database into a trusted, reusable reference like health workers registry, farming land registry, skills registry, and many more.
 
-{% embed url="https://drive.google.com/file/d/18LJKI3xMtoPKKdj3Ra5hElwuAssajs8T/view?usp=drive_link" %}
-A brief explainer on registries
-{% endembed %}
-
 ### Why Functional Registries?
 
 {% tabs %}

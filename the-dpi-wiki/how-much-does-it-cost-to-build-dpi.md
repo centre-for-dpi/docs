@@ -25,7 +25,7 @@ The costs associated with both these approaches can vary significantly
 
 1. <mark style="background-color:purple;">Greenfield systems from scratch</mark>
 
-The cost of building a national ID enrollment or registration and database management infrastructure, for example, under the first approach would be a multi-million dollar investment plus some fixed costs of maintaining the system.
+The cost of building a national ID enrolment or registration and database management infrastructure, for example, under the first approach would be a multi-million dollar investment plus some fixed costs of maintaining the system.
 
 Similarly, the startup cost to build a P2P / P2M payment system from scratch would typically be less than 7 million (plus maintenance costs annually), requiring investments from a consortium of banks if a payment switch operator is driving it (or by the central bank if they choose to operate it themselves). These costs typically have an extremely high RoI as mature payments systems move billions of dollars in commerce monthly/annually.
 
@@ -35,7 +35,7 @@ Yet most countries aren’t starting from scratch. Improvements to existing fast
 
 Countries often already have some type of physical or digital infrastructure in place and hence fall under the second category for most DPI implementations.
 
-Based on our costing model, “Conversion” DPI building blocks such as verifiable credentials (data sharing), ID auth / eSign / eKYC (layers on top of ID), G2P mapper (payments / social benefit delivery) would **typically require around $750k +/- 15%** (depending on the country context) over six months to roll out a high value and reusable DPI at scale when built on existing systems.
+Based on our costing model, “Conversion” DPI building blocks such as verifiable credentials (data sharing), ID auth / eSign / eKYC (layers on top of ID), ID Account Mapper (payments / social benefit delivery) would **typically require around $750k +/- 15%** (depending on the country context) over six months to roll out a high value and reusable DPI at scale when built on existing systems.
 
 Extending or deepening the implementation to add additional use cases over a 12 month period (illustrating the multi-domain impact of DPI) **could cost around $1.3 Million (+/- 15%)** in total. The costs of augmenting national P2P/P2M payment systems varies more based on the scope/capabilities of the existing system.
 

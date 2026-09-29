@@ -24,4 +24,4 @@ Any ID-based SSO should provide multiple authentication methods, including OTP-b
 
 **References:**
 
-1. [https://docs.mosip.io/1.2.0/integrations/e-signet](https://docs.mosip.io/1.2.0/integrations/e-signet)
+1. [https://docs.esignet.io](https://docs.esignet.io)

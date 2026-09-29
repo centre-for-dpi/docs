@@ -6,7 +6,7 @@ Verifying the identity of a user (also called authentication) before any transac
 
 The most powerful application/ addition of any identifier is to use it for electronic authentication across a digital economy by both public and private entities. This can be done by building a digital authentication layer on top of the ID system, enabling people to prove their identities online or offline.&#x20;
 
-**ID authentication** is the process by which an ID number or a tokenized version of the ID, combined with one or more authentication factors, is used to verify a citizen's identity.  The ID system can be queried to provide a binary **(Yes/ No) response to the question: “Are you who you claim to be?”**
+**ID authentication** is the process by which an ID number or a tokenised version of the ID, combined with one or more authentication factors, is used to verify a citizen's identity.  The ID system can be queried to provide a binary **(Yes/ No) response to the question: “Are you who you claim to be?”**
 
 There are a few key modes of authentication:
 
@@ -36,7 +36,7 @@ Building this authentication layer on ID and opening it to licensed private and 
 
 ### Probable challenges & workarounds:
 
-1. **Hard Infrastructure, Connectivity, and Coverage**: Procurement of any specialized hardware for authentication can become prohibitively expensive at a national scale. This and accessibility constraints, can impede the delivery of services in rural and remote areas.&#x20;
+1. **Hard Infrastructure, Connectivity, and Coverage**: Procurement of any specialised hardware for authentication can become prohibitively expensive at a national scale. This and accessibility constraints, can impede the delivery of services in rural and remote areas.&#x20;
 
 * Offering offline, mobile-first authentication can eliminate the need for smaller-scale verifiers to procure expensive hardware such as smartcard readers or biometric scanners.&#x20;
 * Governments can address this by allowing private players to become e-authentication service providers after adequate training and certification. Opting to publish all the hardware standards brings market forces into play, resulting in competitive prices for everyone.
@@ -57,7 +57,7 @@ The digital ID serves as a key to a broad spectrum of services, encompassing fin
 
 &#x20;       \-   Health insurance coverage&#x20;
 
-&#x20;        \- Enrollment in scholarship programs&#x20;
+&#x20;        \- Enrolment in scholarship programs&#x20;
 
 &#x20;        \- Subsidy distribution
 
@@ -68,5 +68,5 @@ The digital ID serves as a key to a broad spectrum of services, encompassing fin
 
 **References:**
 
-1. [https://docs.mosip.io/1.2.0/modules/id-authentication-services](https://docs.mosip.io/1.2.0/modules/id-authentication-services)
+1. [https://docs.mosip.io/1.2.0/id-lifecycle-management/identity-verification/id-authentication-services](https://docs.mosip.io/1.2.0/id-lifecycle-management/identity-verification/id-authentication-services)
 2. [https://govstack.gitbook.io/bb-identity/3-terminology](https://govstack.gitbook.io/bb-identity/3-terminology)

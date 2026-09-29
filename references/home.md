@@ -10,7 +10,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 **Note:**
 
-1. This is a draft and all stakeholders in DPI space can share their comments.
+1. This is a living list. All stakeholders in the DPI space are welcome to share comments.
 2. Reference implementations listed here are provided as per the claim of implementing organisations. CDPI has not verified these claims.
 3. Countries are advised to independently verify at the time of the adoption.
 
@@ -38,7 +38,7 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 ### 4.1 G2P, P2P & P2M Payments
 
 1. G2P Connect - [docs](https://g2pconnect.cdpi.dev/g2p-connect/readme) | [specs](https://g2p-connect.github.io/specs/)
-2. P2P / P2M - Unified Payments Interface Protocol (forthcoming)
+2. P2P / P2M - Unified Payments Interface (UPI), NPCI - [docs](https://www.npci.org.in/what-we-do/upi/product-overview)
 3. UK Open Banking Payments - [specs](https://standards.openbanking.org.uk/api-specifications/)
 4. ISO 20022 messaging standards [docs](https://www.iso20022.org/iso-20022-message-definitions?business-domain=1) | specs
 
@@ -53,14 +53,14 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 ### 5.1 Verifiable Credentials Issuance
 
 1. W3C compliant issuance [standard](https://www.w3.org/TR/vc-data-model/) | implementation [guide](https://www.w3.org/TR/vc-imp-guide/) | draft issuance api [specs](https://w3c-ccg.github.io/vc-api/)
-2. ISO/MDL
+2. ISO/IEC 18013-5 mobile driving licence (mDL/mdoc) - [standard](https://www.iso.org/standard/69084.html)
 3. G2P Connect issuance [docs](https://g2pconnect.cdpi.dev/protocol/interfaces/credentialing) | specs
 
 #### **5.1.1 Reference Specs/Implementations:**
 
 1. Sunbird VC issuance [docs](https://docs.sunbirdrc.dev/learn/readme) | [specs](https://github.com/Sunbird-RC/sunbird-rc-core/tree/main/api-documentation)
-2. Inji by MOSIP [docs](https://docs.mosip.io/inji/) | specs
-3. CREDEBL (Self-Sovereign Identity (SSI) & Verifiable Credentials (VCs))  [docs](https://docs.credebl.id/en/intro/what-is-credebl/) | [specs](https://github.com/credebl)
+2. Inji by MOSIP [docs](https://docs.inji.io) | specs
+3. CREDEBL (Self-Sovereign Identity (SSI) & Verifiable Credentials (VCs))  [docs](https://docs.credebl.id/docs) | [specs](https://github.com/credebl)
 
 ### 5.2 Verifiable Credentials - Presentation
 

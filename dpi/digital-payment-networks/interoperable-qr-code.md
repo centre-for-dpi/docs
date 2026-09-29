@@ -57,7 +57,7 @@ Additionally, the experience layer at both the merchant and customer levels can 
 
 Interoperable QR code specification to Scan & Pay, Click & Pay and to Deep Link between apps, and to enable easy one-click and authorise one-time or recurring payment.
 
-**Specification:** [link](https://centre-for-dpi.github.io/docs/qr_code.html) | [source](../../technical-specs/payments/src/qr_code.yaml)
+**Specification:** [link](https://centre-for-dpi.github.io/docs/qr_code.html) | [source](https://github.com/centre-for-dpi/docs/blob/main/technical-specs/payments/src/qr_code.yaml)
 
 **Discussions**:  [link](https://github.com/orgs/centre-for-dpi/discussions)&#x20;
 {% endtab %}
@@ -66,7 +66,7 @@ Interoperable QR code specification to Scan & Pay, Click & Pay and to Deep Link 
 {% code title="qr_code_sample.json" overflow="wrap" lineNumbers="true" fullWidth="true" %}
 ```json
 {
-  "version": "1.0.0",
+  "version": "0.8.2",
   "payee_fa": "joeuser@national-bank",
   "payee_name": "Printing & Stationeries Co",
   "amount": "138.50",
@@ -78,7 +78,7 @@ Interoperable QR code specification to Scan & Pay, Click & Pay and to Deep Link 
   "currency": "ZAR",
   "mid": "M-12345",
   "pos_id": "POS-123",
-  "expiry": "20230605T101225+5:30",
+  "expiry": "20230605T101225+05:30",
   "order_id": "2023/123456",
   "ref_url": "https://printing.co/orderId=2023/123456",
   "additional_data": {
@@ -100,7 +100,7 @@ QR code content can also be represented in URL representation to enable single Q
 It is recommended to represent the JSON QR code spec in URL-encoded format. URL encoding shall ensure to accommodate JSON nested attributes in string representation for transmission via URL.
 
 ```
-xxx://pay?%7B%0A%20%20%22version%22%3A%20%221.0.0%22%2C%0A%20%20%22payee_fa%22%3A%20%22joeuser%40national-bank%22%2C%0A%20%20%22payee_name%22%3A%20%22Printing%20%26%20Stationeries%20Co%22%2C%0A%20%20%22amount%22%3A%20%22138.50%22%2C%0A%20%20%22amount_split%22%3A%20%7B%0A%20%20%20%20%22sale%22%3A%20%22117.37%22%2C%0A%20%20%20%20%22igst%22%3A%20%2221.13%22%0A%20%20%7D%2C%0A%20%20%22init_mode%22%3A%20%22POS%22%2C%0A%20%20%22currency%22%3A%20%22ZAR%22%2C%0A%20%20%22mid%22%3A%20%22M-12345%22%2C%0A%20%20%22pos_id%22%3A%20%22POS-123%22%2C%0A%20%20%22expiry%22%3A%20%2220230605T101225%2B5%3A30%22%2C%0A%20%20%22order_id%22%3A%20%222023%2F123456%22%2C%0A%20%20%22ref_url%22%3A%20%22https%3A%2F%2Fprinting.co%2ForderId%3D2023%2F123456%22%2C%0A%20%20%22additional_data%22%3A%20%7B%0A%20%20%20%20%22bill_number%22%3A%20%22123%22%2C%0A%20%20%20%20%22reference_no%22%3A%20%22PO123%22%2C%0A%20%20%20%20%22key1%22%3A%20%22value1%22%0A%20%20%7D%2C%0A%20%20%22sign%22%3A%20%22%22%0A%7D
+xxx://pay?%7B%0A%20%20%22version%22%3A%20%220.8.2%22%2C%0A%20%20%22payee_fa%22%3A%20%22joeuser%40national-bank%22%2C%0A%20%20%22payee_name%22%3A%20%22Printing%20%26%20Stationeries%20Co%22%2C%0A%20%20%22amount%22%3A%20%22138.50%22%2C%0A%20%20%22amount_split%22%3A%20%7B%0A%20%20%20%20%22sale%22%3A%20%22117.37%22%2C%0A%20%20%20%20%22igst%22%3A%20%2221.13%22%0A%20%20%7D%2C%0A%20%20%22init_mode%22%3A%20%22POS%22%2C%0A%20%20%22currency%22%3A%20%22ZAR%22%2C%0A%20%20%22mid%22%3A%20%22M-12345%22%2C%0A%20%20%22pos_id%22%3A%20%22POS-123%22%2C%0A%20%20%22expiry%22%3A%20%2220230605T101225%2B05%3A30%22%2C%0A%20%20%22order_id%22%3A%20%222023%2F123456%22%2C%0A%20%20%22ref_url%22%3A%20%22https%3A%2F%2Fprinting.co%2ForderId%3D2023%2F123456%22%2C%0A%20%20%22additional_data%22%3A%20%7B%0A%20%20%20%20%22bill_number%22%3A%20%22123%22%2C%0A%20%20%20%20%22reference_no%22%3A%20%22PO123%22%2C%0A%20%20%20%20%22key1%22%3A%20%22value1%22%0A%20%20%7D%2C%0A%20%20%22sign%22%3A%20%22%22%0A%7D
 
 ```
 
@@ -135,8 +135,7 @@ Below is a typical flow to make initiate merchant-based QR code based payments:
 
 1. [Interactive closed-door discussion](https://www.youtube.com/watch?v=tIZGplZjGDI) on Scaling Inclusive Payments through Interoperable QR Codes with central bank officials of 30+ countries and speakers from Brazil, India, Philippines, and Nigeria.&#x20;
 2. [Presentation Deck](https://docs.google.com/presentation/d/1xeVsXxTwhaW8SjSxHg9HddoprGDpD5sZlVKeWimT0NY/edit?usp=sharing) summarising the need, benefits, and specifications of interoperable QR codes in a simple, visually-appealing manner.&#x20;
-3. QR Code printing specifications <**coming soon>**
-4. "[The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR_Codes_in_Payments_Final.pdf)", Part of World Bank Fast Payments Toolkit, Sep 2021
+3. "[The use of quick-response codes in payments](https://fastpayments.worldbank.org/sites/default/files/2021-10/QR_Codes_in_Payments_Final.pdf)", Part of World Bank Fast Payments Toolkit, Sep 2021
 
 ## Attributions
 

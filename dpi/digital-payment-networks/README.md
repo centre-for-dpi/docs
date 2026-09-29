@@ -2,7 +2,7 @@
 description: P2P, P2M, B2B, G2P, and P2G.
 ---
 
-# 💸 Payments
+# 💸 Payments & Transaction Networks
 
 Payments are the lifeblood of an economy. Without frictionless and low-cost digital payments, commerce is bottlenecked. When payments are largely cash-based without viable digital alternatives,
 
@@ -17,9 +17,9 @@ Specifically, we explore 5 powerful payments interventions to trigger a DPI tran
 
 1. [Interoperable QR Code (P2P/P2M Payments)](interoperable-qr-code.md)
 2. [Interoperable Authentication (P2P/P2M Payments)](interoperable-authentication-p2p-p2m.md)
-3. [Financial Address Mapper](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture) (G2P Social Benefit/Cash transfer Payments)&#x20;
+3. [ID Account Mapper](https://docs.cdpi.dev/technical-notes/digital-payment-networks/financial-address) (G2P Social Benefit/Cash transfer Payments) - see also [G2P Payments](https://docs.cdpi.dev/technical-notes/digital-payment-networks/g2p-payments)
 4. [Cash in Cash Out (CiCO)](cash-in-cash-out-cico.md) for Interoperable Agents in Cash Withdrawal
-5. Interoperable Bill Payments Protocol
+5. [Interoperable Bill Payments Protocol](https://docs.cdpi.dev/technical-notes/digital-payment-networks/interoperable-bill-payments)
 
 All types of transactions, whether between people, businesses, and/or government, can be powered by the same protocol that enables interoperable payments! The protocol is agnostic to payment device, currency, type of transaction, etc.
 

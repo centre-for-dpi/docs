@@ -2,7 +2,7 @@
 description: Who is the counterparty? Can I trust them?
 ---
 
-# 🆔 Identifiers & Registries
+# 🆔 Identity & Trust Infrastructure
 
 Verifying identity and accessing profile data of people, entities, and objects is a crucial foundational function of digital economies. When moving from physical to digital interactions, the first complication is establishing trust as to the identity of the counterparty. It is crucial that this identity is verifiable: that is, can be authenticated in some means (a mobile one time password, a digitally signed QR code, a biometric fingerprint scan, or even a face ID authentication).&#x20;
 
@@ -14,9 +14,9 @@ An identity system is a registry of persons. Countries also need foundational re
 
 Key examples of building blocks in this category of DPIs include:&#x20;
 
-* Authentication (mobile, offline QR code-based, biometric, facial, etc.)
-* eKYC
-* Single Sign-On
-* Civil/Functional Registries
-* Entity Registries
-* Object Registries (land, etc.)
+* [Authentication](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/id-auth) (mobile, [offline QR code-based](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/qr-code-for-offline-id), biometric, [facial](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/face-authentication), etc.)
+* [eKYC](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/ekyc-identity-profile-sharing)
+* [Single Sign-On](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/single-sign-on-sso)
+* Civil/Functional Registries (see [Functional Registries](https://docs.cdpi.dev/initiatives/dpi-as-a-packaged-solution-daas/upcoming-daas-cohorts/functional-registries))
+* Entity Registries (no dedicated note yet)
+* Object Registries such as land (no dedicated note yet)

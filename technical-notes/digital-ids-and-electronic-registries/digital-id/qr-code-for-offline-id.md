@@ -9,7 +9,7 @@ description: Best practices design and implementation guide
 QR codes are ubiquitous technologies that bridge the physical and digital worlds. QR codes also help users with minimal or no digital literacy to safely navigate digital transactions such as payments, enrolling into social programs, proving credentials (such as driver’s licenses, university degrees, or employment credentials), sharing resources (photos, documents, contacts), tracking ecommerce orders and shipments, etc
 
 {% hint style="info" %}
-One of the primary challenges in QR code use is optimizing the payload size to ensure efficient scanning and decoding. For online use cases, URLs with reference codes that redirect to an online service to complete the transaction work well.
+One of the primary challenges in QR code use is optimising the payload size to ensure efficient scanning and decoding. For online use cases, URLs with reference codes that redirect to an online service to complete the transaction work well.
 {% endhint %}
 
 This note calls out design and implementation best practices in identity and credential domain for **offline use of QR.** These principles are also applicable to other domains.
@@ -49,4 +49,4 @@ In addition to above technical recommendations, QR code should be popularised th
 
 ## References
 
-1. QR code specifications to encode foundational ID attributes [CBOR tag 169](https://docs.mosip.io/1.2.0/overview/standards-and-specifications/169-qr-code-specification)&#x20;
+1. QR code specifications to encode foundational ID attributes [CBOR tag 169](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specification)&#x20;

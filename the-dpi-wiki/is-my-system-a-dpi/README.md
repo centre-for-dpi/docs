@@ -9,7 +9,7 @@ Before diving in, let's recap a few key points:
 * Open source does not automatically mean DPI, nor do DPI implementations need to rely solely on open-source solutions.
 * DPI implementations must use open APIs, open standards, and open specifications to achieve interoperability and reusability.&#x20;
 * All DPI implementations are designed to be reusable by third-party public and private institutions, and not just beneficial to the implementing institution.
-* Every DPI implementation must adhere to and internalise five key  [technical design](https://docs.cdpi.dev/the-dpi-wikipedia/dpi-tech-architecture-principles) principles.
+* Every DPI implementation must adhere to and internalise five key  [technical design](https://docs.cdpi.dev/the-dpi-wiki/dpi-tech-architecture-principles) principles.
 
 <figure><img src="../../.gitbook/assets/DPI Thinking Extended- CDPI (Root Deck) (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -24,9 +24,9 @@ _That said, below are some key technical features that can help move certain key
 
 Additionally, more mature ID systems should enable the following capabilities:
 
-* [**eKYC**](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/ekyc-identity-profile-sharing) (**API-based profile data sharing** based on a successful authentication for ease of onto external public or private services)&#x20;
+* [**eKYC**](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/ekyc-identity-profile-sharing) (**API-based profile data sharing** based on a successful authentication for ease of onboarding onto external public or private services)&#x20;
 * [**Single Sign-On**](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/single-sign-on-sso) (enabling login to other public or private goods and services with the ID)
-* [**e-signing**](https://docs.cdpi.dev/technical-notes/electronic-signature-pki-and-trust-infra/esign) (replacing a wet signature with an ID-enabled electronic signature), which all help trigger a high-trust digital economy)
+* [**e-signing**](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/esign) (replacing a wet signature with an ID-enabled electronic signature), which all help trigger a high-trust digital economy)
 
 2. <mark style="background-color:purple;">**Registries Containing Personal Data:**</mark>
 
@@ -40,7 +40,7 @@ A registry implementation can be considered a DPI if it stores **data**&#x20;
 
 a. The first and simplest way to enable data sharing using registries is to generate [verifiable credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials) for the holder as a natural exhaust for the stored data.
 
-b. Registries operating as mature DPI can also enable **access system-to-system directly via open APIs.** These open API standards can come from self-defined national standards or derived from well-accepted open specifications like the [G2P Connect/ DCI](https://g2pconnect.cdpi.dev/protocol/interfaces/registries) APIs.
+b. Registries operating as mature DPI can also enable **access system-to-system directly via open APIs.** These open API standards can come from self-defined national standards or derived from well-accepted open specifications like the [G2P Connect](https://g2pconnect.cdpi.dev/protocol/interfaces/registries) APIs.
 
 3. <mark style="background-color:purple;">**Digital Payments Infrastructure:**</mark>
 
@@ -67,10 +67,10 @@ Government-to-Person (G2P) benefits is a complex ecosystem with many modules, in
 The presence of a digitised G2P infrastructure <mark style="color:red;">**does not**</mark> automatically imply a DPI implementation. Some modules, such as beneficiary scheme management, are simply digital solutions.
 {% endhint %}
 
-G2P systems can operate as DPI by **utilizing reusable infrastructure, such as** [**registries**](https://g2pconnect.cdpi.dev/protocol/interfaces/registries)**, an** [**ID-Account mapper**](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture)**, and** [**cash-in/cash-out standards**](https://docs.cdpi.dev/technical-notes/digital-payment-networks/cash-in-cash-out-cico)**.**
+G2P systems can operate as DPI by **utilising reusable infrastructure, such as** [**registries**](https://g2pconnect.cdpi.dev/protocol/interfaces/registries)**, an** [**ID Account Mapper**](https://g2pconnect.cdpi.dev/protocol/interfaces/beneficiary-management/mapper-architecture)**, and** [**cash-in/cash-out standards**](https://docs.cdpi.dev/technical-notes/digital-payment-networks/cash-in-cash-out-cico)**.**
 
 * Collected **beneficiary data** can be **converted into a registry for reuse** by other departments (see #2 on registries).
-* An **ID-Account mapper** (a four-field registry mapping a verifiable ID or phone number to an account number) can be used to **route payments without repetition.**&#x20;
+* An **ID Account Mapper** (a four-field registry mapping a verifiable ID or phone number to an account number) can be used to **route payments without repetition.**&#x20;
 
 4. <mark style="background-color:purple;">**Data sharing infrastructure - Personal :**</mark>
 

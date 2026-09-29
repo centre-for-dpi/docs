@@ -8,11 +8,11 @@ With a small number of participants, trust can be handled by knowledge-based con
 
 In an ecosystem at population scale covering  multiple ministries, agencies, financial institutions, educational institutions, wallet providers and independent verifier apps, operational questions start to arise. Which organisations are trusted, who decides that, how are participants onboarded, suspended or revoked, and how does an application discover trusted participants without someone hand-editing a config file every time a new issuer appears.&#x20;
 
-A CA hierarchy is one way to answer these questions in a structured way — but it answers a different question than the one that actually determines whether an ecosystem is centralized or decentralized. Identifiers and key pairs can come from a Certificate Authority, or be self-declared (DIDs); either works, and that choice alone doesn't decide the model.
+A CA hierarchy is one way to answer these questions in a structured way — but it answers a different question than the one that actually determines whether an ecosystem is centralised or decentralised. Identifiers and key pairs can come from a Certificate Authority, or be self-declared (DIDs); either works, and that choice alone doesn't decide the model.
 
 **Bottom line: a CA is not a prerequisite for verifiable credentials.** For most credential types, a trust registry over DIDs is sufficient on its own; a CA is a conditional add-on, not a default.
 
-**What determines centralization is how issuer authorization is distributed.** In a centralized model, the VC owner — the entity running the credentialing infrastructure — uses identifiers and key pairs (whether CA-issued or self-declared) to onboard issuers and decide what each can publish, but keeps that authorization internal to its own system. **In a decentralized approach that allows for a multi-wallet ecosystem, the VC owner does the same onboarding and authorization — but instead of keeping it internal, publishes issuer details and their permitted credentials in a trust registry.** This lets other wallets, including private-sector ones, discover issuers and what they're authorised to issue.
+**What determines centralisation is how issuer authorisation is distributed.** In a centralised model, the VC owner — the entity running the credentialing infrastructure — uses identifiers and key pairs (whether CA-issued or self-declared) to onboard issuers and decide what each can publish, but keeps that authorisation internal to its own system. **In a decentralised approach that allows for a multi-wallet ecosystem, the VC owner does the same onboarding and authorisation — but instead of keeping it internal, publishes issuer details and their permitted credentials in a trust registry.** This lets other wallets, including private-sector ones, discover issuers and what they're authorised to issue.
 
 The latter approach is built further below using the ETSI trusted lists approach.&#x20;
 
@@ -25,6 +25,10 @@ Q1. **How does one actually implement ETSI Trusted Lists** — using DeDi as the
 Q2. **What does a CA add** that this approach doesn't already give, on their own?
 
 Q3. How does one **move from this approach to a PKI/CA model** without redoing what's already built?
+
+Q4. What happens to credentials already issued, under self-declared keys or a CA-issued certificate, when the root of trust changes (for example, a key rotation)? Do they have to be reissued?
+
+Q5. Does going “decentralised” require the adoption of DeDi?
 
 ## ETSI Trusted Lists
 
@@ -81,7 +85,7 @@ Under eIDAS, qualified CAs (Qualified Trust Service Providers) don't replace the
 
 **No. Existing credentials keep verifying, and reissuance stays a per-issuer, lifecycle-driven event rather than something a root change forces**. This holds for both a CA migration and a routine key rotation, though rotation adds one detail worth spelling out.
 
-To start, it is necessary to clarify a distinction that often becomes obscured by how the question is framed. Within the framework of this discussion, the list-signing key functions as the pre-trusted anchor. There are three separate scenarios frequently categorized as a "root change," though they actually operate at distinct architectural levels:
+To start, it is necessary to clarify a distinction that often becomes obscured by how the question is framed. Within the framework of this discussion, the list-signing key functions as the pre-trusted anchor. There are three separate scenarios frequently categorised as a "root change," though they actually operate at distinct architectural levels:
 
 1. **Adding a CA.** Additive. Listed keys are untouched, verifiers don't change, and nothing is reissued.
 2. **An issuer rotating its own signing key.** This is a leaf event, not a root one. It changes one entry, not the pre-trusted anchor. The issuer's list entry is updated to carry the new key, and newly issued credentials are signed under it.
@@ -95,7 +99,7 @@ Bottom line: a key rotation at any level turns over keys, not credentials. The t
 
 ### Q5. Does going “decentralised” require the adoption of DeDi?
 
-**No. The same list can be published as signed XML or as a DeDi registry**, and its listed keys can come from DIDs or from a CA — independently of each other. DeDi, DIDs, and the trusted list are three separable choices, not a single bundled path, so "going decentralized" lets a jurisdiction pick what suits it on each axis.
+**No. The same list can be published as signed XML or as a DeDi registry**, and its listed keys can come from DIDs or from a CA — independently of each other. DeDi, DIDs, and the trusted list are three separable choices, not a single bundled path, so "going decentralised" lets a jurisdiction pick what suits it on each axis.
 
 ### References
 

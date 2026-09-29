@@ -11,6 +11,9 @@ Accelerate network effects to drive innovation and competition through technolog
 ## **Technical Tools&#x20;**_**(How to achieve it)**_&#x20;
 
 * [ ] Published protocols & standards and specifications for the ecosystem to adopt and comply with.
+* [ ] Open APIs that any public or private actor can connect to on equal terms.
+* [ ] Common identifiers and addressing formats (for example, financial addresses) so that data and payments can move across providers.
+* [ ] Conformance testing and certification, so that different implementations of a specification can be checked to work together.
 
 ## **Societal Outcomes&#x20;**_**(Why it matters)**_
 

@@ -77,7 +77,7 @@ Governments can consider the following indicative suggestions as an inspiration 
 
 1. The government should enable issuance and use of PKI certificates in accordance with globally accepted practices within the country.
 2. ID authority that owns and maintains a physical registry can consider digitising the data as is into a database.
-3. Any additional cleanup to improve the quality and standardization of data formats should be taken up during this phase.
+3. Any additional cleanup to improve the quality and standardisation of data formats should be taken up during this phase.
    1. A recent high-quality photo and/or verified mobile number should be part of the ID database/registry.
    2. These two key ID attributes will enable robust verification and authentication capabilities.
 

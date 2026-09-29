@@ -19,7 +19,7 @@
 * [💰 How much does it cost to build DPI?](the-dpi-wiki/how-much-does-it-cost-to-build-dpi.md)
 * [📢 Is my system a DPI?](the-dpi-wiki/is-my-system-a-dpi/README.md)
   * [TL; DR - Is my system a DPI?](the-dpi-wiki/is-my-system-a-dpi/tl-dr-is-my-system-a-dpi.md)
-* [📱 Building a SuperApp: A three step guide to apply DPI thinking](the-dpi-wiki/building-a-superapp-a-three-step-guide-to-apply-dpi-thinking.md)
+* [📱 Building a SuperApp: Applying DPI thinking](the-dpi-wiki/building-a-superapp-applying-dpi-thinking.md)
 
 ## Mythbusters and FAQs
 
@@ -57,7 +57,7 @@
   * [Building Data Analytics Pipelines](technical-notes/data-and-credentialing-infra/building-data-analytics-pipelines.md)
   * [Data Exchanges: System to system data sharing](technical-notes/data-and-credentialing-infra/data-exchanges-system-to-system-data-sharing/README.md)
     * [Data Exchange 101](technical-notes/data-and-credentialing-infra/data-exchanges-system-to-system-data-sharing/data-exchange-101.md)
-    * [Platform Approaches: Four Examples 1](technical-notes/data-and-credentialing-infra/data-exchanges-system-to-system-data-sharing/platform-approaches-four-examples-1.md)
+    * [Platform Approaches: Four Examples](technical-notes/data-and-credentialing-infra/data-exchanges-system-to-system-data-sharing/platform-approaches-four-examples.md)
     * [Getting Started: The +1 Approach](technical-notes/data-and-credentialing-infra/data-exchanges-system-to-system-data-sharing/getting-started-the-+1-approach.md)
 * [💸 Payments & Transaction Networks](dpi/digital-payment-networks/README.md)
   * [Financial Address](technical-notes/digital-payment-networks/financial-address.md)

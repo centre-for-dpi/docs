@@ -2,7 +2,7 @@
 
 The components below are not all required from day one — they reflect the full anatomy of a mature exchange, and a country should adopt them progressively as use cases and scale demand.
 
-#### Components
+### Components
 
 A data exchange platform is typically composed of the following functional layers:
 
@@ -33,7 +33,7 @@ _**Legacy connectivity layer:**_ Legacy connectivity components — sidecar prox
 
 <p align="center">Exhibit 1: Components of a data exchange platform (centralised model)</p>
 
-#### A note on X-Road and distributed architectures
+### A note on X-Road and distributed architectures
 
 The component model above reflects a centralised architecture — the model followed by API Setu, APEX, and UGHub. X-Road, Estonia's national data exchange layer, follows a different topology but retains the same underlying functions.
 

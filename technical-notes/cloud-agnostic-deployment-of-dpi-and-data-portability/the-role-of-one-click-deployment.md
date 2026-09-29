@@ -2,7 +2,7 @@
 
 The maturation of deployment automation fundamentally changes the economics of cloud-agnostic architecture:
 
-#### Reducing Deployment Friction
+### Reducing Deployment Friction
 
 One-click deployment capabilities, when properly designed, make cloud-agnostic architecture practically achievable rather than theoretically possible:
 

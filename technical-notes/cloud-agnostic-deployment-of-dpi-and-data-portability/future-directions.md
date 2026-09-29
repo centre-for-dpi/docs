@@ -12,8 +12,8 @@ Several trends will further enable cloud-agnostic DPI deployment:
 
 ### Conclusion
 
-Cloud-agnostic deployment of DPI systems represents sound architectural practice that aligns technical implementation with strategic objectives of sovereignty, flexibility, and resilience. The maturation of infrastructure-as-code, containerization, and one-click deployment patterns has made cloud agnosticism practically achievable rather than merely theoretically desirable.
+Cloud-agnostic deployment of DPI systems represents sound architectural practice that aligns technical implementation with strategic objectives of sovereignty, flexibility, and resilience. The maturation of infrastructure-as-code, containerisation, and one-click deployment patterns has made cloud agnosticism practically achievable rather than merely theoretically desirable.
 
-Data portability, as both technical capability and architectural principle, serves as the foundation for cloud-agnostic design. By ensuring that data can move freely---whether at the user's request or through operational necessity---DPI implementations preserve optionality and avoid the accumulation of technical debt through lock-in.
+Data portability, as both technical capability and architectural principle, serves as the foundation for cloud-agnostic design. By ensuring that data can move freely, whether at the user's request or through operational necessity---DPI implementations preserve optionality and avoid the accumulation of technical debt through lock-in.
 
 As nations invest in digital public infrastructure that will serve citizens for generations, the architectural decisions made today carry lasting consequences. Cloud-agnostic design, implemented through modern deployment automation and grounded in data portability, provides the flexibility to adapt as technology, economics, and geopolitics evolve.

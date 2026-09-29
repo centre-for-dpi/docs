@@ -31,7 +31,7 @@ The following key capabilities should be considered  to address the above challe
 
 1. **Mobile First** : A mobile-first approach enables service delivery using mobile devices including phones, tablets, and laptops. Ideally, applications should be built once and deployed across operating system platforms to keep the IT systems lean.
 2. **Online/Offline** : Mobile device-based delivery enables local secure storage to strategise processes for offline delivery when online services are not reachable due to network connectivity or coverage limitations. System processes can be configured to grant device-level online/offline policies based on local context.
-3. **Smart Synchronization**: Offline service delivery requires master, reference and recent transactional data available for taking minimum required business validations.
+3. **Smart Synchronisation**: Offline service delivery requires master, reference and recent transactional data available for taking minimum required business validations.
 4. **Self/Assisted** : Business processes to be aligned for self and assisted use case scenarios.
 5. **Local Face Auth** : Face authentication with liveness checks should be implemented on edge devices as a reusable software library/module accessible across various department applications. This can act as a digital rail infrastructure component.
 6. **Device Registration** : All mobile devices enabled to provide self or assisted services can be registered to manage granular level of controls to deliver services in secure and trusted environments.
@@ -47,5 +47,3 @@ The following key capabilities should be considered  to address the above challe
 ## Summary
 
 Face Authentication using a mobile device opens up an opportunity for governments to serve a large number of [excluded](face-authentication.md#3.-challenges) population with ease.&#x20;
-
-## Attributions

@@ -66,7 +66,7 @@ The goal is to have a DPG solution packaged to make the installation possible in
 
 <mark style="background-color:blue;">What "features" will the package have if you imagine a typical G2P use case</mark>
 
-In the current release, the G2P use case envisioned is only ID to Account Mapper. Beneficiary & Scheme Management platforms are not planned within this first phase scope. In an existing G2P flow, Mapper comes handy to pay to a beneficiary using a functional ID.
+In the current release, the G2P use case envisioned is only ID Account Mapper. Beneficiary & Scheme Management platforms are not planned within this first phase scope. In an existing G2P flow, Mapper comes handy to pay to a beneficiary using a functional ID.
 
 <mark style="background-color:blue;">If a service provider such as Deloitte is spending time and effort packaging this, how will it become available to the competition? Or will this package belong to Deloitte and others will have to build their own?</mark>
 

@@ -6,11 +6,11 @@ hidden: true
 
 ### Objective
 
-The primary goal of this comparison is to highlight the unique strengths, technical capabilities, and architectural philosophies of each stack. By analyzing how these platforms handle data, connectivity, and trust, this document aims to guide stakeholders in choosing the solution that best fits their specific use cases—whether those involve government-grade offline identity, enterprise-scale multi-tenancy, or broad European ecosystem compliance.
+The primary goal of this comparison is to highlight the unique strengths, technical capabilities, and architectural philosophies of each stack. By analysing how these platforms handle data, connectivity, and trust, this document aims to guide stakeholders in choosing the solution that best fits their specific use cases—whether those involve government-grade offline identity, enterprise-scale multi-tenancy, or broad European ecosystem compliance.
 
 ### Neutrality and Pro Bono Disclaimer
 
-This comparative analysis is conducted on a **pro bono** basis by the Centre for Digital Public Infrastructure. We maintain a **tech-neutral** stance and have not received any financial compensation or "kickbacks" from the analyzed technology providers. Our goal is to support countries in their digital transformation journey, regardless of the specific technology stack they choose to implement.
+This comparative analysis is conducted on a **pro bono** basis by the Centre for Digital Public Infrastructure. We maintain a **tech-neutral** stance and have not received any financial compensation or "kickbacks" from the analysed technology providers. Our goal is to support countries in their digital transformation journey, regardless of the specific technology stack they choose to implement.
 
 ### Selection of Themes
 
@@ -18,12 +18,12 @@ The technical and operational dimensions explored in this document are not exhau
 
 ### Document Structure
 
-The analysis is organized into key technical and operational dimensions:
+The analysis is organised into key technical and operational dimensions:
 
 * **Standards & Data Formats**: An overview of the protocols (e.g., OpenID4VC, W3C) and data structures (e.g., JWT, SD-JWT, mDoc) supported by each provider.
 * **Revocation & Security**: An examination of the mechanisms used to invalidate or manage the status of credentials in production environments.
 * **Infrastructure & Deployment**: A look at **Multi-Tenancy** capabilities, distinguishing between stacks designed for single-use deployments and those built for scalable SaaS platforms.
-* **Operational Connectivity**: A deep dive into **Offline Verification**, assessing how each stack utilizes technologies like BLE, NFC.
+* **Operational Connectivity**: A deep dive into **Offline Verification**, assessing how each stack utilises technologies like BLE, NFC.
 * **Trust Anchors**: A comparison of **DID Methods and Blockchain** integrations, ranging from ledger-agnostic web approaches to native Hyperledger Indy or Polygon support.
 * **Hosting Options and Licensing:** A look at all implementation models and Licences.
 * **Documentation Quality & Sustainability:** Examination of the accessibility of technical guides and the long-term viability.
@@ -78,11 +78,11 @@ This determines how "heavy" a credential is and what security algorithms it uses
 
 **Differences:**
 
-**walt.id** offers the greatest versatility by supporting mobile identity formats like **mDoc (ISO 18013-5)**. **CREDEBL** specializes in **AnonCreds (ZKP)** signatures, while **Inji** prioritizes JSON-LD with Linked Data Proofs. **QuarkID** strengthens this category by offering support for **ZKP (Zero-Knowledge Proofs)** and modern formats like **SD-JWT**.
+**walt.id** offers the greatest versatility by supporting mobile identity formats like **mDoc (ISO 18013-5)**. **CREDEBL** specialises in **AnonCreds (ZKP)** signatures, while **Inji** prioritises JSON-LD with Linked Data Proofs. **QuarkID** strengthens this category by offering support for **ZKP (Zero-Knowledge Proofs)** and modern formats like **SD-JWT**.
 
 **Implications:**
 
-Choosing **walt.id** allows an organization to issue digital driver’s licenses compatible with international transport standards. **CREDEBL** provides superior data protection through Zero-Knowledge Proofs, which allow users to prove attributes without revealing unnecessary underlying data.
+Choosing **walt.id** allows an organisation to issue digital driver’s licenses compatible with international transport standards. **CREDEBL** provides superior data protection through Zero-Knowledge Proofs, which allow users to prove attributes without revealing unnecessary underlying data.
 
 ### 3. Revocation Capabilities
 
@@ -108,11 +108,11 @@ For large-scale deployments that require the ability to invalidate thousands of 
 
 **What is it?**
 
-The ability for a single software installation to serve multiple independent clients or organizations securely
+The ability for a single software installation to serve multiple independent clients or organisations securely
 
 **Importance**
 
-It reduces operational costs and complexity. It allows an organization to provide Credentials Issuing Service to various sub-departments or external clients
+It reduces operational costs and complexity. It allows an organisation to provide Credentials Issuing Service to various sub-departments or external clients
 
 <table><thead><tr><th>Feature</th><th width="76" align="center">INJI</th><th width="111" align="center">CREDEBL</th><th width="97" align="center">walt.id</th><th width="103" align="center">QuarkID</th></tr></thead><tbody><tr><td><p><strong>Full multi-tenant architecture</strong> </p><p><sub><em>walt.id Enterprise Stack only</em></sub></p></td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">✅</td></tr><tr><td><strong>Shared agents (multi-tenant)</strong></td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">✅</td></tr><tr><td><strong>Dedicated agents (single-tenant)</strong></td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td><strong>Tenant-specific configurations</strong></td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">✅</td></tr><tr><td><strong>White-labeling / sub-accounts</strong></td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️</td><td align="center">✅</td></tr><tr><td><strong>Designed for SaaS deployments</strong></td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">✅</td></tr><tr><td><strong>Agent-agnostic architecture</strong></td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">❌</td></tr><tr><td><p><strong>National-scale deployment support</strong> </p><p><sub><em>Inji &#x26; CREDEBL proven at national scale</em></sub></p></td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">⚠️</td></tr></tbody></table>
 
@@ -148,17 +148,17 @@ This defines where the root of trust for the identity lives (e.g., a web domain,
 
 **Importance:**
 
-It determines the level of decentralization, cost, and censorship resistance of the system.
+It determines the level of decentralisation, cost, and censorship resistance of the system.
 
 <table><thead><tr><th>Feature</th><th width="75" align="center">INJI</th><th width="112" align="center">CREDEBL</th><th width="96" align="center">walt.id</th><th width="102" align="center">QuarkID</th></tr></thead><tbody><tr><td><strong>did:web</strong></td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td><strong>did:key</strong></td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td><strong>did:jwk</strong></td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">❌</td></tr><tr><td><strong>did:peer</strong></td><td align="center">❌</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td></tr><tr><td><strong>did:indy (Hyperledger Indy)</strong></td><td align="center">❌</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr><tr><td><strong>did:ebsi (EBSI/ESSIF)</strong></td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">❌</td></tr><tr><td><strong>did:cheqd</strong></td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">❌</td></tr><tr><td><strong>Polygon blockchain</strong></td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">✅</td></tr><tr><td><p><strong>zkSync Era / Rootstock / ETH</strong> </p><p><sub><em>QuarkID multichain EVM</em></sub></p></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td></tr><tr><td><p><strong>X.509 Certificate Trust Anchoring</strong> </p><p><sub><em>CREDEBL: Trust Chain &#x26; Trust Registry</em></sub></p></td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">❌</td></tr><tr><td><strong>Ecosystem Governance framework</strong> <sub><em>CREDEBL: incl. IATA Travel PoC</em></sub></td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">⚠️</td></tr><tr><td><strong>Ledger-agnostic / custom VDR</strong></td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td></tr><tr><td><strong>No blockchain dependency</strong></td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">❌</td></tr></tbody></table>
 
 **Differences:**&#x20;
 
-**CREDEBL** has the deepest integration with traditional identity blockchains like **Hyperledger Indy** and Polygon, but also with x.509 Certificate-base trust anchoring. **Inji** and **walt.id** adopt a "blockchain-minimal" approach, prioritizing web-based methods like **did:web**. **QuarkID** leverages public EVM-compatible chains like **Polygon** to provide transparency without the complexity of private ledgers.
+**CREDEBL** has the deepest integration with traditional identity blockchains like **Hyperledger Indy** and Polygon, but also with x.509 Certificate-base trust anchoring. **Inji** and **walt.id** adopt a "blockchain-minimal" approach, prioritising web-based methods like **did:web**. **QuarkID** leverages public EVM-compatible chains like **Polygon** to provide transparency without the complexity of private ledgers.
 
 **Implications:**
 
-**CREDEBL** is the preferred choice for organizations that need flexible trust governance: whether based on private distributed ledgers (Hyperledger Indy, Polygon), existing PKI infrastructure (X.509 certificates), or a structured ecosystem governance framework with a Trust Registry. **QuarkID** is ideal for those wanting public immutable transparency. **Inji** and **walt.id** offer easier integration with current web infrastructure, avoiding a hard dependency on a specific blockchain network.
+**CREDEBL** is the preferred choice for organisations that need flexible trust governance: whether based on private distributed ledgers (Hyperledger Indy, Polygon), existing PKI infrastructure (X.509 certificates), or a structured ecosystem governance framework with a Trust Registry. **QuarkID** is ideal for those wanting public immutable transparency. **Inji** and **walt.id** offer easier integration with current web infrastructure, avoiding a hard dependency on a specific blockchain network.
 
 ### 7. Hosting Options & Licensing
 
@@ -172,11 +172,11 @@ Determines the total cost of ownership, legal freedom to modify/redistribute, an
 
 **Differences**
 
-Most stacks utilize the **Apache 2.0** license, while **INJI** uses the even more permissive MIT license. All support flexible hosting, but walt.id places a specific emphasis on "sovereign cloud" environments.
+Most stacks utilise the **Apache 2.0** license, while **INJI** uses the even more permissive MIT license. All support flexible hosting, but walt.id places a specific emphasis on "sovereign cloud" environments.
 
 **Implications**
 
-High flexibility for governments to maintain data sovereignty through on-premise hosting across all stacks. The choice of **MIT** vs. **Apache 2.0** primarily affects how organizations can redistribute modified versions of the core software.
+High flexibility for governments to maintain data sovereignty through on-premise hosting across all stacks. The choice of **MIT** vs. **Apache 2.0** primarily affects how organisations can redistribute modified versions of the core software.
 
 ### 8. Documentation Quality & Sustainability&#x20;
 
@@ -212,7 +212,7 @@ Essential for protecting citizen data and meeting legal requirements (such as GD
 
 **Differences**&#x20;
 
-**walt.id** provides the most comprehensive focus on compliance-ready features like auditability. The other stacks prioritize core cryptographic security, leaving specific regulatory "hardening" to the implementer.
+**walt.id** provides the most comprehensive focus on compliance-ready features like auditability. The other stacks prioritise core cryptographic security, leaving specific regulatory "hardening" to the implementer.
 
 **Implications**&#x20;
 
@@ -224,7 +224,7 @@ Essential for protecting citizen data and meeting legal requirements (such as GD
 
 **INJI excels at offline capabilities** with BLE and face authentication, making it ideal for low-connectivity environments and government identity programs. Strong focus on mobile-first experience. Takes a blockchain-minimal approach with web-based DIDs.  **So consider Inji if you need a mobile-first solution for government programs in low-connectivity environments.**
 
-**CREDEBL** provides the most comprehensive multi-tenancy and enterprise features, supporting both traditional SSI (AnonCreds) and modern standards. Best for organizations building SaaS platforms or managing multiple clients. **Strongest blockchain support** with native Hyperledger Indy and Polygon integration, ideal for ledger-based implementations. **So consider CREDEBL if you are building population-scale digital trust ecosystems — including Decentralized National ID, Digital Travel Credentials, Academic Credentials, eKYC, or Health Data Exchange — with a focus on self-sovereign identity, privacy-preserving architectures, and local data protection requirements.**
+**CREDEBL** provides the most comprehensive multi-tenancy and enterprise features, supporting both traditional SSI (AnonCreds) and modern standards. Best for organisations building SaaS platforms or managing multiple clients. **Strongest blockchain support** with native Hyperledger Indy and Polygon integration, ideal for ledger-based implementations. **So consider CREDEBL if you are building population-scale digital trust ecosystems — including Decentralized National ID, Digital Travel Credentials, Academic Credentials, eKYC, or Health Data Exchange — with a focus on self-sovereign identity, privacy-preserving architectures, and local data protection requirements.**
 
 **walt.id** offers the most complete standards compliance across both stacks (Community & Enterprise), with strong eIDAS 2.0 alignment. Enterprise Stack provides production-ready multi-tenancy with extensive management tools. **Broadest DID method support** with focus on European ecosystem (EBSI) and extensibility. **So consider walt.id if you need maximum standards compliance, alignment with European regulations (eIDAS), and high extensibility.**&#x20;
 

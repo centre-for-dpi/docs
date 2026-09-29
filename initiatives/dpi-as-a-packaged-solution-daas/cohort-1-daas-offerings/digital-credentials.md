@@ -75,11 +75,11 @@ This document below outlines a call to action for Service Providers (SP) to adop
 
 ### Inji - Additional resources:
 
-{% embed url="https://docs.google.com/presentation/d/1pfI5IcFspKgjNvcX-wTmV99kjMWYyIa0dB6uENLlXXQ/edit?usp=sharing" %}
+{% embed url="https://docs.inji.io" %}
 
 ### Inji - Experience centre:
 
-[https://docs.mosip.io/inji/inji-mobile-wallet/sandbox-details/inji-setup-guide](https://docs.mosip.io/inji/inji-mobile-wallet/sandbox-details/inji-setup-guide)
+[https://docs.inji.io/inji-wallet/inji-mobile](https://docs.inji.io/inji-wallet/inji-mobile)
 
 
 

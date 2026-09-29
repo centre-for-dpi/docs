@@ -18,11 +18,11 @@ A [G2P DPI](https://drive.google.com/file/d/1flSxkL9u5WLqo4Qw4mh_jRN6-bgAa8TN/vi
 
 The Unique ID/eKYC layer allows for uniquely identifying and authenticating each individual within seconds, saving time + effort + leakages on both sides.
 
-The Financial Address Mapper connects an identifier to the individual's preferred store-of-value to receive the payments, facilitating secure transfer of funds.
+The ID Account Mapper connects an identifier to the individual's preferred store-of-value to receive the payments, facilitating secure transfer of funds.
 
 The last mile agents help those with limited or no digital literacy access the same benefits by using their biometric data to drive financial inclusion from the ground up.
 
-The network of cross-functional registries helps identify and sort individuals according to the eligibility criteria of various schemes while keeping the data decentransiled. It allows for autonomy of departments while building interconnectivity to drive efficiency.
+The network of cross-functional registries helps identify and sort individuals according to the eligibility criteria of various schemes while keeping the data decentralised. It allows for autonomy of departments while building interconnectivity to drive efficiency.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-09-20 at 9.38.09 AM.png" alt=""><figcaption><p>This approach has enabled the Government of India to rapidly connect with their population of over 1 billion people</p></figcaption></figure>
 

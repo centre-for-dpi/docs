@@ -16,11 +16,11 @@ The selected countries will be given their <mark style="background-color:purple;
 2. The first cohort is being executed in partnership with IIITB/EkStep (as open source DPG owners depending on the product).
 3. Countries undergo an assessment process to ensure they are ready to execute a time-bound rollout for higher chances of success.&#x20;
 
-<figure><img src="../../.gitbook/assets/Final pre-read draft_DaaS Deck for Co-Develop Investment Committee .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/daas-pilot-timeline.png" alt="DaaS pilots are designed to be of high quality, self sustainable and useful on the ground. Timeline in days: 45 days for PoC and installation, 90 days for the first use case live, 180 days to sustain the first use case, 270 days for pilot extension 1 and 360 days for pilot extension 2, with extensions for more use cases."><figcaption></figcaption></figure>
 
 ### A Final Snapshot: What’s on Offer?&#x20;
 
-1. **DPI Product Packages Available**: Digital authentication, Digital Credentials, ID-Account mapper.
+1. **DPI Product Packages Available**: Digital authentication, Digital Credentials, ID Account Mapper.
 2. **Ecosystem Support Provided**: DaaS package which is provided by DPG providers, certified implementation partners & cloud providers, and Technology Service Providers to implement the DPI.
 3. **Funding Sources**: DaaS-based pilot funds from philanthropy, government funders, and other sources to launch DPI.
 4. **Timeline to launch**: Countries can reach out to CDPI to be a part of DaaS pilots at info@cdpi.dev. The support for rollout and funding will be released after initial rounds of conversation and country assessment (\~2 months).

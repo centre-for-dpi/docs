@@ -6,7 +6,7 @@ The following principles guide cloud-agnostic DPI architecture. For each princip
 
 The diagram above illustrates the four layers of a portable DPI stack.
 
-* Layer 1 (Cloud Platform) represents the interchangeable deployment target — any major cloud provider or an on-premises national data center.
+* Layer 1 (Cloud Platform) represents the interchangeable deployment target — any major cloud provider or an on-premises national data centre.
 * Layer 2 (Orchestration & Runtime) provides the common abstraction that makes this interchangeability possible, anchored by Kubernetes and OCI container standards.
 * Layer 3 (Self-Hosted Infrastructure Components) covers the open-source middleware — databases, identity providers, API gateways, and observability tools — that replace proprietary managed services.
 * Layer 4 (DPI Application Services) is where the building blocks sit: Digital Identity, Verifiable Credentials, Data Exchange, Payments, Registries, and Consent Management, all communicating through open standards like W3C VC, OID4VCI, OID4VP, and mDL/mDoc.

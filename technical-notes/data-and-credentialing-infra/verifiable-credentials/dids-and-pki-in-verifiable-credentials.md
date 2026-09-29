@@ -46,7 +46,7 @@ Traditional Public Key Infrastructure (PKI) and DID-based systems both provide w
 #### **Trust Model**
 
 * **Traditional PKI**: Hierarchical trust with Certificate Authorities (CAs) at the top. Trust flows downward through a chain of certificates.
-* **DID**: Decentralized trust without a central authority. Each entity can create and manage their own identifier independently.
+* **DID**: Decentralised trust without a central authority. Each entity can create and manage their own identifier independently.
 
 #### **Identity Control**
 
@@ -56,7 +56,7 @@ Traditional Public Key Infrastructure (PKI) and DID-based systems both provide w
 #### **Discovery Mechanism**
 
 * **Traditional PKI**: Certificate directories or authority lookup services.
-* **DID**: DID resolvers that can find DID Documents through various methods (blockchains, distributed ledgers, decentralized networks).
+* **DID**: DID resolvers that can find DID Documents through various methods (blockchains, distributed ledgers, decentralised networks).
 
 ### **Specific Differences in Credential Workflows**
 
@@ -122,8 +122,8 @@ In a DID system, anyone can technically create a DID and issue credentials, but 
 
 #### **2. Trust Registries and Frameworks**
 
-* Verifiers typically maintain or reference "trust lists" of authorized issuer DIDs
-* These registries map known organizations to their authorized DIDs
+* Verifiers typically maintain or reference "trust lists" of authorised issuer DIDs
+* These registries map known organisations to their authorised DIDs
 * A credential from an unknown or untrusted DID would be rejected
 
 #### **3. Verifiable Issuer Credentials**
@@ -175,7 +175,7 @@ This highlights why the verifier's role in establishing what DIDs they trust is 
    * Cannot verify freshly issued credentials from issuers whose DID documents weren't pre-cached
    * Cannot detect if the issuer has rotated keys since the DID document was cached
 
-This approach works well for scenarios with predictable issuers and where occasional connectivity is available to update the cache of DID documents. For higher security requirements, periodic online synchronization is recommended to refresh the cached documents.
+This approach works well for scenarios with predictable issuers and where occasional connectivity is available to update the cache of DID documents. For higher security requirements, periodic online synchronisation is recommended to refresh the cached documents.
 
 [Inji sample deployment architecture using PKI](https://cdpi-tech-arc-resources.s3.ap-south-1.amazonaws.com/Inji+PKI.svg)
 
