@@ -89,7 +89,6 @@
   * [📦 Pre-packaged DaaS kits](initiatives/dpi-as-a-packaged-solution-daas/pre-packaged-daas-kits.md)
   * [♻️ Reusable DaaS Artefacts](initiatives/dpi-as-a-packaged-solution-daas/reusable-daas-artefacts.md)
   * [3️⃣ A 3-step process from idea to implementation!](initiatives/dpi-as-a-packaged-solution-daas/a-3-step-process-from-idea-to-implementation.md)
-  * [📈 Funded DaaS Program overview](initiatives/dpi-as-a-packaged-solution-daas/funded-daas-program-overview.md)
   * [👩‍💻 Cohort 1: DaaS Offerings](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/README.md)
     * [Digital authentication](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-authentication.md)
     * [Digital credentials](initiatives/dpi-as-a-packaged-solution-daas/cohort-1-daas-offerings/digital-credentials.md)
