@@ -4,7 +4,7 @@ description: A Transformative but Simple Innovation to Implement DPI with Speed
 
 # 🚀 DPI as a Packaged Solution (DaaS)
 
-DPI, a concept relatively new in terminology but fairly mature in global practice, has come to the forefront as a powerful strategy to accelerate socioeconomic growth.  It was able to not only withstand the scrutiny of top bureaucrats, policy leaders, and private entrepreneurs across the globe but also fostered a global consensus on the suggested principles for building DPI - which is a rare feat!
+In many ways, 2023 was regarded as the Year of DPI (at least for governments and international development partners!). It was a year where the concept of DPI came into the forefront though many countries had already been building DPI-aligned digital systems in their countries. DPI was able to not only withstand the scrutiny of top bureaucrats, policy leaders, and private entrepreneurs across the globe but also fostered a global consensus on the suggested principles for building DPI - which is a rare feat!
 
 Of course, now that there is consensus on the need to build DPI to accelerate growth and development, it falls on the executors in countries - <mark style="background-color:purple;">**how do we build DPI at an accelerated pace to benefit citizens?**</mark>
 

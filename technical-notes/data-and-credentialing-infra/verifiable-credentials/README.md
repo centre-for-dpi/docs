@@ -30,14 +30,14 @@ An individual can specify the data they want verified, the party they want to sh
 
 There are three broad types of personal data sharing, matching [A primer to personal data sharing](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/a-primer-to-personal-data-sharing): credentials held by the individual (1 below), sharing through a consent network (2) and system-to-system sharing (3). They differ in how consent is handled:&#x20;
 
-1. Consent and data are shared at the same time through the same platform: In this model, the interface itself (wallets or e-lockers) obtains user consent through its platform and shares the data immediately. For example, DigiLocker in India
+1. **Consent and data are shared at the same time through the same platform**: In this model, the interface itself (wallets or e-lockers) obtains user consent through its platform and shares the data immediately. For example, DigiLocker in India
 
-a) Wallets: In digital wallets, users can provide their consent to fetch their digitally signed documents from various entities. These documents are securely stored on the user’s dashboard and shared as needed. This empowers individuals by giving them control over all their verified credentials.
+_a) Wallets:_ In digital wallets, users can provide their consent to fetch their digitally signed documents from various entities. These documents are securely stored on the user’s dashboard and shared as needed. This empowers individuals by giving them control over all their verified credentials.
 
-b) e-Lockers: In this model, the documents are not stored on any dashboard. Instead, when the user provides consent, these documents can be fetched from the provider and displayed to the user or the data consumer they provide their consent to. These e-Lockers are managed by one or more entities in the country and allow federation of verifiable credentials.&#x20;
+_b) e-Lockers_: In this model, the documents are not stored on any dashboard. Instead, when the user provides consent, these documents can be fetched from the provider and displayed to the user or the data consumer they provide their consent to. These e-Lockers are managed by one or more entities in the country and allow federation of verifiable credentials.&#x20;
 
-2. Consent and data are shared separately and managed through different entities: In this model, the consent is managed through a third-party intermediary known as a consent manager. These entities obtain user consent as per the consent artefact specified and communicate this to data providers, who then separately share the data with data consumers. Examples include, the Account Aggregator ecosystem in India.&#x20;
-3. Consent is managed through the data provider: In this model, data is shared between two entities such as two government departments, without the individual being directly involved (though ultimately for the individual’s benefit). Consent is provided by the data provider itself at the time of sharing the data.                      &#x20;
+2. **Consent and data are shared separately and managed through different entities:** In this model, the consent is managed through a third-party intermediary known as a consent manager. These entities obtain user consent as per the consent artefact specified and communicate this to data providers, who then separately share the data with data consumers. Examples include, the Account Aggregator ecosystem in India.&#x20;
+3. **Consent is managed through the data provider:** In this model, data is shared between two entities such as two government departments, without the individual being directly involved (though ultimately for the individual’s benefit). Consent is provided by the data provider itself at the time of sharing the data.                      &#x20;
 
 There are many examples of this DPI:&#x20;
 
