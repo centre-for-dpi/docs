@@ -10,13 +10,13 @@ The Centre for DPI is:&#x20;
 2. Technology neutral: We are happy to support countries regardless of whether they choose open source or private procurement.
 3. Financing neutral: We don't provide funding or accept payment for our services. We are philanthropically funded and work on a pro bono basis.&#x20;
 4. Government neutral: We are a global team, happy to work with any interested government and have no political alignment.&#x20;
-5. Country neutral: Our team spans 5 countries and 3 continents, and we work with global development partners, tech providers, and funders without preference for one over another.
+5. Country neutral: Our team spans 9 countries and 4 continents, and we work with global development partners, tech providers, and funders without preference for one over another.
 
 <mark style="background-color:purple;">At CDPI, we are only biased towards one thing: Implementation!</mark>
 
 Whichever country, government, funder, technology and software can help DPI implementation roll out in accordance with best practices, and fast timelines, we are happy to support them and work with them to promote global DPI implementation in the country's best interests.
 
-CDPI has team members who have rolled out DPI projects at scale in their own countries, and continue to do so in various contexts. This includes Daniel Abadie, who oversaw Argentina's verifiable credentials system;Emmanuel Khisa who worked on ID and Payments in Africa, and Pramod Varma, the chief architect of the India Stack.
+CDPI has team members who have rolled out DPI projects at scale in their own countries, and continue to do so in various contexts. This includes Daniel Abadie, who oversaw Argentina's verifiable credentials system and Pramod Varma, the chief architect of the India Stack.
 
 Any country can approach CDPI (please email info@cdpi.dev) to engage with us. CDPI can help share some knowledge and insights on the best practices to adopt while designing their digital transformation journeys to ensure they reach scale in sustainable manners, power public and private innovation, and are able to create interoperable, reusable building blocks with minimal funding and resource constraints.
 
