@@ -1,6 +1,6 @@
 # ❓ FAQs on DaaS
 
-A common misconception may be that by participating in a DaaS pilot program, a country will be giving up complete control over infrastructure that caters to essential services. However, this is simply not true. Countries retain full control over the DaaS pilot and they are especially beneficial for short-term pilots demonstrating proof of success for the DPI approach.
+A common misconception may be that by participating in DaaS, a country will be giving up complete control over infrastructure that caters to essential services. However, this is simply not true. Countries retain full control over their DaaS implementation, and phase 1 is designed to demonstrate proof of success for the DPI approach.
 
 Common thoughts that may arise || The answer to all is DaaS…
 
@@ -23,17 +23,17 @@ Like all Digital Public Infrastructure, DaaS solutions are designed to work for 
 
 <mark style="background-color:blue;">How much will I save in terms of time and money?  Give me concrete examples. What if the service providers raise the subscription rates?</mark>&#x20;
 
-Our hypothesis, based on our work with countries, is that it typically takes up to 24 months to roll out a pilot DPI program since countries have to undergo various cycles of approvals, definitions, procurement, funding, and build phases. The DaaS approach will reduce this time period to 8-12 weeks to launch a pilot based on a pre-packaged, pre-templated DaaS package.
+Our hypothesis, based on our work with countries, is that it typically takes up to 24 months to roll out a DPI program since countries have to undergo various cycles of approvals, definitions, procurement, funding, and build phases. The DaaS approach will reduce this time period to six months to go live with a phase 1 implementation based on a pre-packaged, pre-templated DaaS package.
 
-For the duration of the pilot, if and when a commercial Service Provider (SP) is involved, their rates can be fixed to avoid custom price discovery and negotiation by each country.
+For the duration of phase 1, if and when a commercial Service Provider (SP) is involved, their rates can be fixed to avoid custom price discovery and negotiation by each country.
 
-Once the pilot is over, the countries can choose to extend the contract with the same SP who handled their pilot, or switch to another one, depending on the terms finalised between the two parties independently.
+Once phase 1 is over, the countries can choose to extend the contract with the same SP who handled phase 1, or switch to another one, depending on the terms finalised between the two parties independently.
 
 <mark style="background-color:blue;">What do I own and what do I not? Is it like renting  a house Vs owning one?</mark>&#x20;
 
 The country will own all the infrastructure of DaaS.
 
-This includes the core IP of the underlying open source DPG, as well as full control of management and data for the systems deployed under the DaaS pilot.
+This includes the core IP of the underlying open source DPG, as well as full control of management and data for the systems deployed under DaaS.
 
 The distinction is not between owning vs renting a house. Rather, think of it as building a house from scratch brick by brick, vs buying a ready-made house that you can move into quickly, where the foundations are already in place but you can do your own customisations as needed.
 
@@ -49,9 +49,9 @@ Since DaaS core packages are fully open source, the possibility of vendor lock-i
 
 Moreover, multiple SPs will be offered for each DaaS product category. Countries can choose and modify their selections between providers as needed based on their requirements and preferences to create a choice of vendors
 
-<mark style="background-color:blue;">When can I see a pilot of (some service), at a sandbox level</mark>
+When can I see a demo of (some service)<mark style="background-color:blue;">, at a sandbox level</mark>
 
-DaaS is first being offered as a pilot itself. It is not intended to immediately scale but rather to test the concepts for countries to build confidence. For some smaller population contexts, DaaS could meet the full population needs via a pilot, and provide flexibility later to probably migrate the system if needed to a different host.
+DaaS is being offered as phase 1 of population-scale infrastructure. It is not intended to immediately scale but rather to test the concepts for countries to build confidence. For some smaller population contexts, DaaS could meet the full population needs in phase 1, and provide flexibility later to probably migrate the system if needed to a different host.
 
 Individual DPGs that are powering DaaS have their own sandboxes. Countries are free to reach out to them directly to experience their products before accessing them through DaaS if preferred.
 
@@ -62,25 +62,25 @@ The typical steps envisioned are:
 1. Install the DPG solution
 2. Integrate with the country-specific workflow to enable the use case.&#x20;
 
-The goal is to have a DPG solution packaged to make the installation possible in less than 8 hours, with integration work requiring between 1 to 3 weeks. During this time, the policy and pilot modalities are worked out in parallel. The current plan is to provide DPI service to the first user within 4 weeks from the kick-off date, defined as the date when the country, service provider, and DPG owner hold their initial meeting after signing the MoU.
+The goal is to have a DPG solution packaged to make the installation possible in less than 8 hours, with integration work requiring between 1 to 3 weeks. During this time, the policy and rollout modalities are worked out in parallel. The target is to go live within six months of the kick-off date, defined as the date when the country, service provider, and DPG owner hold their initial meeting after signing the MoU.
 
 <mark style="background-color:blue;">What "features" will the package have if you imagine a typical G2P use case</mark>
 
 In the current release, the G2P use case envisioned is only ID Account Mapper. Beneficiary & Scheme Management platforms are not planned within this first phase scope. In an existing G2P flow, Mapper comes handy to pay to a beneficiary using a functional ID.
 
-<mark style="background-color:blue;">If a service provider such as Deloitte is spending time and effort packaging this, how will it become available to the competition? Or will this package belong to Deloitte and others will have to build their own?</mark>
+If a service provider is spending time and effort packaging this, how will it become available to the competition? Or will this package belong to that service provider, and others will have to build their own?
 
-DPGs are providing the installable package. Deloitte and other service providers are consuming it as is. Deloitte is building tech support, project management unit (PMU) capacity, and coordination with cloud service providers as part of the DaaS initiative.
+DPGs are providing the installable package. Service providers consume it as is and build tech support, project management unit (PMU) capacity, and coordination with cloud service providers as part of the DaaS initiative.
 
-In the future, Deloitte may add new features to the open source offering and provide value-added services to create a competitive landscape.
+In the future, service providers may add new features to the open source offering and provide value-added services to create a competitive landscape.
 
 <mark style="background-color:blue;">Does the IP of the package be with the DPG who can allow any other vendor to use it?</mark>
 
 Yes, for the work done and released by the DPG. For any custom packages in future, service providers may be encouraged to use open source licences but this is not mandatory. DPGs/Funders may enforce some of these policies.
 
-<mark style="background-color:blue;">What if the country wants to use some other private sector provider for the second use case of G2P payments (beyond the pilot)?</mark>
+<mark style="background-color:blue;">What if the country wants to use some other private sector provider for the second use case of G2P payments</mark> (beyond phase 1)<mark style="background-color:blue;">?</mark>
 
-It is perfectly possible. It is up to the country to hand over the pilot work to the new private sector vendor or request to install a new instance.
+It is perfectly possible. It is up to the country to hand over the phase 1 work to the new private sector vendor or request to install a new instance.
 
 Please note, underlying solutions picked in Phase 1, including Digital Authentication, Digital Credentials, and Mapper, can be reused across departments and vendors. This approach mirrors the implementation in India, Digi Locker credentials, Aadhaar, and NPCI mapper are used by various DBT programs.
 

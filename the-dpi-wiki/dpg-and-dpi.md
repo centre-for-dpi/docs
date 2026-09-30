@@ -24,7 +24,7 @@ A stack of DPGs that are interoperable and scalable can come together to build a
 
 Using open-source components can help ensure that best practices are incorporated, rapid deployment and scale are achieved, dependency or lock-ins are avoided, and minimum efforts can unlock maximum gains. OpenG2P, OpenSPP, or CoreMIS for government benefits or MOSIP for identity projects are examples of DPGs used to help build DPI infrastructure in countries.
 
-However, DPI can also be built without DPGs or any Open Source components, although it may require more time, money, and expertise. Governments can choose to build their own DPI from scratch by using proprietary software, and private vendors, as long as they follow the principles of minimalism, interoperability driven by shared specifications, federation, inclusion, privacy, and security.
+However, DPI can also be built without DPGs or any Open Source components, although it may require more time, money, and expertise. Governments can choose to build their own DPI from scratch by using proprietary software, and private vendors, as long as they follow the five [DPI Tech Architecture Principles](https://docs.cdpi.dev/the-dpi-wiki/dpi-tech-architecture-principles): Interoperability; Minimalist & Reusable Building Blocks; Diverse, Inclusive Innovation; Federated & Decentralised by Design; and Security & Privacy by Design.
 
 Even if a country is using proprietary software, it should still use open specifications. For example, regardless of the software used, it would incorporate ISO standards for payments or G2P connect specifications for G2P service delivery to ensure interoperability or choice for users, and avoid vendor lock-in for institutions.&#x20;
 

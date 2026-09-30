@@ -7,7 +7,7 @@ Rather than a one-size-fits-all approach, cloud-agnostic recommendations should 
 Every DPI implementation, regardless of scale, should adopt these practices from the outset:
 
 * **Containerise applications** using OCI-standard container images and orchestrate through Kubernetes.
-* **Codify infrastructure** with provider-agnostic tools such as Terraform or Pulumi, stored in version control.
+* **Codify infrastructure** with provider-agnostic tools such as OpenTofu, Terraform or Pulumi, stored in version control.
 * **Default to open standards** — prefer open-source databases (PostgreSQL, MySQL), S3-compatible object storage, and standard authentication protocols (OpenID Connect, OAuth 2.0) over proprietary alternatives.
 * **Document all provider-specific dependencies** and the justification for each.
 

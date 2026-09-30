@@ -44,7 +44,7 @@ d. **Single Sign On:** Allow people holding your ID to sign in to any other publ
 
 <mark style="background-color:blue;">**IT Authority/Digital Economy Ministry:**</mark>
 
-1. Create an optional issuance module of [Verifiable credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials) (eLockers) to encourage other departments (state, local, central) to issue their certificates as credentials (the decision to convert paper-based docs into verifiable credentials remains with individual departments)&#x20;
+1. Create an optional issuance module for [Verifiable credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials), with [eLockers](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials/elockers) where individuals can hold them, to encourage other departments (state, local, central) to issue their certificates as credentials (the decision to convert paper-based docs into verifiable credentials remains with individual departments)&#x20;
 2. Encourage [eAuth/eKYC/eSign capabilities](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/digital-id/capabilities-on-id-system) for service delivery on existing functional IDs
 3. Publish an open API policy to encourage individual departments’ API publication for various services (like tax filing, beneficiary enrolment, etc.) openly available. This can be integrated into the workflows of other applications for maximum utilisation
 4. Open API for Govt Services: Encourage government departments to move from single-window portals to open up their APIs to enhanced user experience and service delivery

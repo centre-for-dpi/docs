@@ -22,13 +22,13 @@ In this method, no centralisation is required. It allows various departments to 
 
 ### How does it work?&#x20;
 
-The application programming interfaces (APIs) of different issuing authorities are opened to enable a real-time data fetch between systems. Data is fetched (but not stored) based on API calls made from one system to another to validate a specific piece of data based on the individual’s consent. Any data-issuing authority and any data-consuming authority can connect to the same network by linking their APIs and completing their own verification according to national guidelines.
+The issuing authority digitally signs each credential and issues it to the individual, who holds it in a wallet or eLocker, or on paper as a signed QR code. A verifier checks the signature against the issuer’s public key, so verification can work offline and does not need the issuing authority to be online. APIs are still used to issue credentials, to fetch them into eLockers and to check whether a credential has been revoked. Any issuing authority and any verifier can join the same ecosystem by following open specifications and national guidelines.
 
 Data should only be verified with the individual’s consent. As with all DPI, the individual must be at the centre of the infrastructure.
 
 An individual can specify the data they want verified, the party they want to share it with, and for how long. The consent is granular, purpose-specific (e.g., for a loan or benefit), simple to understand, and revocable.&#x20;
 
-There can be three broad modes of data sharing:&#x20;
+There are three broad types of personal data sharing, matching [A primer to personal data sharing](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/a-primer-to-personal-data-sharing): credentials held by the individual (1 below), sharing through a consent network (2) and system-to-system sharing (3). They differ in how consent is handled:&#x20;
 
 1. Consent and data are shared at the same time through the same platform: In this model, the interface itself (wallets or e-lockers) obtains user consent through its platform and shares the data immediately. For example, DigiLocker in India
 
@@ -42,10 +42,10 @@ b) e-Lockers: In this model, the documents are not stored on any dashboard. Inst
 There are many examples of this DPI:&#x20;
 
 * Singpass in Singapore is now working to [issue credentials](https://www.developer.tech.gov.sg/our-digital-journey/digital-government-exchange/files/DGX%20DIWG%202022%20Report%20v1.5.pdf) fetched by the Singpass ID.&#x20;
-* The EU has recently published [digital wallet specifications](https://ec.europa.eu/digital-building-blocks/sites/display/EUDIGITALIDENTITYWALLET/Technical+Specifications).
+* Under eIDAS 2.0 (Regulation (EU) 2024/1183), EU member states must offer [European Digital Identity Wallets](https://ec.europa.eu/digital-building-blocks/sites/display/EUDIGITALIDENTITYWALLET/Technical+Specifications), and the wallet specifications are published.
 * Argentina has verifiable credentials as does India.
 * The Open Wallet Foundation strongly drives the portable identity and credentials agenda.&#x20;
-* Some US states also accept ISO standard mDL (mobile drivers license) credentials (e.g. California).
+* A growing number of US states issue ISO standard mDL (mobile driving licence) credentials, and the TSA accepts them at participating airport checkpoints.
 
 ### Benefits:&#x20;
 
@@ -63,7 +63,7 @@ It is only when we can reliably identify each individual that we can effectively
 
 1. [W3C standards](https://www.w3.org/TR/vc-data-model-2.0/) on VCs
 2. [Sunbird RC's wiki](https://docs.sunbirdrc.dev/help/comprehensive-overview-electronic-registries-and-verifiable-credentials/verifiable-credentials) on VCs
-3. [DIVOC](https://divoc.digit.org/platform/divocs-verifiable-certificate-features-2.0/creating-a-divoc-certificate/overview-of-divocs-digital-certificates) (a credentialling infra that has issued 20 m+ documents):&#x20;
+3. [DIVOC](https://divoc.digit.org/platform/divocs-verifiable-certificate-features-2.0/creating-a-divoc-certificate/overview-of-divocs-digital-certificates) (an open-source credentialling platform used at national scale):&#x20;
 4. Verifiable credentials [101 deck ](https://drive.google.com/file/d/1iTaME2obM6TFboGxJX6U4y0We2gD-Epg/view)
 
 

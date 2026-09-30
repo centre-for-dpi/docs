@@ -111,4 +111,4 @@ Bottom line: a key rotation at any level turns over keys, not credentials. The t
 * EU Trusted List Browser (view real lists): [https://eidas.ec.europa.eu/efda/tl-browser/](https://eidas.ec.europa.eu/efda/tl-browser/)&#x20;
 * ToIP TRQP v2.0 (Trust Over IP / LF Decentralized Trust); REST/HTTPS over OpenAPI 3.1.0.
 * PKI baseline: IETF RFC 5280, RFC 6960;&#x20;
-* eIDAS Reg. (EU) 910/2014 Art. 22; CID (EU) 2015/1505 as amended by (EU) 2025/2164.
+* eIDAS Reg. (EU) 910/2014 Art. 22, as amended by Reg. (EU) 2024/1183 (eIDAS 2.0); CID (EU) 2015/1505 as amended by (EU) 2025/2164.

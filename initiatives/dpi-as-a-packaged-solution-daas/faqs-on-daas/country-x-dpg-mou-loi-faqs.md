@@ -8,7 +8,7 @@ A. There are 4 parties involved in DaaS:&#x20;
 
 1. DaaS Country Partner - the Country department which is executing the DaaS package&#x20;
 2. DaaS DPG Partner - the DPG which is providing the DaaS product to be deployed in the country
-3. Service Provider(s) - the entity(ies) that will deploy, maintain and provide the technical support during the pilot of DaaS&#x20;
+3. Service Provider(s) - the entity(ies) that will deploy, maintain and provide the technical support during phase 1 of DaaS&#x20;
 4. Advisor - the partner covering all advisory ( managerial, technical, legal  etc)related to DaaS. For the first cohort, this will be the Centre for DPI. &#x20;
 
 These parties interact with each other in the following ways:&#x20;
@@ -21,10 +21,10 @@ These parties interact with each other in the following ways:&#x20;
 
 <mark style="background-color:orange;">Q. Why have we standardised a DaaS MoU at all for DPI Pilots across multiple countries and across multiple DPGs? Can’t we use an existing MoU template that may be country-specific or DPG specific?</mark>&#x20;
 
-A. The way DaaS pilots will scale in a safe and orderly manner across countries and various building blocks is via standardisation of both technical products as well as the legal and governance framework. The key advantages exist of leveraging a standard MoU are:&#x20;
+A. The way DaaS implementations will scale in a safe and orderly manner across countries and various building blocks is via standardisation of both technical products as well as the legal and governance framework. The key advantages exist of leveraging a standard MoU are:&#x20;
 
 1. **Accelerated Funding for Countries:** The MoUs have been crafted in a manner that builds comfort for funders and DPGs on various topics, such as data governance; institutional ownership; timelines, etc. Funding approval is expected to be faster with the standard DaaS MoU.&#x20;
-2. **Timely kick off of pilot:** Existing MOUs or agreements may contain custom formats or clauses that are different from the standard MOU language provided. This customisation could delay the approval cycles for the DPG counterpart and disrupt the fundamental target of DaaS which is rapid deployments of DPI pilots.&#x20;
+2. Timely kick off of phase 1: Existing MOUs or agreements may contain custom formats or clauses that are different from the standard MOU language provided. This customisation could delay the approval cycles for the DPG counterpart and disrupt the fundamental target of DaaS which is rapid deployment of DPI.&#x20;
 3. **Multi-DPI Scale Up Potential for Countries:** Once a DaaS MOU is signed, annexes to same MOU can be reused by the country for additional DPI blocks offered by the same DPG in the future. Once an MoU draft is approved, it becomes a precedent for other departments in the country to use the same draft to deploy DPI blocks offered by different DPGs in the future.
 4. However this is only a recommended option. In case a country, due to its legal and administrative contexts, require a different MOU, that can be considered by adding a country specific annexe
 
@@ -58,7 +58,7 @@ There are multiple reasons for this:&#x20;
 
 1. Countries are assured to get long-term support for open source software, including communications on sunset versions, backward compatibility upgrades for supported community versions, and community connections. This helps ensure that the product is always adhering to the latest technology standards and industry best practices.
 2. In the current DaaS design, funders can’t directly fund countries. Instead, funds are routed through the DPGs to DPG-trained and implementing service partners. In the future, there can be other models to route funds, and similar MoU templates will emerge.
-3. In this model, countries don’t have to go through time-consuming RFP routes to select implementation partners. They can quickly deploy DPI pilots to demonstrate proof of concept and proof of success within their own contexts. Post the pilot phase, countries are expected to identify long-term service partners as per countries processes.
+3. In this model, countries don’t have to go through time-consuming RFP routes to select implementation partners. They can quickly deploy phase 1 of DPI to demonstrate proof of concept and proof of success within their own contexts. After phase 1, countries are expected to identify long-term service partners as per countries processes.
 4. DaaS is about packaging policy, procurement, core product software, pre-built and configured solutions, and training resources. This MoU serves as a template to expedite rollout while maintaining an appropriate balance between speed and the protection of a country's independence and sovereignty.
 5. In the current design, Service Providers have a back-to-back agreement with DPGs to ensure all obligations are delivered through them. This arrangement keeps all 3 parties (country, DPG, and service provider) aligned on the same track and moving efficiently.&#x20;
 
@@ -70,7 +70,7 @@ A. The country owns the implementation. The data resides in servers , either on-
 
 
 
-<mark style="background-color:orange;">Q. How does this MoU protect against exogenous shocks, like a political or economic crisis that may prevent the progress of the pilot?</mark>&#x20;
+<mark style="background-color:orange;">Q. How does this MoU protect against exogenous shocks, like a political or economic crisis that may</mark> prevent the progress of phase 1?&#x20;
 
 A. This MOU allows parties to pause or terminate the engagement in the event of political unrest, a breakdown in public order, natural disasters, health or political emergencies, war or civil disorder, or any governmental action that renders the performance of the terms of this MoU impossible. This allows all parties to safely pause or exit the engagement with minimal collateral damage and, when appropriate, re-engage when the situation warrants.
 

@@ -51,7 +51,7 @@ Traditional Public Key Infrastructure (PKI) and DID-based systems both provide w
 #### **Identity Control**
 
 * **Traditional PKI**: Identities are issued by and dependent on third parties (CAs). The CA can revoke certificates unilaterally.
-* **DID**: Self-sovereign identity where individuals create and control their own identifiers. No external entity can revoke your DID.
+* **DID**: Self-sovereign identity where individuals create and control their own identifiers. No external entity can revoke your DID. Verifiers still decide which DIDs to trust, usually through a governed trust registry (see [Executing a Decentralised Trust Model](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/executing-a-decentralised-trust-model)).
 
 #### **Discovery Mechanism**
 

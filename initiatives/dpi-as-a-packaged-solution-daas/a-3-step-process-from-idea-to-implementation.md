@@ -1,8 +1,8 @@
 # 3️⃣ A 3-step process from idea to implementation!
 
-## <mark style="background-color:purple;">Piloting DPI via DaaS is now a simple 3-step process!</mark>&#x20;
+## Implementing phase 1 of DPI via DaaS is now a simple 3-step process!&#x20;
 
-1. Countries can choose the use case they want to pilot after reviewing the available products.
+1. Countries can choose the use case they want to start with after reviewing the available products.
 2. Have conversations with CDPI, DPGs, and ecosystem market players to understand and procure the DPI DaaS package.
 3. Configure it to their systems and infrastructure with the help of pre-trained Service providers who can support (along with the DPG) building local capacity for long term scale and sustainability of the DPI.
 

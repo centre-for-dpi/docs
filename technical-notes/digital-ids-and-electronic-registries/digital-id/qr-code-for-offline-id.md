@@ -12,7 +12,7 @@ QR codes are ubiquitous technologies that bridge the physical and digital worlds
 One of the primary challenges in QR code use is optimising the payload size to ensure efficient scanning and decoding. For online use cases, URLs with reference codes that redirect to an online service to complete the transaction work well.
 {% endhint %}
 
-This note calls out design and implementation best practices in identity and credential domain for **offline use of QR.** These principles are also applicable to other domains.
+This note calls out design and implementation best practices in identity and credential domain for **offline use of QR.** These principles are also applicable to other domains. Signed QR codes are one offline option. Verifiable credentials held in a wallet also verify offline, and ISO/IEC 18013-5 mdoc credentials use a QR code or NFC tap to start the session and then exchange data over Bluetooth Low Energy. See [Verifiable Credentials](https://docs.cdpi.dev/technical-notes/data-and-credentialing-infra/verifiable-credentials).
 
 ## Design Considerations
 

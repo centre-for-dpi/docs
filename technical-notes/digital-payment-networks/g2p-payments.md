@@ -16,7 +16,7 @@ A [G2P DPI](https://drive.google.com/file/d/1flSxkL9u5WLqo4Qw4mh_jRN6-bgAa8TN/vi
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-09-20 at 9.36.35 AM.png" alt=""><figcaption><p>There are 4 key building blocks to the DPI approach in solving for G2P </p></figcaption></figure>
 
-The Unique ID/eKYC layer allows for uniquely identifying and authenticating each individual within seconds, saving time + effort + leakages on both sides.
+The ID/eKYC layer allows for identifying and authenticating each individual within seconds, using any ID that can be authenticated (it does not need to be unique), saving time + effort + leakages on both sides.
 
 The ID Account Mapper connects an identifier to the individual's preferred store-of-value to receive the payments, facilitating secure transfer of funds.
 

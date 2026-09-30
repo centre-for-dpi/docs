@@ -27,6 +27,9 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 ### 3.1 eSign
 
 1. PKCS #10 - [standard](https://datatracker.ietf.org/doc/html/rfc2986)
+2. X.509 certificate and CRL profile (IETF RFC 5280) - [standard](https://datatracker.ietf.org/doc/html/rfc5280)
+3. ETSI advanced electronic signature formats: CAdES (EN 319 122), PAdES (EN 319 142) and XAdES (EN 319 132) - [standards](https://www.etsi.org/technologies/digital-signature)
+4. ETSI TS 119 612 trusted lists (used for EU eIDAS trust services) - [standard](https://www.etsi.org/deliver/etsi_ts/119600_119699/119612/)
 
 ### 3.2 Digital Data Sharing Consents
 
@@ -52,9 +55,14 @@ Centre for Digital Public Infrastructure (CDPI) curates open standards and speci
 
 ### 5.1 Verifiable Credentials Issuance
 
-1. W3C compliant issuance [standard](https://www.w3.org/TR/vc-data-model/) | implementation [guide](https://www.w3.org/TR/vc-imp-guide/) | draft issuance api [specs](https://w3c-ccg.github.io/vc-api/)
+1. W3C Verifiable Credentials Data Model 2.0 [standard](https://www.w3.org/TR/vc-data-model-2.0/) | implementation [guide](https://www.w3.org/TR/vc-imp-guide/) | draft issuance api [specs](https://w3c-ccg.github.io/vc-api/)
 2. ISO/IEC 18013-5 mobile driving licence (mDL/mdoc) - [standard](https://www.iso.org/standard/69084.html)
 3. G2P Connect issuance [docs](https://g2pconnect.cdpi.dev/protocol/interfaces/credentialing) | specs
+4. IETF SD-JWT VC - [specs](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/)
+5. OpenID for Verifiable Credential Issuance (OID4VCI) 1.0 - [specs](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
+6. OpenID for Verifiable Presentations (OID4VP) 1.0 - [specs](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
+7. W3C Decentralized Identifiers (DID) Core - [standard](https://www.w3.org/TR/did-core/)
+8. ISO/IEC 18013-7 mDL online presentation - [standard](https://www.iso.org/search.html?q=18013-7)
 
 #### **5.1.1 Reference Specs/Implementations:**
 

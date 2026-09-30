@@ -8,7 +8,7 @@ When we speak about ‘authentication’, we are referring to the ‘knowledge l
 
 ### Why:&#x20;
 
-As an economy grows, very often through the nudge provided by the DPI approach, a lot of new fintechs emerge in the market. They offer a variety of services like banks do, such as P2P/P2M payments, loans, bill payments etc. However, they have one stark difference: they are unregulated. This gives them the agility the banks lack to adapt to newer trends and technologies, but the unpredictability and volatility of creating systemic risk. Restricting their growth means stifling entrepreneurship and the economy. Conversely, allowing them to operate freely means more money leaving the formal banking system and going into unregulated hands. The solution to preventing both extremes lies in interoperable authentication.&#x20;
+As an economy grows, very often through the nudge provided by the DPI approach, a lot of new fintechs emerge in the market. They offer a variety of services like banks do, such as P2P/P2M payments, loans, bill payments etc. However, they have one stark difference: they are not banks. Many are licensed payment service providers, but they sit outside the prudential rules that apply to banks. This gives them the agility the banks lack to adapt to newer trends and technologies, but the unpredictability and volatility of creating systemic risk. Restricting their growth means stifling entrepreneurship and the economy. Conversely, allowing them to operate freely means more money leaving the formal banking system. The solution to preventing both extremes lies in interoperable authentication.&#x20;
 
 ### What:&#x20;
 

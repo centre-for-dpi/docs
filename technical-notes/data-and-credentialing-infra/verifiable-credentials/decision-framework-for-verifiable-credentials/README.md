@@ -18,7 +18,7 @@ We mapped 12 real-world use cases — from national ID and education to agricult
 
 #### 🗂️ Standards by Use Case
 
-An interactive reference covering all 13 use cases. Each card shows the recommended standards, the reasoning behind them, and the key technical and regulatory requirements — with indicators for privacy, interoperability, adoption maturity, and offline capability.
+An interactive reference covering all 12 use cases. Each card shows the recommended standards, the reasoning behind them, and the key technical and regulatory requirements — with indicators for privacy, interoperability, adoption maturity, and offline capability.
 
 [View Standards by Use Case](https://vc-use-cases.cdpi.dev/)
 

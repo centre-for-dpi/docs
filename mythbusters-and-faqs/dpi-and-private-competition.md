@@ -14,7 +14,7 @@ Every sport is played according to certain rules, and there are penalties for vi
 
 Not only does DPI allow for competition in the existing economy, it also creates new avenues for private-sector growth and innovation. The analogy commonly used is that DPI doesn’t just allow more people to eat from the pie, but it also increases the size of the pie so that everyone, including incumbents, gets a larger market share in ways they could not have previously imagined.
 
-DPI creates potential for competition at every level of its execution, adoption, and growth. For example, in Payments, the government attempts to build only when decades of market players trying to solve this problem have resulted in silos, exclusions and market failures. The government builds only the minimalistic rails, and not necessarily the applications (innovation layer). The market players can build their own apps on top of the rails (adoption layer). Once you build DPI in payments, it also unlocks other layers, such as lending, where a new playing field for market players (execution layer). <br>
+DPI creates potential for competition at every level of its execution, adoption, and growth. For example, in Payments, the government attempts to build only when decades of market players trying to solve this problem have resulted in silos, exclusions and market failures. The government builds only the minimalistic rails, and not necessarily the applications (innovation layer). The market players can build their own apps on top of the rails (adoption layer). Once you build DPI in payments, it also unlocks other layers, such as lending, which opens a new playing field for market players (innovation layer). <br>
 
 The layers of private participation (in more detail) are:
 

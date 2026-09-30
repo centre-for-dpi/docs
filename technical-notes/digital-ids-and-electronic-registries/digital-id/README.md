@@ -81,7 +81,7 @@ Governments can consider the following indicative suggestions as an inspiration 
    1. A recent high-quality photo and/or verified mobile number should be part of the ID database/registry.
    2. These two key ID attributes will enable robust verification and authentication capabilities.
 
-The ID authority should procure PKI certificates to issue Online Digital IDs through Auth/eKYC APIs and Offline Digital IDs through mobile wallet and eLocker applications.
+Where the trust model uses a Certificate Authority (CA), the ID authority can procure PKI certificates to issue Online Digital IDs through Auth/eKYC APIs and Offline Digital IDs through mobile wallet and eLocker applications. A CA is not a prerequisite for verifiable credentials: see [Executing a Decentralised Trust Model](https://docs.cdpi.dev/technical-notes/digital-ids-and-electronic-registries/electronic-signature-pki-and-trust-infra/executing-a-decentralised-trust-model).
 
 The ID authority should enable government and private ecosystem players to access Digital ID through APIs, self/assisted use, acceptance of digitally signed docs, cybersecurity and information security laws, user privacy laws, and related policies.
 

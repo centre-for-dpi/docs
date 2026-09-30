@@ -15,7 +15,7 @@ For example, when we speak about a Digital ID, they are not necessarily dependen
 | Has an email account and connectivity                                        | Can generate email-based one-time password (OTP)                                                                                       |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Mobile Device (feature phone or smartphone) with connectivity                | Mobile-based OTP                                                                                                                       |
-| Mobile Device without connectivity                                           | Offline XML authentication                                                                                                             |
+| Mobile Device without connectivity                                           | Offline signed QR code or verifiable credential presentation                                                                           |
 | No mobile devices or connectivity                                            | If verifier has a card reader: Smart Card authentication of a fingerprint stored on a chip (requires verifier to have a card reader)   |
 | No mobile devices or connectivity                                            | If verifier has a biometric reader: Fingerprint authentication with fingerprint reader                                                 |
 | A mobile device, but no connectivity and challenge with fingers/fingerprints | <p>If verifier has phone: Face authentication</p><p></p><p>If verifier has biometric reader: Iris authentication with iris scanner</p> |
@@ -33,12 +33,12 @@ Similarly, when we speak about interoperable digital payments as DPI, they are n
 
 Well-designed DPI is suited to diverse audiences with unique needs. It is important to note that the same DPI rails, using standard protocols, can cater to all sets of people and newer innovations can simply be added on top without needing to extensively change the underlying codes or protocols or building separate solutions for rural contexts or vulnerable populations (which tend to be under-maintained).
 
-Solutions built through the DPI approach are required to be:&#x20;
+Solutions built through the DPI approach follow the five [DPI Tech Architecture Principles](https://docs.cdpi.dev/the-dpi-wiki/dpi-tech-architecture-principles):&#x20;
 
-1. Minimalist&#x20;
-2. Modular
-3. Reusable&#x20;
-4. Federated&#x20;
-5. Secure
+1. Interoperability&#x20;
+2. Minimalist & Reusable Building Blocks
+3. Diverse, Inclusive Innovation&#x20;
+4. Federated & Decentralised by Design&#x20;
+5. Security & Privacy by Design
 
 This allows for inclusive innovation with diverse access methods to be easily built on top of the foundational rails.&#x20;

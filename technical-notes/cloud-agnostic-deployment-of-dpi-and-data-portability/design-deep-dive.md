@@ -4,7 +4,7 @@
 
 Think of Infrastructure as Code like a detailed architectural blueprint for a building. Just as the same blueprint can be handed to different construction companies to build the same structure, IaC definitions describe your infrastructure in a provider-neutral way that can be executed on any cloud platform. Modern IaC tools enable:
 
-**Declarative Infrastructure Definition**: Infrastructure requirements expressed in provider-neutral formats can be translated to provider-specific implementations through abstraction layers. Tools such as **Terraform, Pulumi, and Crossplane** allow teams to define infrastructure once and deploy across multiple targets.
+**Declarative Infrastructure Definition**: Infrastructure requirements expressed in provider-neutral formats can be translated to provider-specific implementations through abstraction layers. Tools such as OpenTofu, Terraform, Pulumi and Crossplane allow teams to define infrastructure once and deploy across multiple targets.
 
 **Repeatable Deployment Patterns**: One-click deployment capabilities, once limited to proprietary platforms, now extend to cloud-agnostic configurations. This democratises DPI deployment, allowing jurisdictions to stand up infrastructure rapidly while maintaining portability.
 
@@ -30,9 +30,9 @@ If containers solve the portability of applications, data portability is the har
 
 **Data Gravity**: As a dataset grows larger, it becomes increasingly expensive and time-consuming to move — much like how a growing library becomes harder to relocate. A national identity database with tens of millions of records creates a "gravitational pull" that attracts related processing to wherever the data physically resides. Architects should plan for this by designing systems where analytics and processing workloads can be deployed alongside the data, rather than assuming data can always move to the computation.
 
-| **Architectural Principle**      | **Enabling Standards & Frameworks**                             | **Key Tools**                                 |
-| -------------------------------- | --------------------------------------------------------------- | --------------------------------------------- |
-| Infrastructure as Code           | HCL (Terraform), YAML (Pulumi), Kubernetes manifests            | Terraform, Pulumi, Crossplane, Ansible        |
-| Containerization & Orchestration | Open Container Initiative (OCI), Kubernetes API, CNCF ecosystem | Kubernetes, Helm, Istio/Linkerd, ArgoCD       |
-| Data Layer Portability           | S3-compatible APIs, SQL standards, OpenTelemetry                | PostgreSQL, MinIO, Prometheus, Grafana        |
-| Security & Policy                | SPIFFE/SPIRE identity framework, Open Policy Agent              | OPA/Gatekeeper, HashiCorp Vault, Cert-Manager |
+| **Architectural Principle**      | **Enabling Standards & Frameworks**                             | **Key Tools**                                                                               |
+| -------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Infrastructure as Code           | HCL (Terraform), YAML (Pulumi), Kubernetes manifests            | OpenTofu, Terraform, Pulumi, Crossplane, Ansible                                            |
+| Containerization & Orchestration | Open Container Initiative (OCI), Kubernetes API, CNCF ecosystem | Kubernetes, Helm, Istio/Linkerd, ArgoCD                                                     |
+| Data Layer Portability           | S3-compatible APIs, SQL standards, OpenTelemetry                | PostgreSQL, S3-compatible object stores (e.g. Ceph, Garage, SeaweedFS), Prometheus, Grafana |
+| Security & Policy                | SPIFFE/SPIRE identity framework, Open Policy Agent              | OPA/Gatekeeper, OpenBao or HashiCorp Vault, Cert-Manager                                    |

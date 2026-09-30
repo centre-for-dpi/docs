@@ -24,9 +24,9 @@ Cash-Out: This process provides access to physical cash at the last mile, enabli
 
 ### How:&#x20;
 
-The cash-in cash-out system is based on a unique national identity system. Basically, the chosen people who are acting as these ‘micro-ATMs’ travel to the last mile populations, carrying a certain amount of money with them along with an authentication device. Any individual can simply provide their bank account name, national identity number, and biometrics to authenticate that information. Using this, the micro-ATM can access their bank information on their device.
+The cash-in cash-out system works with any national or functional ID that can be authenticated. The ID does not need to be unique. Basically, the chosen people who are acting as these ‘micro-ATMs’ travel to the last mile populations, carrying a certain amount of money with them along with an authentication device. Any individual can simply provide their bank account name, national identity number, and biometrics to authenticate that information. Using this, the micro-ATM can access their bank information on their device.
 
-On the backend, a financial address mapper links every unique national identity number to an individual’s bank accounts. Once the bank name is provided by the individual, the system can accurately connect to bank servers, find the match, and retrieve that data for the individual to use.
+On the backend, a financial address mapper links each national identity number to an individual’s bank accounts. Once the bank name is provided by the individual, the system can accurately connect to bank servers, find the match, and retrieve that data for the individual to use.
 
 Once again, by providing authentication through their biometrics, individuals can:
 
